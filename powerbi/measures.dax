@@ -1,11 +1,9 @@
-// Import reports/orders.csv from running python src/run.py
-// Table name: orders
-Total Orders = DISTINCTCOUNT(orders[order_id])
+// Import reports/orders.csv as orders. Set flags to Boolean.
+Total Orders = COUNTROWS(orders)
 Blocked Orders = CALCULATE(COUNTROWS(orders), orders[blocked] = TRUE())
-Blocked Order % = DIVIDE([Blocked Orders], [Total Orders])
-Ordered Units (Unblocked) = CALCULATE(SUM(orders[ordered_units]), orders[blocked] = FALSE())
+Ordered Units Unblocked = CALCULATE(SUM(orders[ordered_units]), orders[blocked] = FALSE())
 Fulfilled Units = SUM(orders[fulfilled_units])
-Unit Fill Rate = DIVIDE([Fulfilled Units], [Ordered Units (Unblocked)])
-On Time Orders = CALCULATE(COUNTROWS(orders), orders[delivery_delay_days] <= 0)
-On Time Order % = DIVIDE([On Time Orders], [Total Orders])
-// Synthetic demonstration only. A negative delivery delay represents early delivery.
+Unit Fill Rate = DIVIDE([Fulfilled Units], [Ordered Units Unblocked], 0)
+OTIF Orders = CALCULATE(COUNTROWS(orders), orders[on_time_in_full] = TRUE())
+OTIF Rate = DIVIDE([OTIF Orders], [Total Orders], 0)
+Shortage Orders = CALCULATE(COUNTROWS(orders), orders[shortage_units] > 0)
