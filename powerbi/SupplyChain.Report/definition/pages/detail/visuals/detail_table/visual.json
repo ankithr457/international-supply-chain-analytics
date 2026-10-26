@@ -1,0 +1,143 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "detail_table",
+  "position": {
+    "x": 24,
+    "y": 150,
+    "z": 0,
+    "height": 530,
+    "width": 1230,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "orders"
+                    }
+                  },
+                  "Property": "order_id"
+                }
+              },
+              "queryRef": "orders.order_id",
+              "nativeQueryRef": "order_id"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "orders"
+                    }
+                  },
+                  "Property": "warehouse"
+                }
+              },
+              "queryRef": "orders.warehouse",
+              "nativeQueryRef": "warehouse"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "orders"
+                    }
+                  },
+                  "Property": "status"
+                }
+              },
+              "queryRef": "orders.status",
+              "nativeQueryRef": "status"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "orders"
+                    }
+                  },
+                  "Property": "ordered_units"
+                }
+              },
+              "queryRef": "orders.ordered_units",
+              "nativeQueryRef": "ordered_units"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "orders"
+                    }
+                  },
+                  "Property": "fulfilled_units"
+                }
+              },
+              "queryRef": "orders.fulfilled_units",
+              "nativeQueryRef": "fulfilled_units"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "orders"
+                    }
+                  },
+                  "Property": "shortage_units"
+                }
+              },
+              "queryRef": "orders.shortage_units",
+              "nativeQueryRef": "shortage_units"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "orders"
+                    }
+                  },
+                  "Property": "delivery_delay_days"
+                }
+              },
+              "queryRef": "orders.delivery_delay_days",
+              "nativeQueryRef": "delivery_delay_days"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Order register'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

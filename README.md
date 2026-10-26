@@ -1,43 +1,72 @@
 # International Supply Chain Analytics
 
-Operations analytics portfolio by Ankith Ramesh Babu.
+Order fulfillment analysis across four warehouse regions, with an exception register, regional scorecards and strict on-time-in-full measurement.
 
-Identify blocked orders, stock shortages and delivery exceptions across Germany, Hong Kong, Taiwan and Malaysia.
+**Author:** Ankith Ramesh Babu  
+**Scope:** Independent case study using synthetic operational data
 
-All records are synthetic. This is an independent learning case study, with no employer data or live SAP connection.
+[Technical report](reports/project-report.pdf) · [Power BI project](powerbi/SupplyChain.pbip) · [Methodology](docs/methodology.md)
 
-## Quick start
-Requires Python 3.11 or newer. No third-party packages or credentials.
+![Dashboard overview](reports/figures/dashboard.png)
+
+## Results
+
+The baseline contains 1,200 orders: 106 blocked orders, 78.57% unit fill rate on unblocked demand, and 8.92% OTIF. The exception register contains 1,093 orders. Availability shortage appears on 753 orders, including 66 blocked orders, while 687 orders receive the primary status Stock shortage.
+
+These results describe the simulation, not an employer operation or measured business savings.
+
+## Deliverables
+
+- [14-page technical report](reports/project-report.pdf): methodology, results, actual dashboard screenshots, Power BI layout, code excerpts, validation and references.
+- [Offline HTML dashboard](reports/dashboard.html): warehouse filter, text search and filtered CSV export. Download the repository to open HTML locally.
+- [Warehouse scorecard](reports/warehouse_scorecard.csv): regional fulfillment and OTIF.
+- [Power BI source](powerbi/README.md): two report pages, visual definitions, typed semantic model and embedded dataset.
+- [Scenario evidence](reports/analysis.json): alternate-seed results.
+- [Validation record](docs/validation.json): browser and source validation scope.
+
+## Run
+
+Python 3.11 or newer. The analysis has no third-party dependencies.
 
 ```bash
 git clone https://github.com/ankithr457/international-supply-chain-analytics.git
 cd international-supply-chain-analytics
 python src/run.py
+python scripts/analyze.py
 python -m unittest discover -s tests -v
 ```
 
-Open `reports/dashboard.html` in a browser. It works offline. Filter by warehouse, search any field and export matching records. Top cards show the full dataset, while charts and tables follow filters.
+Open `reports/dashboard.html`. The HTML works offline. Cards display the full dataset. Chart and table filters apply to matching rows, and the CSV export includes every match.
 
-## Included outputs
-`reports/` contains orders.csv, exception_register.csv, warehouse_scorecard.csv, kpis.json, dashboard.html.
+## Power BI
 
-The default run creates 1,200 orders with seed 42.
+Open `powerbi/SupplyChain.pbip` in Power BI Desktop and refresh the embedded data. No local CSV path is required. The report and model are provided as editable source. JSON schemas, embedded-data identity and visual-field references are validated. Desktop rendering and DAX execution have not been tested here. A PBIX binary is not included.
+
+Regenerate the embedded source after an analysis change:
+
+```bash
+python scripts/build_powerbi.py
+```
+
+## Analysis parameters
 
 ```bash
 python src/run.py --orders 2400 --seed 7 --output reports/scenario
 ```
 
-## Project structure
-- `src/run.py`: deterministic simulation, analysis and command-line interface.
-- `src/reporting.py`: CSV exports and self-contained dashboard.
-- `tests/`: calculation, edge case, reproducibility and report integration checks.
-- `docs/methodology.md`: formulas, assumptions and limits.
-- `docs/interview-guide.md`: technical explanation and practice questions.
-- `powerbi/`: matching DAX measures and import instructions.
+## Repository structure
 
+| Directory | Contents |
+| --- | --- |
+| `src/` | Simulation, calculations, CSV and HTML generation |
+| `scripts/` | Scenario analysis, Power BI and PDF report authoring |
+| `tests/` | Business rules, edge cases, reproducibility and model checks |
+| `reports/` | Baseline outputs, technical report and dashboard screenshots |
+| `powerbi/` | PBIP, PBIR, semantic model and DAX measures |
+| `docs/` | Methodology and validation record |
 
-## Results and scope
-Default: 106 blocked orders, 78.57% unblocked unit fill rate and 8.92% OTIF.
-These numbers describe the included simulation. They do not measure real company performance or validated savings.
+## Assumptions
 
-Native Power BI `.pbix` and KNIME `.knwf` files are not included. Guides and DAX have not been executed in those desktop applications.
+Inventory is a per-order snapshot rather than a shared stock ledger. Delivery delays and blocks are independently sampled. Unit fill excludes blocked demand, while OTIF uses all orders.
+
+The project does not connect to SAP or execute operational transactions. 

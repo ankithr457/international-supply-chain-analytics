@@ -1,0 +1,35 @@
+{
+  "status": {
+    "Blocked": 106,
+    "Stock shortage": 687,
+    "Late": 300,
+    "On track": 107
+  },
+  "ordered_unblocked": 67089,
+  "fulfilled": 52713,
+  "otif_orders": 107,
+  "shortage_units": 15766,
+  "scenario": [
+    {
+      "seed": 7,
+      "orders": 1200,
+      "blocked_orders": 127,
+      "fill_rate": 0.7826,
+      "otif_rate": 0.0867
+    },
+    {
+      "seed": 42,
+      "orders": 1200,
+      "blocked_orders": 106,
+      "fill_rate": 0.7857,
+      "otif_rate": 0.0892
+    },
+    {
+      "seed": 99,
+      "orders": 1200,
+      "blocked_orders": 124,
+      "fill_rate": 0.7932,
+      "otif_rate": 0.0975
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-"""Reproducible simulated ERP logistics case study. No real SAP integration."""
+"""Reproducible order fulfillment and exception analysis."""
 from pathlib import Path
 import random
 import csv

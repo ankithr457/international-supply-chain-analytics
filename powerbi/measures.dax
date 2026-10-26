@@ -1,9 +1,12 @@
-// Import reports/orders.csv as orders. Set flags to Boolean.
+// Measures used by the embedded semantic model.
+
 Total Orders = COUNTROWS(orders)
+
 Blocked Orders = CALCULATE(COUNTROWS(orders), orders[blocked] = TRUE())
-Ordered Units Unblocked = CALCULATE(SUM(orders[ordered_units]), orders[blocked] = FALSE())
-Fulfilled Units = SUM(orders[fulfilled_units])
-Unit Fill Rate = DIVIDE([Fulfilled Units], [Ordered Units Unblocked], 0)
-OTIF Orders = CALCULATE(COUNTROWS(orders), orders[on_time_in_full] = TRUE())
-OTIF Rate = DIVIDE([OTIF Orders], [Total Orders], 0)
-Shortage Orders = CALCULATE(COUNTROWS(orders), orders[shortage_units] > 0)
+
+Unit Fill Rate = DIVIDE(SUM(orders[fulfilled_units]), CALCULATE(SUM(orders[ordered_units]), orders[blocked] = FALSE()), 0)
+
+OTIF Rate = DIVIDE(CALCULATE(COUNTROWS(orders), orders[on_time_in_full] = TRUE()), COUNTROWS(orders), 0)
+
+Shortage Units = SUM(orders[shortage_units])
+
