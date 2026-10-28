@@ -9,6 +9,7 @@ class TestSupplyChain(unittest.TestCase):
         self.assertEqual(simulate(20), simulate(20))
     def test_valid_metrics(self):
         m = metrics(simulate())
+        self.assertEqual({row["warehouse"] for row in simulate()}, {"Germany", "Czech Republic", "India"})
         self.assertEqual(m['orders'], 1200)
         self.assertTrue(0 <= m['fill_rate'] <= 1)
         self.assertTrue(0 <= m['otif_rate'] <= 1)

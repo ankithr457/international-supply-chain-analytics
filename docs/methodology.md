@@ -11,4 +11,4 @@
 Review blocked orders first for administrative release, then shortages for allocation, then late orders for transport follow-up. The scorecard compares regions under this simulation, not real service quality.
 
 ## Modeling Limitations
-The uniform delay distribution deliberately creates exceptions. The 8.92% default OTIF is a simulation output, not an industry benchmark. No sales values, cost savings or business impact are claimed. Inventory is not shared across orders. Simulated delay is not proof of an actual delivery.
+The uniform delay distribution deliberately creates exceptions. The 9.42% default OTIF is a simulation output, not an industry benchmark. No sales values, cost savings or business impact are claimed. Inventory is not shared across orders. Simulated delay is not proof of an actual delivery.
