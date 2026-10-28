@@ -6,7 +6,7 @@ import json
 import argparse
 from reporting import write_csv, dashboard
 
-REGIONS = ("Germany", "Hong Kong", "Taiwan", "Malaysia")
+REGIONS = ("Germany", "Czech Republic", "India")
 
 def simulate(n=1200, seed=42):
     if n < 0:
@@ -56,7 +56,7 @@ def build(output, n=1200, seed=42):
         scorecard.append({"warehouse": warehouse, **m})
     write_csv(output / "warehouse_scorecard.csv", scorecard)
     (output / "kpis.json").write_text(json.dumps(kpis, indent=2) + "\n")
-    dashboard(output / "dashboard.html", "International Supply Chain Analytics", "Order exceptions, stock availability and simulated on-time-in-full performance across four regions.",
+    dashboard(output / "dashboard.html", "International Supply Chain Analytics", "Order exceptions, stock availability and simulated on-time-in-full performance across three regions.",
               {"Orders": n, "Blocked orders": kpis["blocked_orders"], "Unit fill rate": f"{kpis['fill_rate']:.1%}", "On time in full": f"{kpis['otif_rate']:.1%}"}, rows, "warehouse", "shortage_units")
     return kpis
 

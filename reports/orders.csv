@@ -1,1201 +1,1201 @@
 order_id,warehouse,ordered_units,available_units,blocked,delivery_delay_days,fulfilled_units,shortage_units,on_time_in_full,status
-SO00001,Hong Kong,82,51,True,2,0,31,False,Blocked
-SO00002,Germany,29,1,False,8,1,28,False,Stock shortage
-SO00003,Hong Kong,76,85,True,-1,0,0,False,Blocked
-SO00004,Hong Kong,30,49,False,6,30,0,False,Late
-SO00005,Taiwan,92,116,False,5,92,0,False,Late
-SO00006,Malaysia,104,59,False,0,59,45,False,Stock shortage
-SO00007,Germany,44,34,False,3,34,10,False,Stock shortage
-SO00008,Taiwan,12,15,False,3,12,0,False,Late
-SO00009,Germany,104,64,False,6,64,40,False,Stock shortage
-SO00010,Taiwan,119,122,True,2,0,0,False,Blocked
-SO00011,Hong Kong,74,53,False,-2,53,21,False,Stock shortage
-SO00012,Germany,99,91,False,1,91,8,False,Stock shortage
-SO00013,Hong Kong,49,39,False,3,39,10,False,Stock shortage
-SO00014,Germany,48,48,False,2,48,0,False,Late
-SO00015,Hong Kong,78,54,False,1,54,24,False,Stock shortage
-SO00016,Hong Kong,60,63,False,8,60,0,False,Late
-SO00017,Hong Kong,88,84,False,-2,84,4,False,Stock shortage
-SO00018,Taiwan,106,65,False,4,65,41,False,Stock shortage
-SO00019,Taiwan,9,0,False,7,0,9,False,Stock shortage
-SO00020,Malaysia,28,46,False,8,28,0,False,Late
-SO00021,Taiwan,19,7,False,6,7,12,False,Stock shortage
-SO00022,Taiwan,96,105,False,4,96,0,False,Late
-SO00023,Germany,29,1,False,-1,1,28,False,Stock shortage
-SO00024,Malaysia,111,80,False,0,80,31,False,Stock shortage
-SO00025,Malaysia,77,40,False,7,40,37,False,Stock shortage
-SO00026,Germany,68,55,False,-2,55,13,False,Stock shortage
-SO00027,Taiwan,88,111,False,8,88,0,False,Late
-SO00028,Germany,15,7,False,5,7,8,False,Stock shortage
-SO00029,Germany,93,81,False,0,81,12,False,Stock shortage
-SO00030,Hong Kong,112,105,False,6,105,7,False,Stock shortage
-SO00031,Germany,20,22,False,6,20,0,False,Late
-SO00032,Taiwan,77,73,False,-1,73,4,False,Stock shortage
-SO00033,Germany,113,107,False,1,107,6,False,Stock shortage
-SO00034,Hong Kong,11,28,False,6,11,0,False,Late
-SO00035,Taiwan,17,32,False,0,17,0,True,On track
-SO00036,Hong Kong,68,77,False,6,68,0,False,Late
-SO00037,Taiwan,92,86,False,8,86,6,False,Stock shortage
-SO00038,Hong Kong,57,78,False,1,57,0,False,Late
-SO00039,Hong Kong,9,7,True,6,0,2,False,Blocked
-SO00040,Germany,76,59,True,8,0,17,False,Blocked
-SO00041,Germany,30,0,False,3,0,30,False,Stock shortage
-SO00042,Hong Kong,66,51,False,5,51,15,False,Stock shortage
-SO00043,Malaysia,70,41,False,7,41,29,False,Stock shortage
-SO00044,Germany,32,47,False,1,32,0,False,Late
-SO00045,Malaysia,13,23,False,4,13,0,False,Late
-SO00046,Germany,111,72,False,8,72,39,False,Stock shortage
-SO00047,Hong Kong,8,14,False,-1,8,0,True,On track
-SO00048,Malaysia,25,4,False,0,4,21,False,Stock shortage
-SO00049,Malaysia,24,14,False,-1,14,10,False,Stock shortage
-SO00050,Germany,104,129,False,8,104,0,False,Late
-SO00051,Malaysia,12,0,False,5,0,12,False,Stock shortage
-SO00052,Malaysia,28,34,False,0,28,0,True,On track
-SO00053,Taiwan,1,5,False,5,1,0,False,Late
-SO00054,Hong Kong,55,72,False,2,55,0,False,Late
-SO00055,Germany,8,32,True,3,0,0,False,Blocked
-SO00056,Hong Kong,7,23,False,6,7,0,False,Late
-SO00057,Germany,8,28,True,0,0,0,False,Blocked
-SO00058,Malaysia,77,40,False,1,40,37,False,Stock shortage
-SO00059,Germany,16,2,False,-2,2,14,False,Stock shortage
-SO00060,Hong Kong,54,75,False,2,54,0,False,Late
-SO00061,Hong Kong,86,81,False,4,81,5,False,Stock shortage
-SO00062,Germany,86,79,False,-1,79,7,False,Stock shortage
-SO00063,Taiwan,59,26,True,1,0,33,False,Blocked
-SO00064,Taiwan,17,16,False,1,16,1,False,Stock shortage
-SO00065,Taiwan,37,12,False,6,12,25,False,Stock shortage
-SO00066,Taiwan,79,101,True,6,0,0,False,Blocked
-SO00067,Taiwan,120,88,False,0,88,32,False,Stock shortage
-SO00068,Taiwan,15,0,False,0,0,15,False,Stock shortage
-SO00069,Taiwan,37,18,False,1,18,19,False,Stock shortage
-SO00070,Germany,65,82,False,-2,65,0,True,On track
-SO00071,Germany,82,91,False,-2,82,0,True,On track
-SO00072,Hong Kong,43,14,False,2,14,29,False,Stock shortage
-SO00073,Germany,95,106,False,4,95,0,False,Late
-SO00074,Germany,15,0,False,0,0,15,False,Stock shortage
-SO00075,Malaysia,107,109,False,0,107,0,True,On track
-SO00076,Taiwan,17,0,False,-2,0,17,False,Stock shortage
-SO00077,Malaysia,27,13,False,3,13,14,False,Stock shortage
-SO00078,Hong Kong,80,54,False,1,54,26,False,Stock shortage
-SO00079,Hong Kong,103,80,False,-2,80,23,False,Stock shortage
-SO00080,Hong Kong,95,92,False,4,92,3,False,Stock shortage
-SO00081,Malaysia,35,10,False,-1,10,25,False,Stock shortage
-SO00082,Hong Kong,112,71,False,1,71,41,False,Stock shortage
-SO00083,Hong Kong,105,118,False,1,105,0,False,Late
-SO00084,Germany,4,0,False,2,0,4,False,Stock shortage
-SO00085,Malaysia,99,89,False,6,89,10,False,Stock shortage
-SO00086,Germany,87,110,False,-2,87,0,True,On track
-SO00087,Germany,113,101,False,2,101,12,False,Stock shortage
-SO00088,Malaysia,14,24,False,3,14,0,False,Late
-SO00089,Hong Kong,78,98,False,7,78,0,False,Late
-SO00090,Hong Kong,33,0,False,-2,0,33,False,Stock shortage
-SO00091,Taiwan,47,57,True,8,0,0,False,Blocked
-SO00092,Taiwan,80,75,False,-1,75,5,False,Stock shortage
-SO00093,Malaysia,65,59,False,3,59,6,False,Stock shortage
-SO00094,Malaysia,90,82,False,1,82,8,False,Stock shortage
-SO00095,Taiwan,86,89,False,0,86,0,True,On track
-SO00096,Taiwan,52,77,False,2,52,0,False,Late
-SO00097,Taiwan,27,37,False,7,27,0,False,Late
-SO00098,Malaysia,60,71,False,1,60,0,False,Late
-SO00099,Taiwan,102,78,False,2,78,24,False,Stock shortage
-SO00100,Hong Kong,12,0,False,1,0,12,False,Stock shortage
-SO00101,Germany,19,0,True,5,0,19,False,Blocked
-SO00102,Hong Kong,59,67,False,7,59,0,False,Late
-SO00103,Hong Kong,92,96,False,1,92,0,False,Late
-SO00104,Malaysia,84,39,False,-1,39,45,False,Stock shortage
-SO00105,Malaysia,29,6,False,6,6,23,False,Stock shortage
-SO00106,Malaysia,7,0,False,-1,0,7,False,Stock shortage
-SO00107,Taiwan,18,32,False,6,18,0,False,Late
-SO00108,Malaysia,97,108,False,6,97,0,False,Late
-SO00109,Malaysia,107,132,False,0,107,0,True,On track
-SO00110,Taiwan,58,46,False,8,46,12,False,Stock shortage
-SO00111,Taiwan,99,120,False,1,99,0,False,Late
-SO00112,Taiwan,57,21,False,1,21,36,False,Stock shortage
-SO00113,Hong Kong,43,38,False,-1,38,5,False,Stock shortage
-SO00114,Hong Kong,20,4,False,0,4,16,False,Stock shortage
-SO00115,Malaysia,9,17,False,6,9,0,False,Late
-SO00116,Malaysia,54,16,False,4,16,38,False,Stock shortage
-SO00117,Malaysia,116,73,False,7,73,43,False,Stock shortage
-SO00118,Malaysia,62,17,False,2,17,45,False,Stock shortage
-SO00119,Hong Kong,110,118,False,6,110,0,False,Late
-SO00120,Germany,63,46,False,5,46,17,False,Stock shortage
-SO00121,Hong Kong,50,48,False,4,48,2,False,Stock shortage
-SO00122,Germany,108,122,False,7,108,0,False,Late
-SO00123,Germany,117,122,False,8,117,0,False,Late
-SO00124,Hong Kong,11,20,False,5,11,0,False,Late
-SO00125,Malaysia,7,0,False,1,0,7,False,Stock shortage
-SO00126,Taiwan,42,40,False,4,40,2,False,Stock shortage
-SO00127,Malaysia,97,105,False,-1,97,0,True,On track
-SO00128,Hong Kong,3,27,True,3,0,0,False,Blocked
-SO00129,Germany,84,47,False,8,47,37,False,Stock shortage
-SO00130,Germany,97,55,False,1,55,42,False,Stock shortage
-SO00131,Germany,80,54,False,5,54,26,False,Stock shortage
-SO00132,Taiwan,73,55,False,2,55,18,False,Stock shortage
-SO00133,Taiwan,22,0,False,0,0,22,False,Stock shortage
-SO00134,Malaysia,14,0,False,7,0,14,False,Stock shortage
-SO00135,Hong Kong,51,31,True,8,0,20,False,Blocked
-SO00136,Germany,14,7,False,7,7,7,False,Stock shortage
-SO00137,Taiwan,102,62,False,4,62,40,False,Stock shortage
-SO00138,Malaysia,9,28,False,-2,9,0,True,On track
-SO00139,Malaysia,106,123,False,3,106,0,False,Late
-SO00140,Taiwan,91,65,False,6,65,26,False,Stock shortage
-SO00141,Malaysia,79,102,False,5,79,0,False,Late
-SO00142,Germany,106,95,False,1,95,11,False,Stock shortage
-SO00143,Malaysia,36,48,False,5,36,0,False,Late
-SO00144,Hong Kong,44,2,False,3,2,42,False,Stock shortage
-SO00145,Taiwan,63,45,False,2,45,18,False,Stock shortage
-SO00146,Hong Kong,36,26,False,6,26,10,False,Stock shortage
-SO00147,Hong Kong,11,0,False,5,0,11,False,Stock shortage
-SO00148,Malaysia,89,104,False,5,89,0,False,Late
-SO00149,Malaysia,102,59,False,1,59,43,False,Stock shortage
-SO00150,Taiwan,89,75,False,7,75,14,False,Stock shortage
-SO00151,Taiwan,61,86,False,4,61,0,False,Late
-SO00152,Hong Kong,46,59,False,2,46,0,False,Late
-SO00153,Hong Kong,16,0,False,6,0,16,False,Stock shortage
-SO00154,Taiwan,25,7,False,2,7,18,False,Stock shortage
-SO00155,Hong Kong,13,0,False,3,0,13,False,Stock shortage
-SO00156,Taiwan,39,0,False,0,0,39,False,Stock shortage
-SO00157,Malaysia,6,0,False,0,0,6,False,Stock shortage
-SO00158,Malaysia,14,0,False,5,0,14,False,Stock shortage
-SO00159,Taiwan,57,55,False,-2,55,2,False,Stock shortage
-SO00160,Malaysia,111,127,False,-1,111,0,True,On track
-SO00161,Germany,63,27,False,8,27,36,False,Stock shortage
-SO00162,Germany,20,0,False,2,0,20,False,Stock shortage
-SO00163,Hong Kong,32,2,False,4,2,30,False,Stock shortage
-SO00164,Taiwan,100,121,False,5,100,0,False,Late
-SO00165,Germany,111,120,False,7,111,0,False,Late
-SO00166,Hong Kong,79,46,False,1,46,33,False,Stock shortage
-SO00167,Germany,34,0,False,0,0,34,False,Stock shortage
-SO00168,Malaysia,21,0,False,7,0,21,False,Stock shortage
-SO00169,Malaysia,38,0,False,2,0,38,False,Stock shortage
-SO00170,Hong Kong,10,0,False,8,0,10,False,Stock shortage
-SO00171,Hong Kong,55,24,False,8,24,31,False,Stock shortage
-SO00172,Germany,117,106,False,-1,106,11,False,Stock shortage
-SO00173,Taiwan,22,16,False,7,16,6,False,Stock shortage
-SO00174,Malaysia,57,27,False,2,27,30,False,Stock shortage
-SO00175,Germany,35,54,False,5,35,0,False,Late
-SO00176,Taiwan,77,37,False,3,37,40,False,Stock shortage
-SO00177,Germany,4,0,False,8,0,4,False,Stock shortage
-SO00178,Malaysia,98,87,False,0,87,11,False,Stock shortage
-SO00179,Malaysia,67,78,False,0,67,0,True,On track
-SO00180,Taiwan,82,99,False,5,82,0,False,Late
-SO00181,Hong Kong,53,50,False,-1,50,3,False,Stock shortage
-SO00182,Malaysia,43,50,False,2,43,0,False,Late
-SO00183,Taiwan,105,130,True,-1,0,0,False,Blocked
-SO00184,Germany,33,29,False,4,29,4,False,Stock shortage
-SO00185,Hong Kong,85,109,False,-2,85,0,True,On track
-SO00186,Malaysia,67,68,False,5,67,0,False,Late
-SO00187,Hong Kong,98,59,False,6,59,39,False,Stock shortage
-SO00188,Germany,119,110,False,5,110,9,False,Stock shortage
-SO00189,Germany,4,0,False,2,0,4,False,Stock shortage
-SO00190,Malaysia,71,78,False,-1,71,0,True,On track
-SO00191,Taiwan,16,0,False,2,0,16,False,Stock shortage
-SO00192,Malaysia,54,70,False,1,54,0,False,Late
-SO00193,Hong Kong,71,44,False,7,44,27,False,Stock shortage
-SO00194,Taiwan,111,74,False,4,74,37,False,Stock shortage
-SO00195,Taiwan,120,139,False,-2,120,0,True,On track
-SO00196,Malaysia,93,86,False,7,86,7,False,Stock shortage
-SO00197,Taiwan,111,85,False,5,85,26,False,Stock shortage
-SO00198,Malaysia,43,68,False,4,43,0,False,Late
-SO00199,Malaysia,120,116,False,1,116,4,False,Stock shortage
-SO00200,Malaysia,30,37,True,5,0,0,False,Blocked
-SO00201,Hong Kong,50,24,False,-2,24,26,False,Stock shortage
-SO00202,Germany,65,62,False,5,62,3,False,Stock shortage
-SO00203,Malaysia,68,81,True,0,0,0,False,Blocked
-SO00204,Taiwan,112,86,True,2,0,26,False,Blocked
-SO00205,Malaysia,80,85,False,3,80,0,False,Late
-SO00206,Germany,41,58,False,-2,41,0,True,On track
-SO00207,Malaysia,31,22,False,-1,22,9,False,Stock shortage
-SO00208,Germany,13,0,False,2,0,13,False,Stock shortage
-SO00209,Taiwan,6,2,False,2,2,4,False,Stock shortage
-SO00210,Malaysia,48,58,False,6,48,0,False,Late
-SO00211,Malaysia,73,51,False,-1,51,22,False,Stock shortage
-SO00212,Hong Kong,80,65,False,7,65,15,False,Stock shortage
-SO00213,Taiwan,30,44,False,5,30,0,False,Late
-SO00214,Taiwan,86,42,False,5,42,44,False,Stock shortage
-SO00215,Taiwan,87,111,False,5,87,0,False,Late
-SO00216,Taiwan,76,69,False,4,69,7,False,Stock shortage
-SO00217,Malaysia,59,52,False,4,52,7,False,Stock shortage
-SO00218,Taiwan,14,0,False,3,0,14,False,Stock shortage
-SO00219,Malaysia,90,82,True,8,0,8,False,Blocked
-SO00220,Germany,36,0,False,8,0,36,False,Stock shortage
-SO00221,Hong Kong,117,135,False,2,117,0,False,Late
-SO00222,Taiwan,78,78,False,1,78,0,False,Late
-SO00223,Germany,87,59,False,8,59,28,False,Stock shortage
-SO00224,Hong Kong,40,51,True,3,0,0,False,Blocked
-SO00225,Hong Kong,12,4,False,4,4,8,False,Stock shortage
-SO00226,Taiwan,26,0,False,3,0,26,False,Stock shortage
-SO00227,Taiwan,107,83,False,5,83,24,False,Stock shortage
-SO00228,Germany,96,94,False,5,94,2,False,Stock shortage
-SO00229,Malaysia,19,2,False,8,2,17,False,Stock shortage
-SO00230,Germany,109,110,False,4,109,0,False,Late
-SO00231,Taiwan,34,57,False,3,34,0,False,Late
-SO00232,Germany,75,78,False,3,75,0,False,Late
-SO00233,Taiwan,87,71,False,7,71,16,False,Stock shortage
-SO00234,Malaysia,118,101,False,8,101,17,False,Stock shortage
-SO00235,Hong Kong,117,110,False,-1,110,7,False,Stock shortage
-SO00236,Germany,6,0,False,5,0,6,False,Stock shortage
-SO00237,Malaysia,13,0,False,0,0,13,False,Stock shortage
-SO00238,Malaysia,59,61,False,6,59,0,False,Late
-SO00239,Germany,76,50,False,8,50,26,False,Stock shortage
-SO00240,Germany,107,124,False,2,107,0,False,Late
-SO00241,Hong Kong,89,91,False,5,89,0,False,Late
-SO00242,Taiwan,110,111,False,8,110,0,False,Late
-SO00243,Hong Kong,70,70,True,2,0,0,False,Blocked
-SO00244,Germany,16,29,False,1,16,0,False,Late
-SO00245,Hong Kong,7,4,False,0,4,3,False,Stock shortage
-SO00246,Hong Kong,9,34,False,1,9,0,False,Late
-SO00247,Germany,43,16,False,7,16,27,False,Stock shortage
-SO00248,Taiwan,36,9,False,6,9,27,False,Stock shortage
-SO00249,Hong Kong,103,80,False,-2,80,23,False,Stock shortage
-SO00250,Taiwan,2,2,False,1,2,0,False,Late
-SO00251,Malaysia,3,0,False,0,0,3,False,Stock shortage
-SO00252,Malaysia,68,37,False,5,37,31,False,Stock shortage
-SO00253,Malaysia,100,101,False,-1,100,0,True,On track
-SO00254,Taiwan,65,48,False,-2,48,17,False,Stock shortage
-SO00255,Malaysia,59,17,True,5,0,42,False,Blocked
-SO00256,Germany,55,23,False,5,23,32,False,Stock shortage
-SO00257,Germany,116,81,False,0,81,35,False,Stock shortage
-SO00258,Taiwan,17,7,False,7,7,10,False,Stock shortage
-SO00259,Malaysia,49,71,False,6,49,0,False,Late
-SO00260,Hong Kong,13,0,False,8,0,13,False,Stock shortage
-SO00261,Taiwan,56,68,False,4,56,0,False,Late
-SO00262,Taiwan,106,119,False,-1,106,0,True,On track
-SO00263,Hong Kong,55,50,False,3,50,5,False,Stock shortage
-SO00264,Germany,88,103,True,-1,0,0,False,Blocked
-SO00265,Hong Kong,56,23,False,3,23,33,False,Stock shortage
-SO00266,Taiwan,72,34,False,6,34,38,False,Stock shortage
-SO00267,Malaysia,86,56,False,8,56,30,False,Stock shortage
-SO00268,Taiwan,112,73,False,7,73,39,False,Stock shortage
-SO00269,Hong Kong,46,14,False,1,14,32,False,Stock shortage
-SO00270,Taiwan,85,101,False,-1,85,0,True,On track
-SO00271,Hong Kong,109,111,False,2,109,0,False,Late
-SO00272,Germany,104,113,False,7,104,0,False,Late
-SO00273,Taiwan,78,67,True,2,0,11,False,Blocked
-SO00274,Hong Kong,118,116,False,0,116,2,False,Stock shortage
-SO00275,Germany,73,79,True,8,0,0,False,Blocked
-SO00276,Malaysia,12,34,False,4,12,0,False,Late
-SO00277,Germany,44,19,False,3,19,25,False,Stock shortage
-SO00278,Germany,114,75,False,7,75,39,False,Stock shortage
-SO00279,Malaysia,87,52,False,8,52,35,False,Stock shortage
-SO00280,Germany,63,74,False,1,63,0,False,Late
-SO00281,Malaysia,45,55,False,8,45,0,False,Late
-SO00282,Germany,68,62,True,4,0,6,False,Blocked
-SO00283,Hong Kong,1,0,False,1,0,1,False,Stock shortage
-SO00284,Germany,98,85,False,-1,85,13,False,Stock shortage
-SO00285,Hong Kong,64,74,False,4,64,0,False,Late
-SO00286,Malaysia,65,65,True,-2,0,0,False,Blocked
-SO00287,Malaysia,3,16,False,3,3,0,False,Late
-SO00288,Taiwan,74,80,False,4,74,0,False,Late
-SO00289,Hong Kong,15,21,True,3,0,0,False,Blocked
-SO00290,Germany,103,116,False,3,103,0,False,Late
-SO00291,Malaysia,56,24,False,7,24,32,False,Stock shortage
-SO00292,Taiwan,68,33,False,2,33,35,False,Stock shortage
-SO00293,Germany,29,26,False,-1,26,3,False,Stock shortage
-SO00294,Taiwan,68,88,False,3,68,0,False,Late
-SO00295,Taiwan,94,67,False,0,67,27,False,Stock shortage
-SO00296,Germany,26,3,False,8,3,23,False,Stock shortage
-SO00297,Malaysia,23,41,False,7,23,0,False,Late
-SO00298,Taiwan,88,84,False,8,84,4,False,Stock shortage
-SO00299,Taiwan,20,31,True,5,0,0,False,Blocked
-SO00300,Germany,102,92,False,3,92,10,False,Stock shortage
-SO00301,Taiwan,40,54,False,-2,40,0,True,On track
-SO00302,Malaysia,107,98,True,-1,0,9,False,Blocked
-SO00303,Malaysia,60,85,False,-2,60,0,True,On track
-SO00304,Hong Kong,117,96,False,5,96,21,False,Stock shortage
-SO00305,Germany,8,20,False,3,8,0,False,Late
-SO00306,Malaysia,65,42,True,5,0,23,False,Blocked
-SO00307,Taiwan,68,89,False,3,68,0,False,Late
-SO00308,Germany,118,109,False,3,109,9,False,Stock shortage
-SO00309,Malaysia,102,99,True,-1,0,3,False,Blocked
-SO00310,Hong Kong,37,24,False,8,24,13,False,Stock shortage
-SO00311,Taiwan,43,8,False,0,8,35,False,Stock shortage
-SO00312,Taiwan,40,45,False,-1,40,0,True,On track
-SO00313,Hong Kong,72,75,False,3,72,0,False,Late
-SO00314,Malaysia,86,108,False,8,86,0,False,Late
-SO00315,Hong Kong,66,67,True,2,0,0,False,Blocked
-SO00316,Hong Kong,28,26,False,5,26,2,False,Stock shortage
-SO00317,Germany,29,1,False,2,1,28,False,Stock shortage
-SO00318,Germany,65,89,False,6,65,0,False,Late
-SO00319,Hong Kong,85,83,False,7,83,2,False,Stock shortage
-SO00320,Hong Kong,77,80,False,0,77,0,True,On track
-SO00321,Hong Kong,93,104,True,3,0,0,False,Blocked
-SO00322,Hong Kong,57,48,False,5,48,9,False,Stock shortage
-SO00323,Hong Kong,69,54,False,5,54,15,False,Stock shortage
-SO00324,Malaysia,48,59,False,2,48,0,False,Late
-SO00325,Hong Kong,65,87,False,0,65,0,True,On track
-SO00326,Malaysia,103,75,False,-2,75,28,False,Stock shortage
-SO00327,Germany,112,114,False,-1,112,0,True,On track
-SO00328,Malaysia,37,2,False,2,2,35,False,Stock shortage
-SO00329,Germany,116,136,False,4,116,0,False,Late
-SO00330,Germany,117,100,False,3,100,17,False,Stock shortage
-SO00331,Hong Kong,54,15,False,3,15,39,False,Stock shortage
-SO00332,Taiwan,50,15,False,-2,15,35,False,Stock shortage
-SO00333,Taiwan,120,87,False,8,87,33,False,Stock shortage
-SO00334,Malaysia,102,75,False,2,75,27,False,Stock shortage
-SO00335,Malaysia,90,62,False,5,62,28,False,Stock shortage
-SO00336,Taiwan,79,34,False,-2,34,45,False,Stock shortage
-SO00337,Malaysia,28,2,False,7,2,26,False,Stock shortage
-SO00338,Germany,15,6,False,-1,6,9,False,Stock shortage
-SO00339,Malaysia,31,39,False,7,31,0,False,Late
-SO00340,Germany,9,0,False,5,0,9,False,Stock shortage
-SO00341,Taiwan,81,101,False,0,81,0,True,On track
-SO00342,Malaysia,55,10,False,1,10,45,False,Stock shortage
-SO00343,Germany,24,0,False,3,0,24,False,Stock shortage
-SO00344,Germany,68,92,False,6,68,0,False,Late
-SO00345,Taiwan,50,65,True,4,0,0,False,Blocked
-SO00346,Taiwan,33,0,False,-1,0,33,False,Stock shortage
-SO00347,Hong Kong,31,0,False,3,0,31,False,Stock shortage
-SO00348,Hong Kong,6,6,False,8,6,0,False,Late
-SO00349,Hong Kong,107,121,False,5,107,0,False,Late
-SO00350,Germany,104,76,True,5,0,28,False,Blocked
-SO00351,Germany,38,18,True,1,0,20,False,Blocked
-SO00352,Malaysia,41,35,False,6,35,6,False,Stock shortage
-SO00353,Taiwan,33,0,False,1,0,33,False,Stock shortage
-SO00354,Taiwan,46,7,False,3,7,39,False,Stock shortage
-SO00355,Malaysia,16,18,False,4,16,0,False,Late
-SO00356,Malaysia,115,119,False,0,115,0,True,On track
-SO00357,Taiwan,89,107,False,6,89,0,False,Late
-SO00358,Malaysia,103,68,False,-1,68,35,False,Stock shortage
-SO00359,Germany,78,56,False,3,56,22,False,Stock shortage
-SO00360,Malaysia,11,7,False,2,7,4,False,Stock shortage
-SO00361,Taiwan,78,87,False,5,78,0,False,Late
-SO00362,Malaysia,58,18,False,3,18,40,False,Stock shortage
-SO00363,Malaysia,36,0,True,8,0,36,False,Blocked
-SO00364,Hong Kong,47,67,False,8,47,0,False,Late
-SO00365,Malaysia,4,0,False,8,0,4,False,Stock shortage
-SO00366,Taiwan,5,0,True,8,0,5,False,Blocked
-SO00367,Hong Kong,47,51,False,-2,47,0,True,On track
-SO00368,Malaysia,87,99,False,3,87,0,False,Late
-SO00369,Taiwan,98,62,False,6,62,36,False,Stock shortage
-SO00370,Germany,51,46,False,1,46,5,False,Stock shortage
-SO00371,Germany,4,0,False,4,0,4,False,Stock shortage
-SO00372,Taiwan,34,22,False,1,22,12,False,Stock shortage
-SO00373,Germany,89,106,False,0,89,0,True,On track
-SO00374,Germany,58,35,False,5,35,23,False,Stock shortage
-SO00375,Taiwan,104,99,False,-1,99,5,False,Stock shortage
-SO00376,Hong Kong,115,108,False,8,108,7,False,Stock shortage
-SO00377,Hong Kong,102,103,False,-1,102,0,True,On track
-SO00378,Germany,102,74,False,5,74,28,False,Stock shortage
-SO00379,Hong Kong,47,72,False,5,47,0,False,Late
-SO00380,Malaysia,79,45,True,4,0,34,False,Blocked
-SO00381,Germany,68,75,False,7,68,0,False,Late
-SO00382,Malaysia,17,12,False,5,12,5,False,Stock shortage
-SO00383,Hong Kong,88,109,False,6,88,0,False,Late
-SO00384,Germany,99,70,False,-2,70,29,False,Stock shortage
-SO00385,Taiwan,67,41,False,0,41,26,False,Stock shortage
-SO00386,Taiwan,120,103,False,6,103,17,False,Stock shortage
-SO00387,Taiwan,109,74,False,8,74,35,False,Stock shortage
-SO00388,Hong Kong,17,10,False,-1,10,7,False,Stock shortage
-SO00389,Taiwan,76,50,False,7,50,26,False,Stock shortage
-SO00390,Germany,108,68,False,-2,68,40,False,Stock shortage
-SO00391,Malaysia,6,0,False,7,0,6,False,Stock shortage
-SO00392,Taiwan,80,38,False,8,38,42,False,Stock shortage
-SO00393,Malaysia,83,76,False,8,76,7,False,Stock shortage
-SO00394,Hong Kong,39,52,True,-2,0,0,False,Blocked
-SO00395,Taiwan,57,65,False,1,57,0,False,Late
-SO00396,Taiwan,78,51,False,3,51,27,False,Stock shortage
-SO00397,Germany,52,23,False,6,23,29,False,Stock shortage
-SO00398,Malaysia,41,26,False,2,26,15,False,Stock shortage
-SO00399,Malaysia,32,5,False,2,5,27,False,Stock shortage
-SO00400,Taiwan,111,119,False,0,111,0,True,On track
-SO00401,Malaysia,120,115,False,0,115,5,False,Stock shortage
-SO00402,Malaysia,66,80,False,2,66,0,False,Late
-SO00403,Malaysia,3,0,False,6,0,3,False,Stock shortage
-SO00404,Germany,31,13,False,-2,13,18,False,Stock shortage
-SO00405,Malaysia,37,55,False,8,37,0,False,Late
-SO00406,Malaysia,37,60,True,-1,0,0,False,Blocked
-SO00407,Taiwan,18,6,False,4,6,12,False,Stock shortage
-SO00408,Hong Kong,6,12,True,6,0,0,False,Blocked
-SO00409,Malaysia,47,72,False,4,47,0,False,Late
-SO00410,Germany,98,123,False,7,98,0,False,Late
-SO00411,Taiwan,17,0,False,3,0,17,False,Stock shortage
-SO00412,Malaysia,97,70,False,6,70,27,False,Stock shortage
-SO00413,Taiwan,65,25,True,0,0,40,False,Blocked
-SO00414,Hong Kong,103,118,False,0,103,0,True,On track
-SO00415,Taiwan,42,37,False,7,37,5,False,Stock shortage
-SO00416,Malaysia,76,74,False,6,74,2,False,Stock shortage
-SO00417,Taiwan,91,84,False,-2,84,7,False,Stock shortage
-SO00418,Taiwan,43,12,False,7,12,31,False,Stock shortage
-SO00419,Hong Kong,102,60,False,2,60,42,False,Stock shortage
-SO00420,Malaysia,93,54,False,0,54,39,False,Stock shortage
-SO00421,Hong Kong,19,5,True,-1,0,14,False,Blocked
-SO00422,Malaysia,3,14,False,0,3,0,True,On track
-SO00423,Malaysia,89,70,False,7,70,19,False,Stock shortage
-SO00424,Hong Kong,112,74,False,6,74,38,False,Stock shortage
-SO00425,Malaysia,72,68,False,5,68,4,False,Stock shortage
-SO00426,Taiwan,41,18,False,6,18,23,False,Stock shortage
-SO00427,Taiwan,70,70,False,8,70,0,False,Late
-SO00428,Taiwan,79,95,False,1,79,0,False,Late
-SO00429,Taiwan,72,65,False,2,65,7,False,Stock shortage
-SO00430,Taiwan,91,72,False,5,72,19,False,Stock shortage
-SO00431,Taiwan,62,61,False,2,61,1,False,Stock shortage
-SO00432,Taiwan,16,40,False,4,16,0,False,Late
-SO00433,Germany,99,72,False,2,72,27,False,Stock shortage
-SO00434,Hong Kong,45,56,False,5,45,0,False,Late
-SO00435,Taiwan,26,49,False,6,26,0,False,Late
-SO00436,Hong Kong,18,0,False,7,0,18,False,Stock shortage
-SO00437,Hong Kong,32,0,False,6,0,32,False,Stock shortage
-SO00438,Taiwan,82,66,True,4,0,16,False,Blocked
-SO00439,Germany,92,107,False,0,92,0,True,On track
-SO00440,Malaysia,71,46,False,5,46,25,False,Stock shortage
-SO00441,Taiwan,84,64,False,2,64,20,False,Stock shortage
-SO00442,Hong Kong,37,0,False,-1,0,37,False,Stock shortage
-SO00443,Malaysia,69,28,False,0,28,41,False,Stock shortage
-SO00444,Malaysia,113,90,False,-2,90,23,False,Stock shortage
-SO00445,Germany,101,119,False,2,101,0,False,Late
-SO00446,Taiwan,2,0,False,-1,0,2,False,Stock shortage
-SO00447,Malaysia,37,50,False,6,37,0,False,Late
-SO00448,Taiwan,114,86,False,5,86,28,False,Stock shortage
-SO00449,Taiwan,25,0,False,5,0,25,False,Stock shortage
-SO00450,Taiwan,92,70,True,3,0,22,False,Blocked
-SO00451,Malaysia,73,52,False,8,52,21,False,Stock shortage
-SO00452,Malaysia,106,115,False,-1,106,0,True,On track
-SO00453,Malaysia,86,53,False,0,53,33,False,Stock shortage
-SO00454,Hong Kong,42,28,True,4,0,14,False,Blocked
-SO00455,Germany,58,47,False,2,47,11,False,Stock shortage
-SO00456,Germany,34,35,False,-2,34,0,True,On track
-SO00457,Taiwan,60,54,False,8,54,6,False,Stock shortage
-SO00458,Taiwan,89,59,False,2,59,30,False,Stock shortage
-SO00459,Malaysia,79,62,False,0,62,17,False,Stock shortage
-SO00460,Taiwan,20,33,False,7,20,0,False,Late
-SO00461,Hong Kong,54,79,False,6,54,0,False,Late
-SO00462,Germany,98,84,False,7,84,14,False,Stock shortage
-SO00463,Germany,68,80,False,3,68,0,False,Late
-SO00464,Hong Kong,118,87,True,6,0,31,False,Blocked
-SO00465,Malaysia,74,97,False,3,74,0,False,Late
-SO00466,Germany,15,0,False,5,0,15,False,Stock shortage
-SO00467,Malaysia,116,136,False,-2,116,0,True,On track
-SO00468,Germany,17,37,False,7,17,0,False,Late
-SO00469,Germany,72,86,False,2,72,0,False,Late
-SO00470,Germany,51,38,False,1,38,13,False,Stock shortage
-SO00471,Germany,6,15,False,-1,6,0,True,On track
-SO00472,Germany,120,83,False,5,83,37,False,Stock shortage
-SO00473,Malaysia,37,44,False,0,37,0,True,On track
-SO00474,Malaysia,48,51,False,4,48,0,False,Late
-SO00475,Germany,11,35,False,3,11,0,False,Late
-SO00476,Hong Kong,23,46,False,0,23,0,True,On track
-SO00477,Malaysia,107,62,False,2,62,45,False,Stock shortage
-SO00478,Hong Kong,87,111,False,4,87,0,False,Late
-SO00479,Hong Kong,32,45,False,2,32,0,False,Late
-SO00480,Malaysia,120,89,True,8,0,31,False,Blocked
-SO00481,Germany,79,36,False,-1,36,43,False,Stock shortage
-SO00482,Germany,77,36,False,8,36,41,False,Stock shortage
-SO00483,Hong Kong,32,0,False,1,0,32,False,Stock shortage
-SO00484,Hong Kong,97,59,False,2,59,38,False,Stock shortage
-SO00485,Taiwan,105,100,False,8,100,5,False,Stock shortage
-SO00486,Hong Kong,31,24,False,8,24,7,False,Stock shortage
-SO00487,Hong Kong,53,46,False,6,46,7,False,Stock shortage
-SO00488,Taiwan,81,90,False,-2,81,0,True,On track
-SO00489,Malaysia,83,86,False,3,83,0,False,Late
-SO00490,Malaysia,53,27,False,0,27,26,False,Stock shortage
-SO00491,Malaysia,31,14,False,0,14,17,False,Stock shortage
-SO00492,Hong Kong,118,80,False,4,80,38,False,Stock shortage
-SO00493,Germany,50,36,False,3,36,14,False,Stock shortage
-SO00494,Hong Kong,119,131,False,-1,119,0,True,On track
-SO00495,Germany,7,0,False,7,0,7,False,Stock shortage
-SO00496,Hong Kong,112,76,False,7,76,36,False,Stock shortage
-SO00497,Taiwan,62,43,False,3,43,19,False,Stock shortage
-SO00498,Germany,117,73,False,1,73,44,False,Stock shortage
-SO00499,Hong Kong,96,112,False,7,96,0,False,Late
-SO00500,Malaysia,51,36,False,2,36,15,False,Stock shortage
-SO00501,Taiwan,60,83,False,2,60,0,False,Late
-SO00502,Germany,47,67,False,5,47,0,False,Late
-SO00503,Hong Kong,103,118,False,3,103,0,False,Late
-SO00504,Hong Kong,48,43,False,7,43,5,False,Stock shortage
-SO00505,Malaysia,95,68,True,6,0,27,False,Blocked
-SO00506,Malaysia,38,12,False,1,12,26,False,Stock shortage
-SO00507,Taiwan,73,59,False,8,59,14,False,Stock shortage
-SO00508,Malaysia,33,50,False,8,33,0,False,Late
-SO00509,Hong Kong,59,35,False,3,35,24,False,Stock shortage
-SO00510,Germany,18,42,False,6,18,0,False,Late
-SO00511,Germany,68,27,False,-1,27,41,False,Stock shortage
-SO00512,Hong Kong,98,53,False,8,53,45,False,Stock shortage
-SO00513,Malaysia,9,0,True,6,0,9,False,Blocked
-SO00514,Malaysia,48,10,False,8,10,38,False,Stock shortage
-SO00515,Malaysia,85,102,True,6,0,0,False,Blocked
-SO00516,Taiwan,2,0,False,2,0,2,False,Stock shortage
-SO00517,Malaysia,3,22,False,8,3,0,False,Late
-SO00518,Hong Kong,104,81,False,-1,81,23,False,Stock shortage
-SO00519,Taiwan,31,10,False,2,10,21,False,Stock shortage
-SO00520,Malaysia,35,40,True,4,0,0,False,Blocked
-SO00521,Taiwan,73,59,False,1,59,14,False,Stock shortage
-SO00522,Germany,88,53,False,8,53,35,False,Stock shortage
-SO00523,Malaysia,12,18,False,6,12,0,False,Late
-SO00524,Malaysia,8,0,False,-1,0,8,False,Stock shortage
-SO00525,Germany,109,119,False,3,109,0,False,Late
-SO00526,Hong Kong,115,137,False,1,115,0,False,Late
-SO00527,Taiwan,116,131,False,-1,116,0,True,On track
-SO00528,Hong Kong,116,140,False,-2,116,0,True,On track
-SO00529,Hong Kong,119,114,True,1,0,5,False,Blocked
-SO00530,Hong Kong,97,102,False,2,97,0,False,Late
-SO00531,Taiwan,73,58,False,4,58,15,False,Stock shortage
-SO00532,Taiwan,50,22,False,-1,22,28,False,Stock shortage
-SO00533,Taiwan,7,0,False,-1,0,7,False,Stock shortage
-SO00534,Germany,78,83,False,3,78,0,False,Late
-SO00535,Malaysia,82,71,False,5,71,11,False,Stock shortage
-SO00536,Malaysia,30,30,False,4,30,0,False,Late
-SO00537,Taiwan,24,27,True,7,0,0,False,Blocked
-SO00538,Taiwan,103,89,False,-1,89,14,False,Stock shortage
-SO00539,Hong Kong,20,23,False,8,20,0,False,Late
-SO00540,Germany,95,99,False,-1,95,0,True,On track
-SO00541,Germany,1,0,False,2,0,1,False,Stock shortage
-SO00542,Malaysia,17,0,False,5,0,17,False,Stock shortage
-SO00543,Germany,14,0,True,6,0,14,False,Blocked
-SO00544,Taiwan,77,73,False,-2,73,4,False,Stock shortage
-SO00545,Hong Kong,53,57,False,6,53,0,False,Late
-SO00546,Hong Kong,74,95,False,4,74,0,False,Late
-SO00547,Hong Kong,18,7,False,5,7,11,False,Stock shortage
-SO00548,Taiwan,9,0,False,4,0,9,False,Stock shortage
-SO00549,Malaysia,62,26,False,1,26,36,False,Stock shortage
-SO00550,Taiwan,77,57,False,0,57,20,False,Stock shortage
-SO00551,Malaysia,1,6,False,7,1,0,False,Late
-SO00552,Hong Kong,103,100,False,4,100,3,False,Stock shortage
-SO00553,Malaysia,39,35,False,1,35,4,False,Stock shortage
-SO00554,Taiwan,41,18,False,3,18,23,False,Stock shortage
-SO00555,Taiwan,95,112,False,1,95,0,False,Late
-SO00556,Taiwan,49,39,False,4,39,10,False,Stock shortage
-SO00557,Hong Kong,15,0,False,6,0,15,False,Stock shortage
-SO00558,Hong Kong,88,113,True,5,0,0,False,Blocked
-SO00559,Malaysia,57,49,False,-1,49,8,False,Stock shortage
-SO00560,Hong Kong,87,105,False,2,87,0,False,Late
-SO00561,Germany,33,7,False,4,7,26,False,Stock shortage
-SO00562,Malaysia,58,74,False,6,58,0,False,Late
-SO00563,Germany,70,29,False,3,29,41,False,Stock shortage
-SO00564,Hong Kong,14,0,False,3,0,14,False,Stock shortage
-SO00565,Malaysia,83,43,False,8,43,40,False,Stock shortage
-SO00566,Germany,97,94,False,4,94,3,False,Stock shortage
-SO00567,Hong Kong,2,0,False,6,0,2,False,Stock shortage
-SO00568,Hong Kong,58,60,False,8,58,0,False,Late
-SO00569,Malaysia,45,3,False,2,3,42,False,Stock shortage
-SO00570,Taiwan,118,83,False,0,83,35,False,Stock shortage
-SO00571,Malaysia,40,38,False,1,38,2,False,Stock shortage
-SO00572,Taiwan,45,60,False,5,45,0,False,Late
-SO00573,Germany,9,2,True,-1,0,7,False,Blocked
-SO00574,Hong Kong,109,107,False,8,107,2,False,Stock shortage
-SO00575,Hong Kong,120,106,False,6,106,14,False,Stock shortage
-SO00576,Malaysia,43,52,False,1,43,0,False,Late
-SO00577,Malaysia,81,59,False,8,59,22,False,Stock shortage
-SO00578,Malaysia,51,9,False,1,9,42,False,Stock shortage
-SO00579,Hong Kong,76,85,False,1,76,0,False,Late
-SO00580,Hong Kong,36,0,False,6,0,36,False,Stock shortage
-SO00581,Taiwan,47,43,False,-1,43,4,False,Stock shortage
-SO00582,Taiwan,86,103,False,8,86,0,False,Late
-SO00583,Germany,77,81,False,7,77,0,False,Late
-SO00584,Hong Kong,45,45,False,7,45,0,False,Late
-SO00585,Germany,105,98,False,7,98,7,False,Stock shortage
-SO00586,Taiwan,87,59,False,1,59,28,False,Stock shortage
-SO00587,Malaysia,15,0,False,0,0,15,False,Stock shortage
-SO00588,Hong Kong,54,26,False,4,26,28,False,Stock shortage
-SO00589,Hong Kong,63,86,False,8,63,0,False,Late
-SO00590,Hong Kong,72,48,False,0,48,24,False,Stock shortage
-SO00591,Germany,41,53,False,3,41,0,False,Late
-SO00592,Malaysia,63,35,False,4,35,28,False,Stock shortage
-SO00593,Malaysia,53,70,False,5,53,0,False,Late
-SO00594,Taiwan,22,0,False,1,0,22,False,Stock shortage
-SO00595,Hong Kong,5,0,False,2,0,5,False,Stock shortage
-SO00596,Germany,100,113,False,5,100,0,False,Late
-SO00597,Taiwan,74,43,False,6,43,31,False,Stock shortage
-SO00598,Hong Kong,70,30,False,5,30,40,False,Stock shortage
-SO00599,Hong Kong,55,23,False,8,23,32,False,Stock shortage
-SO00600,Germany,39,0,False,3,0,39,False,Stock shortage
-SO00601,Hong Kong,57,27,False,1,27,30,False,Stock shortage
-SO00602,Malaysia,104,103,False,7,103,1,False,Stock shortage
-SO00603,Germany,22,0,False,1,0,22,False,Stock shortage
-SO00604,Hong Kong,73,72,False,7,72,1,False,Stock shortage
-SO00605,Germany,42,34,False,2,34,8,False,Stock shortage
-SO00606,Hong Kong,18,25,False,2,18,0,False,Late
-SO00607,Hong Kong,90,61,False,3,61,29,False,Stock shortage
-SO00608,Taiwan,98,103,False,7,98,0,False,Late
-SO00609,Germany,81,89,False,-1,81,0,True,On track
-SO00610,Malaysia,52,72,False,3,52,0,False,Late
-SO00611,Malaysia,63,59,False,-1,59,4,False,Stock shortage
-SO00612,Malaysia,82,82,False,6,82,0,False,Late
-SO00613,Taiwan,28,37,False,5,28,0,False,Late
-SO00614,Hong Kong,42,33,False,7,33,9,False,Stock shortage
-SO00615,Germany,73,90,False,8,73,0,False,Late
-SO00616,Germany,6,0,False,5,0,6,False,Stock shortage
-SO00617,Malaysia,16,0,False,-2,0,16,False,Stock shortage
-SO00618,Hong Kong,26,0,False,2,0,26,False,Stock shortage
-SO00619,Taiwan,112,102,False,3,102,10,False,Stock shortage
-SO00620,Hong Kong,11,13,False,8,11,0,False,Late
-SO00621,Malaysia,7,12,False,1,7,0,False,Late
-SO00622,Hong Kong,84,50,False,-2,50,34,False,Stock shortage
-SO00623,Malaysia,62,26,False,1,26,36,False,Stock shortage
-SO00624,Malaysia,2,0,False,-1,0,2,False,Stock shortage
-SO00625,Malaysia,89,60,False,1,60,29,False,Stock shortage
-SO00626,Taiwan,12,0,False,3,0,12,False,Stock shortage
-SO00627,Hong Kong,18,21,False,0,18,0,True,On track
-SO00628,Hong Kong,9,31,False,7,9,0,False,Late
-SO00629,Hong Kong,57,56,False,8,56,1,False,Stock shortage
-SO00630,Hong Kong,118,125,False,5,118,0,False,Late
-SO00631,Malaysia,12,0,False,-1,0,12,False,Stock shortage
-SO00632,Hong Kong,45,54,False,0,45,0,True,On track
-SO00633,Taiwan,36,1,False,7,1,35,False,Stock shortage
-SO00634,Taiwan,100,58,False,8,58,42,False,Stock shortage
-SO00635,Malaysia,27,48,False,1,27,0,False,Late
-SO00636,Malaysia,38,0,False,1,0,38,False,Stock shortage
-SO00637,Germany,50,19,False,8,19,31,False,Stock shortage
-SO00638,Hong Kong,68,24,False,3,24,44,False,Stock shortage
-SO00639,Hong Kong,50,58,False,8,50,0,False,Late
-SO00640,Germany,98,113,False,-1,98,0,True,On track
-SO00641,Germany,76,39,True,1,0,37,False,Blocked
-SO00642,Taiwan,119,81,False,4,81,38,False,Stock shortage
-SO00643,Malaysia,81,100,False,4,81,0,False,Late
-SO00644,Taiwan,11,34,False,0,11,0,True,On track
-SO00645,Hong Kong,11,5,True,1,0,6,False,Blocked
-SO00646,Germany,69,65,False,8,65,4,False,Stock shortage
-SO00647,Germany,40,50,False,1,40,0,False,Late
-SO00648,Malaysia,32,0,False,-1,0,32,False,Stock shortage
-SO00649,Hong Kong,79,41,False,8,41,38,False,Stock shortage
-SO00650,Hong Kong,16,0,False,-2,0,16,False,Stock shortage
-SO00651,Hong Kong,64,63,False,2,63,1,False,Stock shortage
-SO00652,Germany,48,19,False,2,19,29,False,Stock shortage
-SO00653,Taiwan,99,57,False,4,57,42,False,Stock shortage
-SO00654,Germany,68,31,False,7,31,37,False,Stock shortage
-SO00655,Malaysia,64,77,False,-2,64,0,True,On track
-SO00656,Germany,110,86,False,2,86,24,False,Stock shortage
-SO00657,Germany,115,84,False,6,84,31,False,Stock shortage
-SO00658,Taiwan,6,0,False,5,0,6,False,Stock shortage
-SO00659,Malaysia,50,24,False,-2,24,26,False,Stock shortage
-SO00660,Taiwan,29,25,False,3,25,4,False,Stock shortage
-SO00661,Germany,106,70,False,-1,70,36,False,Stock shortage
-SO00662,Malaysia,23,6,False,-2,6,17,False,Stock shortage
-SO00663,Taiwan,9,23,False,2,9,0,False,Late
-SO00664,Hong Kong,12,37,False,3,12,0,False,Late
-SO00665,Malaysia,38,31,False,1,31,7,False,Stock shortage
-SO00666,Hong Kong,48,66,False,1,48,0,False,Late
-SO00667,Hong Kong,20,0,False,-2,0,20,False,Stock shortage
-SO00668,Taiwan,70,69,False,-2,69,1,False,Stock shortage
-SO00669,Germany,1,4,False,2,1,0,False,Late
-SO00670,Malaysia,27,49,False,4,27,0,False,Late
-SO00671,Germany,8,0,False,-1,0,8,False,Stock shortage
-SO00672,Malaysia,118,102,False,6,102,16,False,Stock shortage
-SO00673,Germany,90,92,False,-1,90,0,True,On track
-SO00674,Germany,65,37,False,4,37,28,False,Stock shortage
-SO00675,Hong Kong,76,38,False,0,38,38,False,Stock shortage
-SO00676,Taiwan,38,26,False,4,26,12,False,Stock shortage
-SO00677,Hong Kong,41,53,False,-1,41,0,True,On track
-SO00678,Malaysia,18,0,False,0,0,18,False,Stock shortage
-SO00679,Taiwan,60,55,False,6,55,5,False,Stock shortage
-SO00680,Taiwan,99,80,False,5,80,19,False,Stock shortage
-SO00681,Taiwan,110,80,False,8,80,30,False,Stock shortage
-SO00682,Hong Kong,106,66,False,3,66,40,False,Stock shortage
-SO00683,Germany,12,0,False,4,0,12,False,Stock shortage
-SO00684,Germany,87,80,False,0,80,7,False,Stock shortage
-SO00685,Hong Kong,52,64,False,6,52,0,False,Late
-SO00686,Germany,13,27,False,0,13,0,True,On track
-SO00687,Hong Kong,2,0,False,1,0,2,False,Stock shortage
-SO00688,Germany,26,32,False,8,26,0,False,Late
-SO00689,Germany,75,63,False,-1,63,12,False,Stock shortage
-SO00690,Hong Kong,9,0,False,5,0,9,False,Stock shortage
-SO00691,Germany,12,9,False,5,9,3,False,Stock shortage
-SO00692,Malaysia,22,32,False,4,22,0,False,Late
-SO00693,Taiwan,4,7,False,0,4,0,True,On track
-SO00694,Hong Kong,28,6,False,5,6,22,False,Stock shortage
-SO00695,Malaysia,5,0,False,5,0,5,False,Stock shortage
-SO00696,Taiwan,113,138,False,-1,113,0,True,On track
-SO00697,Hong Kong,50,22,False,8,22,28,False,Stock shortage
-SO00698,Taiwan,81,105,False,4,81,0,False,Late
-SO00699,Taiwan,62,86,False,3,62,0,False,Late
-SO00700,Hong Kong,50,39,False,3,39,11,False,Stock shortage
-SO00701,Taiwan,4,0,True,5,0,4,False,Blocked
-SO00702,Hong Kong,99,83,False,-1,83,16,False,Stock shortage
-SO00703,Hong Kong,85,70,False,-2,70,15,False,Stock shortage
-SO00704,Hong Kong,74,78,False,0,74,0,True,On track
-SO00705,Germany,31,26,False,3,26,5,False,Stock shortage
-SO00706,Hong Kong,91,91,False,7,91,0,False,Late
-SO00707,Taiwan,73,52,False,5,52,21,False,Stock shortage
-SO00708,Hong Kong,23,40,True,-2,0,0,False,Blocked
-SO00709,Germany,78,61,True,5,0,17,False,Blocked
-SO00710,Hong Kong,43,23,False,3,23,20,False,Stock shortage
-SO00711,Hong Kong,118,114,True,0,0,4,False,Blocked
-SO00712,Germany,100,69,False,3,69,31,False,Stock shortage
-SO00713,Taiwan,48,53,False,3,48,0,False,Late
-SO00714,Malaysia,42,14,False,4,14,28,False,Stock shortage
-SO00715,Taiwan,84,79,False,6,79,5,False,Stock shortage
-SO00716,Hong Kong,29,6,False,2,6,23,False,Stock shortage
-SO00717,Malaysia,23,0,False,7,0,23,False,Stock shortage
-SO00718,Hong Kong,109,68,False,3,68,41,False,Stock shortage
-SO00719,Taiwan,82,50,False,0,50,32,False,Stock shortage
-SO00720,Hong Kong,96,60,False,3,60,36,False,Stock shortage
-SO00721,Taiwan,82,48,False,8,48,34,False,Stock shortage
-SO00722,Germany,58,14,False,1,14,44,False,Stock shortage
-SO00723,Germany,45,32,False,-2,32,13,False,Stock shortage
-SO00724,Malaysia,50,61,False,0,50,0,True,On track
-SO00725,Germany,64,67,False,4,64,0,False,Late
-SO00726,Hong Kong,107,123,False,7,107,0,False,Late
-SO00727,Taiwan,21,33,True,-2,0,0,False,Blocked
-SO00728,Germany,3,0,False,-1,0,3,False,Stock shortage
-SO00729,Germany,44,20,False,0,20,24,False,Stock shortage
-SO00730,Malaysia,71,37,False,7,37,34,False,Stock shortage
-SO00731,Hong Kong,91,49,False,8,49,42,False,Stock shortage
-SO00732,Taiwan,78,88,False,-1,78,0,True,On track
-SO00733,Taiwan,27,6,False,6,6,21,False,Stock shortage
-SO00734,Germany,85,76,False,-1,76,9,False,Stock shortage
-SO00735,Germany,51,76,False,0,51,0,True,On track
-SO00736,Malaysia,47,2,False,2,2,45,False,Stock shortage
-SO00737,Taiwan,26,0,True,0,0,26,False,Blocked
-SO00738,Malaysia,11,26,False,2,11,0,False,Late
-SO00739,Germany,61,78,False,2,61,0,False,Late
-SO00740,Malaysia,83,107,False,3,83,0,False,Late
-SO00741,Malaysia,48,26,False,2,26,22,False,Stock shortage
-SO00742,Germany,60,48,False,2,48,12,False,Stock shortage
-SO00743,Malaysia,20,0,True,3,0,20,False,Blocked
-SO00744,Malaysia,97,81,False,4,81,16,False,Stock shortage
-SO00745,Malaysia,69,84,False,1,69,0,False,Late
-SO00746,Hong Kong,39,4,False,-2,4,35,False,Stock shortage
-SO00747,Hong Kong,16,28,False,0,16,0,True,On track
-SO00748,Germany,104,83,False,4,83,21,False,Stock shortage
-SO00749,Hong Kong,88,98,False,8,88,0,False,Late
-SO00750,Germany,107,95,False,-1,95,12,False,Stock shortage
-SO00751,Malaysia,50,55,False,2,50,0,False,Late
-SO00752,Malaysia,118,74,False,7,74,44,False,Stock shortage
-SO00753,Germany,15,23,False,7,15,0,False,Late
-SO00754,Taiwan,119,87,False,-1,87,32,False,Stock shortage
-SO00755,Taiwan,112,135,False,4,112,0,False,Late
-SO00756,Germany,50,67,False,5,50,0,False,Late
-SO00757,Malaysia,23,13,False,7,13,10,False,Stock shortage
-SO00758,Hong Kong,5,10,False,3,5,0,False,Late
-SO00759,Germany,7,22,False,3,7,0,False,Late
-SO00760,Germany,44,37,False,5,37,7,False,Stock shortage
-SO00761,Taiwan,112,96,False,5,96,16,False,Stock shortage
-SO00762,Hong Kong,35,43,False,-1,35,0,True,On track
-SO00763,Malaysia,57,39,False,4,39,18,False,Stock shortage
-SO00764,Hong Kong,98,119,False,-2,98,0,True,On track
-SO00765,Hong Kong,9,3,False,4,3,6,False,Stock shortage
-SO00766,Hong Kong,100,122,False,-2,100,0,True,On track
-SO00767,Germany,25,5,False,1,5,20,False,Stock shortage
-SO00768,Taiwan,59,20,False,1,20,39,False,Stock shortage
-SO00769,Germany,48,62,False,8,48,0,False,Late
-SO00770,Malaysia,88,46,False,5,46,42,False,Stock shortage
-SO00771,Taiwan,23,38,False,3,23,0,False,Late
-SO00772,Taiwan,21,9,False,-1,9,12,False,Stock shortage
-SO00773,Hong Kong,4,8,True,7,0,0,False,Blocked
-SO00774,Hong Kong,110,93,False,8,93,17,False,Stock shortage
-SO00775,Germany,35,42,False,8,35,0,False,Late
-SO00776,Germany,61,32,False,7,32,29,False,Stock shortage
-SO00777,Taiwan,29,16,False,2,16,13,False,Stock shortage
-SO00778,Taiwan,55,58,False,5,55,0,False,Late
-SO00779,Malaysia,28,42,False,6,28,0,False,Late
-SO00780,Taiwan,75,43,True,8,0,32,False,Blocked
-SO00781,Malaysia,72,63,False,-1,63,9,False,Stock shortage
-SO00782,Taiwan,9,7,False,8,7,2,False,Stock shortage
-SO00783,Taiwan,111,101,False,8,101,10,False,Stock shortage
-SO00784,Germany,25,0,False,1,0,25,False,Stock shortage
-SO00785,Hong Kong,104,110,False,8,104,0,False,Late
-SO00786,Taiwan,93,51,False,2,51,42,False,Stock shortage
-SO00787,Hong Kong,117,125,False,-2,117,0,True,On track
-SO00788,Malaysia,44,27,False,8,27,17,False,Stock shortage
-SO00789,Hong Kong,117,117,False,0,117,0,True,On track
-SO00790,Hong Kong,38,5,False,2,5,33,False,Stock shortage
-SO00791,Taiwan,88,85,False,1,85,3,False,Stock shortage
-SO00792,Taiwan,29,23,False,3,23,6,False,Stock shortage
-SO00793,Malaysia,34,26,False,-1,26,8,False,Stock shortage
-SO00794,Germany,7,0,False,1,0,7,False,Stock shortage
-SO00795,Germany,112,115,False,4,112,0,False,Late
-SO00796,Taiwan,112,86,False,1,86,26,False,Stock shortage
-SO00797,Germany,53,66,False,0,53,0,True,On track
-SO00798,Taiwan,63,60,False,0,60,3,False,Stock shortage
-SO00799,Hong Kong,82,44,True,2,0,38,False,Blocked
-SO00800,Malaysia,98,74,False,0,74,24,False,Stock shortage
-SO00801,Malaysia,101,67,False,4,67,34,False,Stock shortage
-SO00802,Germany,52,61,False,4,52,0,False,Late
-SO00803,Germany,5,28,False,3,5,0,False,Late
-SO00804,Hong Kong,115,111,False,6,111,4,False,Stock shortage
-SO00805,Hong Kong,3,0,False,1,0,3,False,Stock shortage
-SO00806,Malaysia,89,88,False,-1,88,1,False,Stock shortage
-SO00807,Taiwan,65,59,False,-2,59,6,False,Stock shortage
-SO00808,Taiwan,38,51,False,7,38,0,False,Late
-SO00809,Taiwan,56,28,False,5,28,28,False,Stock shortage
-SO00810,Germany,97,76,False,4,76,21,False,Stock shortage
-SO00811,Hong Kong,30,13,False,0,13,17,False,Stock shortage
-SO00812,Germany,94,51,False,0,51,43,False,Stock shortage
-SO00813,Taiwan,47,6,False,8,6,41,False,Stock shortage
-SO00814,Germany,99,122,False,7,99,0,False,Late
-SO00815,Germany,85,53,False,-2,53,32,False,Stock shortage
-SO00816,Germany,89,58,False,4,58,31,False,Stock shortage
-SO00817,Hong Kong,71,58,False,0,58,13,False,Stock shortage
-SO00818,Germany,89,45,False,8,45,44,False,Stock shortage
-SO00819,Hong Kong,85,106,False,7,85,0,False,Late
-SO00820,Germany,54,22,False,7,22,32,False,Stock shortage
-SO00821,Hong Kong,37,6,False,5,6,31,False,Stock shortage
-SO00822,Hong Kong,78,58,False,6,58,20,False,Stock shortage
-SO00823,Malaysia,46,53,False,-2,46,0,True,On track
-SO00824,Taiwan,117,98,False,5,98,19,False,Stock shortage
-SO00825,Germany,31,0,True,-1,0,31,False,Blocked
-SO00826,Germany,107,125,False,-1,107,0,True,On track
-SO00827,Hong Kong,93,60,False,8,60,33,False,Stock shortage
-SO00828,Germany,59,51,False,-2,51,8,False,Stock shortage
-SO00829,Taiwan,105,82,False,2,82,23,False,Stock shortage
-SO00830,Germany,103,98,False,-1,98,5,False,Stock shortage
-SO00831,Hong Kong,109,69,True,0,0,40,False,Blocked
-SO00832,Taiwan,43,43,False,7,43,0,False,Late
-SO00833,Hong Kong,113,79,False,3,79,34,False,Stock shortage
-SO00834,Taiwan,15,21,False,5,15,0,False,Late
-SO00835,Malaysia,107,111,False,5,107,0,False,Late
-SO00836,Hong Kong,84,60,False,-2,60,24,False,Stock shortage
-SO00837,Malaysia,14,22,False,5,14,0,False,Late
-SO00838,Germany,24,27,False,7,24,0,False,Late
-SO00839,Germany,111,82,False,5,82,29,False,Stock shortage
-SO00840,Taiwan,114,121,False,-1,114,0,True,On track
-SO00841,Hong Kong,84,79,True,8,0,5,False,Blocked
-SO00842,Germany,86,84,False,7,84,2,False,Stock shortage
-SO00843,Malaysia,56,42,False,8,42,14,False,Stock shortage
-SO00844,Malaysia,20,0,True,0,0,20,False,Blocked
-SO00845,Malaysia,110,128,False,-1,110,0,True,On track
-SO00846,Germany,42,27,False,2,27,15,False,Stock shortage
-SO00847,Malaysia,65,48,False,4,48,17,False,Stock shortage
-SO00848,Malaysia,105,90,True,5,0,15,False,Blocked
-SO00849,Malaysia,12,30,False,-1,12,0,True,On track
-SO00850,Germany,96,53,False,4,53,43,False,Stock shortage
-SO00851,Taiwan,72,97,True,-1,0,0,False,Blocked
-SO00852,Malaysia,114,134,False,8,114,0,False,Late
-SO00853,Malaysia,44,45,False,1,44,0,False,Late
-SO00854,Malaysia,43,58,False,3,43,0,False,Late
-SO00855,Germany,15,0,False,1,0,15,False,Stock shortage
-SO00856,Taiwan,44,44,False,2,44,0,False,Late
-SO00857,Malaysia,90,58,True,0,0,32,False,Blocked
-SO00858,Hong Kong,18,25,False,7,18,0,False,Late
-SO00859,Hong Kong,25,0,False,4,0,25,False,Stock shortage
-SO00860,Malaysia,59,38,False,-1,38,21,False,Stock shortage
-SO00861,Malaysia,6,0,False,5,0,6,False,Stock shortage
-SO00862,Germany,85,104,False,5,85,0,False,Late
-SO00863,Malaysia,68,29,False,4,29,39,False,Stock shortage
-SO00864,Hong Kong,119,139,False,0,119,0,True,On track
-SO00865,Taiwan,94,65,False,8,65,29,False,Stock shortage
-SO00866,Hong Kong,65,69,False,7,65,0,False,Late
-SO00867,Malaysia,36,41,False,2,36,0,False,Late
-SO00868,Taiwan,104,76,False,7,76,28,False,Stock shortage
-SO00869,Hong Kong,108,133,False,6,108,0,False,Late
-SO00870,Taiwan,26,7,False,2,7,19,False,Stock shortage
-SO00871,Hong Kong,118,89,False,8,89,29,False,Stock shortage
-SO00872,Germany,65,89,False,3,65,0,False,Late
-SO00873,Malaysia,98,98,False,7,98,0,False,Late
-SO00874,Germany,87,110,False,4,87,0,False,Late
-SO00875,Germany,67,35,True,0,0,32,False,Blocked
-SO00876,Taiwan,86,48,False,0,48,38,False,Stock shortage
-SO00877,Taiwan,88,75,False,-2,75,13,False,Stock shortage
-SO00878,Germany,27,51,True,5,0,0,False,Blocked
-SO00879,Malaysia,79,62,False,6,62,17,False,Stock shortage
-SO00880,Germany,31,51,False,2,31,0,False,Late
-SO00881,Taiwan,119,122,False,8,119,0,False,Late
-SO00882,Hong Kong,71,32,True,2,0,39,False,Blocked
-SO00883,Taiwan,80,91,False,8,80,0,False,Late
-SO00884,Hong Kong,97,121,False,1,97,0,False,Late
-SO00885,Germany,38,50,False,8,38,0,False,Late
-SO00886,Malaysia,24,1,False,-1,1,23,False,Stock shortage
-SO00887,Hong Kong,6,15,False,2,6,0,False,Late
-SO00888,Hong Kong,21,8,True,5,0,13,False,Blocked
-SO00889,Germany,6,0,False,7,0,6,False,Stock shortage
-SO00890,Taiwan,100,93,False,7,93,7,False,Stock shortage
-SO00891,Germany,10,5,False,0,5,5,False,Stock shortage
-SO00892,Malaysia,101,120,False,6,101,0,False,Late
-SO00893,Taiwan,12,11,False,1,11,1,False,Stock shortage
-SO00894,Malaysia,43,44,False,7,43,0,False,Late
-SO00895,Malaysia,72,28,False,3,28,44,False,Stock shortage
-SO00896,Taiwan,31,17,False,8,17,14,False,Stock shortage
-SO00897,Taiwan,49,18,False,6,18,31,False,Stock shortage
-SO00898,Malaysia,4,25,False,3,4,0,False,Late
-SO00899,Hong Kong,63,23,False,8,23,40,False,Stock shortage
-SO00900,Hong Kong,42,62,True,-1,0,0,False,Blocked
-SO00901,Germany,99,122,False,8,99,0,False,Late
-SO00902,Germany,27,9,False,4,9,18,False,Stock shortage
-SO00903,Germany,27,50,False,4,27,0,False,Late
-SO00904,Germany,96,70,True,3,0,26,False,Blocked
-SO00905,Germany,12,0,True,2,0,12,False,Blocked
-SO00906,Malaysia,74,58,False,4,58,16,False,Stock shortage
-SO00907,Malaysia,58,64,False,-2,58,0,True,On track
-SO00908,Germany,87,57,False,8,57,30,False,Stock shortage
-SO00909,Taiwan,97,57,False,-1,57,40,False,Stock shortage
-SO00910,Taiwan,119,138,False,8,119,0,False,Late
-SO00911,Malaysia,78,44,False,5,44,34,False,Stock shortage
-SO00912,Hong Kong,51,9,False,6,9,42,False,Stock shortage
-SO00913,Taiwan,18,23,False,6,18,0,False,Late
-SO00914,Taiwan,82,55,False,8,55,27,False,Stock shortage
-SO00915,Germany,2,27,False,0,2,0,True,On track
-SO00916,Germany,6,0,False,4,0,6,False,Stock shortage
-SO00917,Hong Kong,40,21,False,3,21,19,False,Stock shortage
-SO00918,Hong Kong,53,73,False,0,53,0,True,On track
-SO00919,Germany,79,66,False,0,66,13,False,Stock shortage
-SO00920,Germany,109,134,False,6,109,0,False,Late
-SO00921,Malaysia,38,1,False,1,1,37,False,Stock shortage
-SO00922,Hong Kong,43,43,False,8,43,0,False,Late
-SO00923,Taiwan,13,4,False,1,4,9,False,Stock shortage
-SO00924,Taiwan,63,75,False,8,63,0,False,Late
-SO00925,Taiwan,89,63,False,3,63,26,False,Stock shortage
-SO00926,Hong Kong,55,31,True,1,0,24,False,Blocked
-SO00927,Hong Kong,92,102,False,3,92,0,False,Late
-SO00928,Malaysia,87,84,False,5,84,3,False,Stock shortage
-SO00929,Hong Kong,46,40,False,-1,40,6,False,Stock shortage
-SO00930,Hong Kong,83,48,False,0,48,35,False,Stock shortage
-SO00931,Germany,34,0,False,-2,0,34,False,Stock shortage
-SO00932,Germany,105,111,False,1,105,0,False,Late
-SO00933,Malaysia,71,59,False,6,59,12,False,Stock shortage
-SO00934,Taiwan,84,58,False,1,58,26,False,Stock shortage
-SO00935,Malaysia,18,32,False,-1,18,0,True,On track
-SO00936,Hong Kong,47,66,True,1,0,0,False,Blocked
-SO00937,Hong Kong,97,117,False,0,97,0,True,On track
-SO00938,Taiwan,73,46,False,5,46,27,False,Stock shortage
-SO00939,Germany,6,0,False,1,0,6,False,Stock shortage
-SO00940,Hong Kong,34,36,False,8,34,0,False,Late
-SO00941,Germany,67,68,False,5,67,0,False,Late
-SO00942,Taiwan,6,2,False,6,2,4,False,Stock shortage
-SO00943,Hong Kong,107,95,False,7,95,12,False,Stock shortage
-SO00944,Germany,49,52,False,8,49,0,False,Late
-SO00945,Malaysia,67,54,False,1,54,13,False,Stock shortage
-SO00946,Germany,46,45,False,5,45,1,False,Stock shortage
-SO00947,Germany,65,37,False,1,37,28,False,Stock shortage
-SO00948,Hong Kong,66,56,False,0,56,10,False,Stock shortage
-SO00949,Taiwan,47,17,False,4,17,30,False,Stock shortage
-SO00950,Malaysia,93,62,False,5,62,31,False,Stock shortage
-SO00951,Germany,27,2,False,4,2,25,False,Stock shortage
-SO00952,Hong Kong,32,0,False,7,0,32,False,Stock shortage
-SO00953,Hong Kong,18,38,True,7,0,0,False,Blocked
-SO00954,Malaysia,8,0,False,0,0,8,False,Stock shortage
-SO00955,Taiwan,77,34,False,8,34,43,False,Stock shortage
-SO00956,Malaysia,11,0,False,5,0,11,False,Stock shortage
-SO00957,Hong Kong,22,5,False,7,5,17,False,Stock shortage
-SO00958,Taiwan,102,80,False,6,80,22,False,Stock shortage
-SO00959,Germany,22,20,False,7,20,2,False,Stock shortage
-SO00960,Germany,30,33,False,-1,30,0,True,On track
-SO00961,Malaysia,26,47,False,6,26,0,False,Late
-SO00962,Malaysia,106,80,False,0,80,26,False,Stock shortage
-SO00963,Germany,116,75,False,6,75,41,False,Stock shortage
-SO00964,Germany,12,28,False,7,12,0,False,Late
-SO00965,Germany,115,125,False,3,115,0,False,Late
-SO00966,Malaysia,90,112,False,5,90,0,False,Late
-SO00967,Malaysia,45,12,False,2,12,33,False,Stock shortage
-SO00968,Taiwan,99,83,False,-1,83,16,False,Stock shortage
-SO00969,Germany,77,101,False,1,77,0,False,Late
-SO00970,Germany,91,46,False,-1,46,45,False,Stock shortage
-SO00971,Malaysia,49,30,False,3,30,19,False,Stock shortage
-SO00972,Taiwan,47,15,False,8,15,32,False,Stock shortage
-SO00973,Taiwan,34,57,False,3,34,0,False,Late
-SO00974,Malaysia,88,93,False,4,88,0,False,Late
-SO00975,Taiwan,23,25,False,5,23,0,False,Late
-SO00976,Hong Kong,40,39,False,4,39,1,False,Stock shortage
-SO00977,Hong Kong,110,80,False,5,80,30,False,Stock shortage
-SO00978,Germany,13,0,False,3,0,13,False,Stock shortage
-SO00979,Germany,21,25,False,-2,21,0,True,On track
-SO00980,Malaysia,106,79,False,7,79,27,False,Stock shortage
-SO00981,Germany,12,0,False,3,0,12,False,Stock shortage
-SO00982,Taiwan,78,37,False,4,37,41,False,Stock shortage
-SO00983,Malaysia,92,54,False,0,54,38,False,Stock shortage
-SO00984,Taiwan,57,13,False,8,13,44,False,Stock shortage
-SO00985,Hong Kong,25,0,False,6,0,25,False,Stock shortage
-SO00986,Hong Kong,79,55,False,3,55,24,False,Stock shortage
-SO00987,Taiwan,84,39,False,-1,39,45,False,Stock shortage
-SO00988,Malaysia,100,106,False,4,100,0,False,Late
-SO00989,Germany,76,56,False,-1,56,20,False,Stock shortage
-SO00990,Taiwan,71,62,False,6,62,9,False,Stock shortage
-SO00991,Malaysia,45,35,False,1,35,10,False,Stock shortage
-SO00992,Hong Kong,120,126,False,2,120,0,False,Late
-SO00993,Taiwan,53,72,False,-1,53,0,True,On track
-SO00994,Taiwan,44,13,False,2,13,31,False,Stock shortage
-SO00995,Malaysia,89,100,False,7,89,0,False,Late
-SO00996,Malaysia,99,85,False,5,85,14,False,Stock shortage
-SO00997,Germany,115,73,False,2,73,42,False,Stock shortage
-SO00998,Taiwan,49,32,False,1,32,17,False,Stock shortage
-SO00999,Taiwan,53,53,False,-2,53,0,True,On track
-SO01000,Taiwan,32,23,False,8,23,9,False,Stock shortage
-SO01001,Taiwan,10,35,False,5,10,0,False,Late
-SO01002,Hong Kong,46,28,False,2,28,18,False,Stock shortage
-SO01003,Hong Kong,96,75,False,1,75,21,False,Stock shortage
-SO01004,Hong Kong,95,80,False,1,80,15,False,Stock shortage
-SO01005,Hong Kong,26,12,False,3,12,14,False,Stock shortage
-SO01006,Malaysia,100,68,False,-1,68,32,False,Stock shortage
-SO01007,Germany,79,34,False,6,34,45,False,Stock shortage
-SO01008,Malaysia,109,125,False,3,109,0,False,Late
-SO01009,Taiwan,115,105,False,6,105,10,False,Stock shortage
-SO01010,Germany,51,34,False,0,34,17,False,Stock shortage
-SO01011,Germany,68,77,False,6,68,0,False,Late
-SO01012,Hong Kong,65,64,False,8,64,1,False,Stock shortage
-SO01013,Taiwan,59,29,False,5,29,30,False,Stock shortage
-SO01014,Malaysia,89,45,True,1,0,44,False,Blocked
-SO01015,Taiwan,75,42,False,7,42,33,False,Stock shortage
-SO01016,Malaysia,24,49,False,2,24,0,False,Late
-SO01017,Malaysia,79,77,False,5,77,2,False,Stock shortage
-SO01018,Taiwan,27,35,False,3,27,0,False,Late
-SO01019,Hong Kong,110,116,False,0,110,0,True,On track
-SO01020,Hong Kong,74,58,False,2,58,16,False,Stock shortage
-SO01021,Hong Kong,72,82,False,1,72,0,False,Late
-SO01022,Hong Kong,103,77,False,-2,77,26,False,Stock shortage
-SO01023,Taiwan,54,72,False,8,54,0,False,Late
-SO01024,Germany,101,118,False,6,101,0,False,Late
-SO01025,Hong Kong,51,18,False,-2,18,33,False,Stock shortage
-SO01026,Germany,105,92,False,8,92,13,False,Stock shortage
-SO01027,Taiwan,58,55,False,3,55,3,False,Stock shortage
-SO01028,Hong Kong,45,2,False,3,2,43,False,Stock shortage
-SO01029,Taiwan,74,97,False,2,74,0,False,Late
-SO01030,Germany,42,62,False,5,42,0,False,Late
-SO01031,Hong Kong,49,40,False,0,40,9,False,Stock shortage
-SO01032,Malaysia,82,80,False,7,80,2,False,Stock shortage
-SO01033,Hong Kong,109,73,True,3,0,36,False,Blocked
-SO01034,Malaysia,41,36,False,2,36,5,False,Stock shortage
-SO01035,Malaysia,35,46,False,3,35,0,False,Late
-SO01036,Hong Kong,53,29,False,-2,29,24,False,Stock shortage
-SO01037,Hong Kong,94,79,False,-1,79,15,False,Stock shortage
-SO01038,Malaysia,22,27,False,-1,22,0,True,On track
-SO01039,Germany,71,32,True,4,0,39,False,Blocked
-SO01040,Malaysia,14,2,False,-1,2,12,False,Stock shortage
-SO01041,Malaysia,40,24,False,2,24,16,False,Stock shortage
-SO01042,Germany,81,52,False,0,52,29,False,Stock shortage
-SO01043,Malaysia,5,5,False,3,5,0,False,Late
-SO01044,Malaysia,60,84,False,6,60,0,False,Late
-SO01045,Malaysia,18,42,False,7,18,0,False,Late
-SO01046,Taiwan,81,91,False,8,81,0,False,Late
-SO01047,Germany,117,116,False,1,116,1,False,Stock shortage
-SO01048,Hong Kong,57,51,False,2,51,6,False,Stock shortage
-SO01049,Taiwan,39,0,True,0,0,39,False,Blocked
-SO01050,Malaysia,37,52,False,5,37,0,False,Late
-SO01051,Hong Kong,39,0,False,2,0,39,False,Stock shortage
-SO01052,Malaysia,102,57,False,1,57,45,False,Stock shortage
-SO01053,Malaysia,113,123,False,0,113,0,True,On track
-SO01054,Malaysia,107,110,False,-1,107,0,True,On track
-SO01055,Taiwan,81,66,False,7,66,15,False,Stock shortage
-SO01056,Hong Kong,37,60,False,4,37,0,False,Late
-SO01057,Germany,110,73,False,2,73,37,False,Stock shortage
-SO01058,Malaysia,82,95,False,2,82,0,False,Late
-SO01059,Germany,25,21,True,-2,0,4,False,Blocked
-SO01060,Malaysia,24,0,False,0,0,24,False,Stock shortage
-SO01061,Germany,94,50,False,0,50,44,False,Stock shortage
-SO01062,Malaysia,64,46,False,2,46,18,False,Stock shortage
-SO01063,Taiwan,48,62,False,-2,48,0,True,On track
-SO01064,Germany,11,0,True,4,0,11,False,Blocked
-SO01065,Malaysia,70,85,False,2,70,0,False,Late
-SO01066,Malaysia,107,63,False,1,63,44,False,Stock shortage
-SO01067,Hong Kong,99,110,False,-2,99,0,True,On track
-SO01068,Malaysia,59,26,False,1,26,33,False,Stock shortage
-SO01069,Germany,50,44,False,0,44,6,False,Stock shortage
-SO01070,Malaysia,96,121,False,2,96,0,False,Late
-SO01071,Hong Kong,82,75,False,-2,75,7,False,Stock shortage
-SO01072,Germany,15,0,False,3,0,15,False,Stock shortage
-SO01073,Hong Kong,22,12,False,4,12,10,False,Stock shortage
-SO01074,Hong Kong,2,0,False,5,0,2,False,Stock shortage
-SO01075,Germany,48,14,False,5,14,34,False,Stock shortage
-SO01076,Germany,88,86,False,8,86,2,False,Stock shortage
-SO01077,Germany,8,8,False,6,8,0,False,Late
-SO01078,Taiwan,17,34,False,6,17,0,False,Late
-SO01079,Malaysia,104,115,False,-2,104,0,True,On track
-SO01080,Malaysia,46,18,False,-2,18,28,False,Stock shortage
-SO01081,Malaysia,91,102,False,6,91,0,False,Late
-SO01082,Malaysia,25,3,False,3,3,22,False,Stock shortage
-SO01083,Hong Kong,36,61,False,6,36,0,False,Late
-SO01084,Taiwan,58,50,False,6,50,8,False,Stock shortage
-SO01085,Malaysia,59,14,False,6,14,45,False,Stock shortage
-SO01086,Taiwan,94,72,False,7,72,22,False,Stock shortage
-SO01087,Malaysia,100,85,False,-1,85,15,False,Stock shortage
-SO01088,Hong Kong,25,47,False,6,25,0,False,Late
-SO01089,Taiwan,79,70,False,8,70,9,False,Stock shortage
-SO01090,Germany,15,0,False,-1,0,15,False,Stock shortage
-SO01091,Hong Kong,107,78,False,-2,78,29,False,Stock shortage
-SO01092,Malaysia,14,31,False,-2,14,0,True,On track
-SO01093,Taiwan,85,102,False,7,85,0,False,Late
-SO01094,Germany,7,8,False,-1,7,0,True,On track
-SO01095,Malaysia,120,101,False,-1,101,19,False,Stock shortage
-SO01096,Taiwan,103,65,False,4,65,38,False,Stock shortage
-SO01097,Germany,102,64,False,2,64,38,False,Stock shortage
-SO01098,Hong Kong,94,58,False,-1,58,36,False,Stock shortage
-SO01099,Malaysia,67,34,False,1,34,33,False,Stock shortage
-SO01100,Hong Kong,25,4,False,1,4,21,False,Stock shortage
-SO01101,Taiwan,72,80,False,8,72,0,False,Late
-SO01102,Germany,87,100,False,4,87,0,False,Late
-SO01103,Taiwan,22,0,False,6,0,22,False,Stock shortage
-SO01104,Malaysia,85,60,False,7,60,25,False,Stock shortage
-SO01105,Taiwan,120,120,False,6,120,0,False,Late
-SO01106,Malaysia,109,111,False,8,109,0,False,Late
-SO01107,Hong Kong,106,102,False,7,102,4,False,Stock shortage
-SO01108,Taiwan,49,74,False,2,49,0,False,Late
-SO01109,Germany,58,70,False,-2,58,0,True,On track
-SO01110,Germany,37,0,False,2,0,37,False,Stock shortage
-SO01111,Germany,39,22,False,3,22,17,False,Stock shortage
-SO01112,Hong Kong,99,89,False,6,89,10,False,Stock shortage
-SO01113,Hong Kong,13,0,False,0,0,13,False,Stock shortage
-SO01114,Hong Kong,34,35,False,1,34,0,False,Late
-SO01115,Hong Kong,33,26,False,4,26,7,False,Stock shortage
-SO01116,Hong Kong,94,58,False,5,58,36,False,Stock shortage
-SO01117,Germany,63,30,False,2,30,33,False,Stock shortage
-SO01118,Taiwan,94,97,True,-2,0,0,False,Blocked
-SO01119,Hong Kong,45,55,False,-1,45,0,True,On track
-SO01120,Malaysia,96,52,False,8,52,44,False,Stock shortage
-SO01121,Hong Kong,7,1,False,3,1,6,False,Stock shortage
-SO01122,Germany,42,61,False,0,42,0,True,On track
-SO01123,Germany,87,92,False,7,87,0,False,Late
-SO01124,Hong Kong,29,39,False,4,29,0,False,Late
-SO01125,Germany,17,15,True,7,0,2,False,Blocked
-SO01126,Malaysia,71,77,False,4,71,0,False,Late
-SO01127,Hong Kong,100,71,False,5,71,29,False,Stock shortage
-SO01128,Hong Kong,63,68,False,1,63,0,False,Late
-SO01129,Taiwan,32,0,False,4,0,32,False,Stock shortage
-SO01130,Malaysia,88,54,False,4,54,34,False,Stock shortage
-SO01131,Germany,47,46,False,3,46,1,False,Stock shortage
-SO01132,Malaysia,99,93,False,3,93,6,False,Stock shortage
-SO01133,Hong Kong,80,53,False,1,53,27,False,Stock shortage
-SO01134,Germany,88,90,False,-1,88,0,True,On track
-SO01135,Hong Kong,95,56,False,7,56,39,False,Stock shortage
-SO01136,Taiwan,112,103,True,-1,0,9,False,Blocked
-SO01137,Hong Kong,58,73,True,1,0,0,False,Blocked
-SO01138,Malaysia,27,51,False,2,27,0,False,Late
-SO01139,Germany,80,53,False,8,53,27,False,Stock shortage
-SO01140,Germany,49,71,True,0,0,0,False,Blocked
-SO01141,Taiwan,37,17,False,7,17,20,False,Stock shortage
-SO01142,Germany,7,21,False,-2,7,0,True,On track
-SO01143,Taiwan,50,39,False,8,39,11,False,Stock shortage
-SO01144,Malaysia,111,79,True,8,0,32,False,Blocked
-SO01145,Taiwan,30,33,False,-1,30,0,True,On track
-SO01146,Malaysia,63,86,True,1,0,0,False,Blocked
-SO01147,Taiwan,72,29,True,6,0,43,False,Blocked
-SO01148,Germany,43,60,False,0,43,0,True,On track
-SO01149,Hong Kong,45,45,False,2,45,0,False,Late
-SO01150,Taiwan,65,55,False,8,55,10,False,Stock shortage
-SO01151,Taiwan,113,117,False,-2,113,0,True,On track
-SO01152,Hong Kong,29,3,False,4,3,26,False,Stock shortage
-SO01153,Hong Kong,12,15,False,8,12,0,False,Late
-SO01154,Taiwan,54,39,False,4,39,15,False,Stock shortage
-SO01155,Hong Kong,117,114,False,0,114,3,False,Stock shortage
-SO01156,Hong Kong,84,56,False,8,56,28,False,Stock shortage
-SO01157,Hong Kong,111,83,False,6,83,28,False,Stock shortage
-SO01158,Hong Kong,56,29,False,7,29,27,False,Stock shortage
-SO01159,Hong Kong,41,4,False,-1,4,37,False,Stock shortage
-SO01160,Malaysia,41,14,False,3,14,27,False,Stock shortage
-SO01161,Taiwan,53,46,False,8,46,7,False,Stock shortage
-SO01162,Germany,20,0,False,0,0,20,False,Stock shortage
-SO01163,Hong Kong,98,87,False,7,87,11,False,Stock shortage
-SO01164,Taiwan,77,61,False,-2,61,16,False,Stock shortage
-SO01165,Malaysia,11,27,False,7,11,0,False,Late
-SO01166,Malaysia,92,94,False,4,92,0,False,Late
-SO01167,Germany,61,33,False,1,33,28,False,Stock shortage
-SO01168,Hong Kong,53,9,False,4,9,44,False,Stock shortage
-SO01169,Hong Kong,96,76,False,-1,76,20,False,Stock shortage
-SO01170,Taiwan,119,130,False,5,119,0,False,Late
-SO01171,Malaysia,111,124,False,4,111,0,False,Late
-SO01172,Taiwan,100,60,False,4,60,40,False,Stock shortage
-SO01173,Germany,51,74,False,-2,51,0,True,On track
-SO01174,Hong Kong,58,71,False,-2,58,0,True,On track
-SO01175,Malaysia,67,90,False,-2,67,0,True,On track
-SO01176,Malaysia,67,28,False,5,28,39,False,Stock shortage
-SO01177,Malaysia,114,107,False,2,107,7,False,Stock shortage
-SO01178,Hong Kong,22,31,False,-2,22,0,True,On track
-SO01179,Germany,60,72,False,6,60,0,False,Late
-SO01180,Taiwan,24,48,False,4,24,0,False,Late
-SO01181,Hong Kong,58,16,False,7,16,42,False,Stock shortage
-SO01182,Hong Kong,113,126,False,3,113,0,False,Late
-SO01183,Taiwan,92,62,False,5,62,30,False,Stock shortage
-SO01184,Hong Kong,11,33,False,6,11,0,False,Late
-SO01185,Taiwan,49,74,False,0,49,0,True,On track
-SO01186,Hong Kong,73,47,False,0,47,26,False,Stock shortage
-SO01187,Malaysia,99,60,False,2,60,39,False,Stock shortage
-SO01188,Hong Kong,37,15,False,0,15,22,False,Stock shortage
-SO01189,Malaysia,1,0,True,5,0,1,False,Blocked
-SO01190,Hong Kong,70,25,False,5,25,45,False,Stock shortage
-SO01191,Germany,28,43,False,5,28,0,False,Late
-SO01192,Taiwan,77,32,False,6,32,45,False,Stock shortage
-SO01193,Germany,80,61,True,0,0,19,False,Blocked
-SO01194,Taiwan,84,83,True,-2,0,1,False,Blocked
-SO01195,Hong Kong,43,9,True,4,0,34,False,Blocked
-SO01196,Hong Kong,21,12,False,7,12,9,False,Stock shortage
-SO01197,Taiwan,59,60,False,-1,59,0,True,On track
-SO01198,Malaysia,42,44,False,-1,42,0,True,On track
-SO01199,Hong Kong,108,133,True,5,0,0,False,Blocked
-SO01200,Hong Kong,16,6,False,4,6,10,False,Stock shortage
+SO00001,Germany,82,51,True,2,0,31,False,Blocked
+SO00002,India,29,1,False,8,1,28,False,Stock shortage
+SO00003,Germany,115,139,True,4,0,0,False,Blocked
+SO00004,India,4,0,False,6,0,4,False,Stock shortage
+SO00005,Czech Republic,4,0,False,6,0,4,False,Stock shortage
+SO00006,Germany,29,41,False,-2,29,0,True,On track
+SO00007,Germany,90,99,False,0,90,0,True,On track
+SO00008,Germany,98,96,False,4,96,2,False,Stock shortage
+SO00009,India,46,45,False,-2,45,1,False,Stock shortage
+SO00010,Germany,59,82,False,4,59,0,False,Late
+SO00011,Czech Republic,71,63,False,7,63,8,False,Stock shortage
+SO00012,India,74,53,False,-2,53,21,False,Stock shortage
+SO00013,Germany,30,22,False,1,22,8,False,Stock shortage
+SO00014,Germany,49,39,False,3,39,10,False,Stock shortage
+SO00015,India,48,48,False,2,48,0,False,Late
+SO00016,India,120,84,False,0,84,36,False,Stock shortage
+SO00017,Czech Republic,94,80,False,4,80,14,False,Stock shortage
+SO00018,Germany,119,102,False,-2,102,17,False,Stock shortage
+SO00019,Czech Republic,106,65,False,4,65,41,False,Stock shortage
+SO00020,India,9,0,False,7,0,9,False,Stock shortage
+SO00021,India,41,23,False,4,23,18,False,Stock shortage
+SO00022,India,59,32,False,1,32,27,False,Stock shortage
+SO00023,Czech Republic,72,95,False,7,72,0,False,Late
+SO00024,India,115,121,False,0,115,0,True,On track
+SO00025,Germany,64,30,False,-1,30,34,False,Stock shortage
+SO00026,India,81,56,False,4,56,25,False,Stock shortage
+SO00027,India,9,13,False,5,9,0,False,Late
+SO00028,India,33,58,False,-2,33,0,True,On track
+SO00029,Czech Republic,93,62,False,6,62,31,False,Stock shortage
+SO00030,Germany,99,97,False,4,97,2,False,Stock shortage
+SO00031,India,59,14,False,2,14,45,False,Stock shortage
+SO00032,India,98,75,False,-1,75,23,False,Stock shortage
+SO00033,Czech Republic,39,58,False,0,39,0,True,On track
+SO00034,Germany,98,73,False,6,73,25,False,Stock shortage
+SO00035,Czech Republic,77,73,False,-1,73,4,False,Stock shortage
+SO00036,India,113,107,False,1,107,6,False,Stock shortage
+SO00037,India,11,0,False,-1,0,11,False,Stock shortage
+SO00038,India,99,70,False,5,70,29,False,Stock shortage
+SO00039,Czech Republic,22,10,False,7,10,12,False,Stock shortage
+SO00040,India,28,52,False,1,28,0,False,Late
+SO00041,Czech Republic,40,46,False,8,40,0,False,Late
+SO00042,Germany,57,78,False,1,57,0,False,Late
+SO00043,Germany,9,7,True,6,0,2,False,Blocked
+SO00044,Germany,76,59,True,8,0,17,False,Blocked
+SO00045,Germany,30,0,False,3,0,30,False,Stock shortage
+SO00046,Germany,66,51,False,5,51,15,False,Stock shortage
+SO00047,India,70,41,False,7,41,29,False,Stock shortage
+SO00048,Germany,61,47,False,4,47,14,False,Stock shortage
+SO00049,Czech Republic,13,0,False,3,0,13,False,Stock shortage
+SO00050,India,53,67,False,-2,53,0,True,On track
+SO00051,Germany,84,51,True,3,0,33,False,Blocked
+SO00052,Germany,32,11,False,5,11,21,False,Stock shortage
+SO00053,Germany,55,33,False,1,33,22,False,Stock shortage
+SO00054,India,57,82,False,8,57,0,False,Late
+SO00055,Germany,108,64,False,1,64,44,False,Stock shortage
+SO00056,Germany,53,70,False,4,53,0,False,Late
+SO00057,Czech Republic,22,25,True,4,0,0,False,Blocked
+SO00058,India,119,132,False,6,119,0,False,Late
+SO00059,Germany,92,109,False,2,92,0,False,Late
+SO00060,Germany,8,32,True,3,0,0,False,Blocked
+SO00061,Germany,7,23,False,6,7,0,False,Late
+SO00062,Germany,8,28,True,0,0,0,False,Blocked
+SO00063,Czech Republic,77,40,False,1,40,37,False,Stock shortage
+SO00064,India,16,2,False,-2,2,14,False,Stock shortage
+SO00065,India,11,19,False,7,11,0,False,Late
+SO00066,Germany,41,29,False,3,29,12,False,Stock shortage
+SO00067,Czech Republic,34,39,False,8,34,0,False,Late
+SO00068,Germany,59,54,False,-1,54,5,False,Stock shortage
+SO00069,India,59,26,True,1,0,33,False,Blocked
+SO00070,Germany,34,5,False,-1,5,29,False,Stock shortage
+SO00071,India,48,39,False,6,39,9,False,Stock shortage
+SO00072,Czech Republic,39,61,True,6,0,0,False,Blocked
+SO00073,Czech Republic,120,88,False,0,88,32,False,Stock shortage
+SO00074,Czech Republic,15,0,False,0,0,15,False,Stock shortage
+SO00075,India,37,18,False,1,18,19,False,Stock shortage
+SO00076,Germany,82,70,False,2,70,12,False,Stock shortage
+SO00077,Germany,12,21,False,-2,12,0,True,On track
+SO00078,Germany,43,14,False,2,14,29,False,Stock shortage
+SO00079,India,95,106,False,4,95,0,False,Late
+SO00080,India,2,0,True,0,0,2,False,Blocked
+SO00081,Czech Republic,5,7,False,0,5,0,True,On track
+SO00082,Czech Republic,17,0,False,-2,0,17,False,Stock shortage
+SO00083,India,27,13,False,3,13,14,False,Stock shortage
+SO00084,Germany,114,121,False,0,114,0,True,On track
+SO00085,Czech Republic,111,86,False,0,86,25,False,Stock shortage
+SO00086,Czech Republic,4,0,False,3,0,4,False,Stock shortage
+SO00087,Czech Republic,103,89,False,-1,89,14,False,Stock shortage
+SO00088,Germany,112,71,False,1,71,41,False,Stock shortage
+SO00089,Germany,105,118,False,1,105,0,False,Late
+SO00090,Germany,4,0,False,2,0,4,False,Stock shortage
+SO00091,Czech Republic,99,89,False,6,89,10,False,Stock shortage
+SO00092,Germany,87,110,False,-2,87,0,True,On track
+SO00093,Germany,113,101,False,2,101,12,False,Stock shortage
+SO00094,Czech Republic,14,24,False,3,14,0,False,Late
+SO00095,Germany,78,98,False,7,78,0,False,Late
+SO00096,India,33,0,False,-2,0,33,False,Stock shortage
+SO00097,Germany,119,142,False,8,119,0,False,Late
+SO00098,Czech Republic,47,57,True,8,0,0,False,Blocked
+SO00099,India,80,75,False,-1,75,5,False,Stock shortage
+SO00100,Czech Republic,116,109,False,8,109,7,False,Stock shortage
+SO00101,Germany,42,48,False,6,42,0,False,Late
+SO00102,India,25,33,False,4,25,0,False,Late
+SO00103,Czech Republic,96,73,False,2,73,23,False,Stock shortage
+SO00104,Czech Republic,71,26,False,1,26,45,False,Stock shortage
+SO00105,India,101,97,False,5,97,4,False,Stock shortage
+SO00106,India,28,48,False,0,28,0,True,On track
+SO00107,India,11,2,False,8,2,9,False,Stock shortage
+SO00108,India,43,9,False,1,9,34,False,Stock shortage
+SO00109,Germany,40,23,False,0,23,17,False,Stock shortage
+SO00110,Germany,6,0,False,7,0,6,False,Stock shortage
+SO00111,Germany,59,67,False,7,59,0,False,Late
+SO00112,Germany,92,96,False,1,92,0,False,Late
+SO00113,Czech Republic,84,39,False,-1,39,45,False,Stock shortage
+SO00114,Czech Republic,29,6,False,6,6,23,False,Stock shortage
+SO00115,Czech Republic,7,0,False,-1,0,7,False,Stock shortage
+SO00116,India,18,32,False,6,18,0,False,Late
+SO00117,Czech Republic,41,52,False,6,41,0,False,Late
+SO00118,India,107,132,False,0,107,0,True,On track
+SO00119,India,111,126,False,1,111,0,False,Late
+SO00120,Czech Republic,36,57,False,1,36,0,False,Late
+SO00121,Czech Republic,57,21,False,1,21,36,False,Stock shortage
+SO00122,Germany,43,38,False,-1,38,5,False,Stock shortage
+SO00123,India,20,4,False,0,4,16,False,Stock shortage
+SO00124,India,28,0,False,3,0,28,False,Stock shortage
+SO00125,Czech Republic,60,68,True,4,0,0,False,Blocked
+SO00126,Czech Republic,116,73,False,7,73,43,False,Stock shortage
+SO00127,Czech Republic,62,17,False,2,17,45,False,Stock shortage
+SO00128,India,110,118,False,6,110,0,False,Late
+SO00129,Czech Republic,115,98,False,2,98,17,False,Stock shortage
+SO00130,India,63,21,False,8,21,42,False,Stock shortage
+SO00131,Germany,103,109,False,5,103,0,False,Late
+SO00132,India,80,103,True,4,0,0,False,Blocked
+SO00133,Germany,73,31,True,4,0,42,False,Blocked
+SO00134,Czech Republic,111,125,False,2,111,0,False,Late
+SO00135,Czech Republic,42,24,False,3,24,18,False,Stock shortage
+SO00136,Czech Republic,36,44,False,-1,36,0,True,On track
+SO00137,Germany,3,27,True,3,0,0,False,Blocked
+SO00138,Germany,84,47,False,8,47,37,False,Stock shortage
+SO00139,Germany,97,55,False,1,55,42,False,Stock shortage
+SO00140,India,80,54,False,5,54,26,False,Stock shortage
+SO00141,Czech Republic,15,0,False,2,0,15,False,Stock shortage
+SO00142,Czech Republic,22,0,False,0,0,22,False,Stock shortage
+SO00143,India,14,0,False,7,0,14,False,Stock shortage
+SO00144,Germany,117,120,False,1,117,0,False,Late
+SO00145,India,76,62,False,2,62,14,False,Stock shortage
+SO00146,Germany,77,47,False,7,47,30,False,Stock shortage
+SO00147,Germany,45,68,False,3,45,0,False,Late
+SO00148,Czech Republic,65,63,True,4,0,2,False,Blocked
+SO00149,Czech Republic,14,24,False,8,14,0,False,Late
+SO00150,India,91,65,False,6,65,26,False,Stock shortage
+SO00151,Czech Republic,35,58,False,5,35,0,False,Late
+SO00152,Germany,106,95,False,1,95,11,False,Stock shortage
+SO00153,India,36,48,False,5,36,0,False,Late
+SO00154,Czech Republic,79,82,False,5,79,0,False,Late
+SO00155,Czech Republic,24,41,False,2,24,0,False,Late
+SO00156,Germany,36,26,False,6,26,10,False,Stock shortage
+SO00157,India,11,0,False,5,0,11,False,Stock shortage
+SO00158,India,98,83,False,8,83,15,False,Stock shortage
+SO00159,Czech Republic,63,75,False,-1,63,0,True,On track
+SO00160,India,29,35,False,2,29,0,False,Late
+SO00161,Czech Republic,75,77,False,6,75,0,False,Late
+SO00162,Czech Republic,55,80,False,5,55,0,False,Late
+SO00163,Czech Republic,40,27,False,1,27,13,False,Stock shortage
+SO00164,Germany,16,39,False,0,16,0,True,On track
+SO00165,India,28,44,False,7,28,0,False,Late
+SO00166,Czech Republic,77,68,False,1,68,9,False,Stock shortage
+SO00167,India,30,31,False,-2,30,0,True,On track
+SO00168,India,69,40,False,-2,40,29,False,Stock shortage
+SO00169,Germany,38,9,False,5,9,29,False,Stock shortage
+SO00170,Czech Republic,112,68,False,5,68,44,False,Stock shortage
+SO00171,Czech Republic,57,55,False,-2,55,2,False,Stock shortage
+SO00172,Czech Republic,111,127,False,-1,111,0,True,On track
+SO00173,Germany,63,27,False,8,27,36,False,Stock shortage
+SO00174,Germany,20,0,False,2,0,20,False,Stock shortage
+SO00175,India,32,2,False,4,2,30,False,Stock shortage
+SO00176,Czech Republic,77,60,False,4,60,17,False,Stock shortage
+SO00177,Czech Republic,117,128,False,7,117,0,False,Late
+SO00178,Germany,40,2,False,-1,2,38,False,Stock shortage
+SO00179,Germany,81,63,False,-1,63,18,False,Stock shortage
+SO00180,Germany,31,8,False,0,8,23,False,Stock shortage
+SO00181,Czech Republic,53,65,False,5,53,0,False,Late
+SO00182,India,5,0,False,2,0,5,False,Stock shortage
+SO00183,Czech Republic,111,124,True,1,0,0,False,Blocked
+SO00184,Germany,101,81,False,6,81,20,False,Stock shortage
+SO00185,Germany,83,57,False,0,57,26,False,Stock shortage
+SO00186,India,8,0,False,7,0,8,False,Stock shortage
+SO00187,India,106,97,False,5,97,9,False,Stock shortage
+SO00188,India,39,45,False,6,39,0,False,Late
+SO00189,Czech Republic,64,75,True,-2,0,0,False,Blocked
+SO00190,Germany,95,91,False,-2,91,4,False,Stock shortage
+SO00191,Czech Republic,30,0,False,8,0,30,False,Stock shortage
+SO00192,Czech Republic,74,34,False,0,34,40,False,Stock shortage
+SO00193,India,67,78,False,0,67,0,True,On track
+SO00194,Czech Republic,56,73,False,5,56,0,False,Late
+SO00195,Germany,53,50,False,-1,50,3,False,Stock shortage
+SO00196,India,43,50,False,2,43,0,False,Late
+SO00197,Czech Republic,52,77,True,-1,0,0,False,Blocked
+SO00198,India,33,29,False,4,29,4,False,Stock shortage
+SO00199,Czech Republic,106,61,False,6,61,45,False,Stock shortage
+SO00200,India,53,14,False,3,14,39,False,Stock shortage
+SO00201,Germany,97,115,False,-2,97,0,True,On track
+SO00202,Czech Republic,35,60,False,2,35,0,False,Late
+SO00203,India,113,130,False,8,113,0,False,Late
+SO00204,India,103,88,False,2,88,15,False,Stock shortage
+SO00205,Germany,2,27,False,1,2,0,False,Late
+SO00206,Czech Republic,60,30,False,0,30,30,False,Stock shortage
+SO00207,Czech Republic,120,112,False,2,112,8,False,Stock shortage
+SO00208,Czech Republic,107,123,False,1,107,0,False,Late
+SO00209,India,71,44,False,7,44,27,False,Stock shortage
+SO00210,Czech Republic,96,68,False,2,68,28,False,Stock shortage
+SO00211,Czech Republic,44,63,False,-2,44,0,True,On track
+SO00212,India,93,86,False,7,86,7,False,Stock shortage
+SO00213,Czech Republic,63,37,False,5,37,26,False,Stock shortage
+SO00214,Czech Republic,43,68,False,4,43,0,False,Late
+SO00215,India,120,116,False,1,116,4,False,Stock shortage
+SO00216,Germany,50,34,False,4,34,16,False,Stock shortage
+SO00217,Czech Republic,41,56,False,4,41,0,False,Late
+SO00218,Germany,85,59,False,-2,59,26,False,Stock shortage
+SO00219,Germany,65,62,False,5,62,3,False,Stock shortage
+SO00220,Czech Republic,68,81,True,0,0,0,False,Blocked
+SO00221,Czech Republic,112,86,True,2,0,26,False,Blocked
+SO00222,India,80,85,False,3,80,0,False,Late
+SO00223,India,110,133,False,3,110,0,False,Late
+SO00224,India,92,109,False,-2,92,0,True,On track
+SO00225,Germany,9,0,False,2,0,9,False,Stock shortage
+SO00226,India,96,62,False,-1,62,34,False,Stock shortage
+SO00227,Germany,91,58,False,2,58,33,False,Stock shortage
+SO00228,Czech Republic,6,2,False,2,2,4,False,Stock shortage
+SO00229,Czech Republic,48,58,False,6,48,0,False,Late
+SO00230,India,73,51,False,-1,51,22,False,Stock shortage
+SO00231,Czech Republic,112,115,False,1,112,0,False,Late
+SO00232,Czech Republic,117,90,False,8,90,27,False,Stock shortage
+SO00233,Czech Republic,59,46,False,5,46,13,False,Stock shortage
+SO00234,Czech Republic,87,111,False,5,87,0,False,Late
+SO00235,India,76,69,False,4,69,7,False,Stock shortage
+SO00236,Czech Republic,33,46,False,1,33,0,False,Late
+SO00237,India,110,126,False,4,110,0,False,Late
+SO00238,Germany,46,38,False,2,38,8,False,Stock shortage
+SO00239,India,107,112,False,7,107,0,False,Late
+SO00240,Czech Republic,100,61,False,5,61,39,False,Stock shortage
+SO00241,Germany,100,84,False,3,84,16,False,Stock shortage
+SO00242,India,82,61,False,8,61,21,False,Stock shortage
+SO00243,India,99,71,False,8,71,28,False,Stock shortage
+SO00244,India,6,0,False,-2,0,6,False,Stock shortage
+SO00245,Czech Republic,47,18,False,2,18,29,False,Stock shortage
+SO00246,India,96,104,False,0,96,0,True,On track
+SO00247,Germany,113,114,False,2,113,0,False,Late
+SO00248,India,33,49,False,2,33,0,False,Late
+SO00249,Germany,112,110,False,5,110,2,False,Stock shortage
+SO00250,Czech Republic,19,2,False,8,2,17,False,Stock shortage
+SO00251,Germany,109,110,False,4,109,0,False,Late
+SO00252,India,34,57,False,3,34,0,False,Late
+SO00253,Czech Republic,96,84,False,8,84,12,False,Stock shortage
+SO00254,India,14,0,False,7,0,14,False,Stock shortage
+SO00255,Czech Republic,42,25,False,8,25,17,False,Stock shortage
+SO00256,Germany,117,110,False,-1,110,7,False,Stock shortage
+SO00257,Germany,6,0,False,5,0,6,False,Stock shortage
+SO00258,Czech Republic,13,0,False,0,0,13,False,Stock shortage
+SO00259,Czech Republic,59,61,False,6,59,0,False,Late
+SO00260,Germany,76,50,False,8,50,26,False,Stock shortage
+SO00261,Germany,107,124,False,2,107,0,False,Late
+SO00262,Germany,89,91,False,5,89,0,False,Late
+SO00263,Czech Republic,110,111,False,8,110,0,False,Late
+SO00264,Germany,70,70,True,2,0,0,False,Blocked
+SO00265,India,16,29,False,1,16,0,False,Late
+SO00266,Germany,82,39,True,3,0,43,False,Blocked
+SO00267,Germany,17,0,True,6,0,17,False,Blocked
+SO00268,Czech Republic,76,58,False,1,58,18,False,Stock shortage
+SO00269,Germany,100,73,False,7,73,27,False,Stock shortage
+SO00270,Czech Republic,36,9,False,6,9,27,False,Stock shortage
+SO00271,Germany,103,80,False,-2,80,23,False,Stock shortage
+SO00272,India,2,2,False,1,2,0,False,Late
+SO00273,Germany,42,0,False,-2,0,42,False,Stock shortage
+SO00274,Czech Republic,95,103,False,-1,95,0,True,On track
+SO00275,Czech Republic,58,59,False,-1,58,0,True,On track
+SO00276,India,65,48,False,-2,48,17,False,Stock shortage
+SO00277,Germany,101,122,False,8,101,0,False,Late
+SO00278,India,8,24,False,4,8,0,False,Late
+SO00279,Germany,14,31,False,5,14,0,False,Late
+SO00280,Germany,116,81,False,0,81,35,False,Stock shortage
+SO00281,India,17,7,False,7,7,10,False,Stock shortage
+SO00282,India,92,88,False,7,88,4,False,Stock shortage
+SO00283,Germany,38,51,False,4,38,0,False,Late
+SO00284,India,102,71,False,8,71,31,False,Stock shortage
+SO00285,Czech Republic,93,75,False,1,75,18,False,Stock shortage
+SO00286,Czech Republic,44,57,False,-1,44,0,True,On track
+SO00287,Germany,55,50,False,3,50,5,False,Stock shortage
+SO00288,Germany,88,103,True,-1,0,0,False,Blocked
+SO00289,Germany,56,23,False,3,23,33,False,Stock shortage
+SO00290,India,72,34,False,6,34,38,False,Stock shortage
+SO00291,Czech Republic,43,13,False,8,13,30,False,Stock shortage
+SO00292,Czech Republic,112,73,False,7,73,39,False,Stock shortage
+SO00293,Germany,46,14,False,1,14,32,False,Stock shortage
+SO00294,Czech Republic,85,101,False,-1,85,0,True,On track
+SO00295,India,109,111,False,2,109,0,False,Late
+SO00296,India,29,38,False,7,29,0,False,Late
+SO00297,India,87,45,False,8,45,42,False,Stock shortage
+SO00298,Czech Republic,35,0,False,2,0,35,False,Stock shortage
+SO00299,India,45,0,False,0,0,45,False,Stock shortage
+SO00300,Germany,85,91,True,8,0,0,False,Blocked
+SO00301,Czech Republic,12,34,False,4,12,0,False,Late
+SO00302,India,44,19,False,3,19,25,False,Stock shortage
+SO00303,Germany,77,42,False,0,42,35,False,Stock shortage
+SO00304,Czech Republic,97,58,False,2,58,39,False,Stock shortage
+SO00305,Czech Republic,85,94,False,5,85,0,False,Late
+SO00306,Czech Republic,35,17,False,-1,17,18,False,Stock shortage
+SO00307,India,56,25,False,8,25,31,False,Stock shortage
+SO00308,Germany,63,85,False,-2,63,0,True,On track
+SO00309,Germany,51,13,True,2,0,38,False,Blocked
+SO00310,Czech Republic,99,71,False,2,71,28,False,Stock shortage
+SO00311,Germany,16,0,False,4,0,16,False,Stock shortage
+SO00312,India,17,20,False,1,17,0,False,Late
+SO00313,Czech Republic,72,72,True,-2,0,0,False,Blocked
+SO00314,India,3,16,False,3,3,0,False,Late
+SO00315,Czech Republic,55,61,False,4,55,0,False,Late
+SO00316,Germany,15,21,True,3,0,0,False,Blocked
+SO00317,Germany,103,116,False,3,103,0,False,Late
+SO00318,Czech Republic,56,24,False,7,24,32,False,Stock shortage
+SO00319,India,68,33,False,2,33,35,False,Stock shortage
+SO00320,Germany,44,27,False,0,27,17,False,Stock shortage
+SO00321,Czech Republic,66,35,False,1,35,31,False,Stock shortage
+SO00322,Czech Republic,45,18,False,0,18,27,False,Stock shortage
+SO00323,Germany,26,3,False,8,3,23,False,Stock shortage
+SO00324,India,23,41,False,7,23,0,False,Late
+SO00325,Czech Republic,58,54,False,8,54,4,False,Stock shortage
+SO00326,India,20,31,True,5,0,0,False,Blocked
+SO00327,India,39,29,False,3,29,10,False,Stock shortage
+SO00328,Germany,10,4,False,-2,4,6,False,Stock shortage
+SO00329,India,48,39,True,-1,0,9,False,Blocked
+SO00330,India,77,96,False,7,77,0,False,Late
+SO00331,India,102,62,False,7,62,40,False,Stock shortage
+SO00332,Germany,25,21,False,6,21,4,False,Stock shortage
+SO00333,India,8,20,False,3,8,0,False,Late
+SO00334,Germany,11,30,False,-2,11,0,True,On track
+SO00335,India,91,102,False,6,91,0,False,Late
+SO00336,Czech Republic,79,54,False,2,54,25,False,Stock shortage
+SO00337,India,53,51,False,-2,51,2,False,Stock shortage
+SO00338,India,83,80,True,-1,0,3,False,Blocked
+SO00339,India,87,91,False,8,87,0,False,Late
+SO00340,India,112,86,False,7,86,26,False,Stock shortage
+SO00341,India,19,18,False,8,18,1,False,Stock shortage
+SO00342,Czech Republic,85,90,False,-1,85,0,True,On track
+SO00343,Germany,72,75,False,3,72,0,False,Late
+SO00344,Czech Republic,86,108,False,8,86,0,False,Late
+SO00345,Germany,66,67,True,2,0,0,False,Blocked
+SO00346,Germany,28,26,False,5,26,2,False,Stock shortage
+SO00347,Germany,29,1,False,2,1,28,False,Stock shortage
+SO00348,Germany,65,89,False,6,65,0,False,Late
+SO00349,Germany,85,83,False,7,83,2,False,Stock shortage
+SO00350,India,77,80,False,0,77,0,True,On track
+SO00351,Czech Republic,99,75,False,-2,75,24,False,Stock shortage
+SO00352,Czech Republic,47,32,False,7,32,15,False,Stock shortage
+SO00353,Czech Republic,97,109,False,1,97,0,False,Late
+SO00354,Czech Republic,104,119,False,1,104,0,False,Late
+SO00355,Czech Republic,87,98,False,2,87,0,False,Late
+SO00356,Germany,65,87,False,0,65,0,True,On track
+SO00357,India,103,75,False,-2,75,28,False,Stock shortage
+SO00358,India,62,64,False,-1,62,0,True,On track
+SO00359,Germany,109,130,False,2,109,0,False,Late
+SO00360,Germany,98,73,False,6,73,25,False,Stock shortage
+SO00361,Czech Republic,107,117,False,1,107,0,False,Late
+SO00362,Germany,114,113,False,4,113,1,False,Stock shortage
+SO00363,Germany,51,70,False,4,51,0,False,Late
+SO00364,India,48,31,True,-1,0,17,False,Blocked
+SO00365,Germany,84,81,False,0,81,3,False,Stock shortage
+SO00366,India,37,52,False,0,37,0,True,On track
+SO00367,Germany,61,73,False,-1,61,0,True,On track
+SO00368,India,33,15,False,6,15,18,False,Stock shortage
+SO00369,Germany,78,100,False,2,78,0,False,Late
+SO00370,India,39,9,True,4,0,30,False,Blocked
+SO00371,India,102,115,True,5,0,0,False,Blocked
+SO00372,Germany,69,26,False,7,26,43,False,Stock shortage
+SO00373,India,92,65,False,-2,65,27,False,Stock shortage
+SO00374,India,46,31,False,0,31,15,False,Stock shortage
+SO00375,Germany,86,51,False,3,51,35,False,Stock shortage
+SO00376,India,68,92,False,6,68,0,False,Late
+SO00377,India,3,7,False,-2,3,0,True,On track
+SO00378,Czech Republic,50,52,False,-2,50,0,True,On track
+SO00379,India,101,64,False,8,64,37,False,Stock shortage
+SO00380,India,14,11,False,3,11,3,False,Stock shortage
+SO00381,Czech Republic,44,21,False,8,21,23,False,Stock shortage
+SO00382,Germany,90,106,False,0,90,0,True,On track
+SO00383,Germany,92,105,True,1,0,0,False,Blocked
+SO00384,Czech Republic,102,82,False,3,82,20,False,Stock shortage
+SO00385,Czech Republic,66,71,False,6,66,0,False,Late
+SO00386,Czech Republic,33,0,False,1,0,33,False,Stock shortage
+SO00387,Czech Republic,46,7,False,3,7,39,False,Stock shortage
+SO00388,India,16,18,False,4,16,0,False,Late
+SO00389,Czech Republic,57,61,False,0,57,0,True,On track
+SO00390,Czech Republic,89,107,False,6,89,0,False,Late
+SO00391,Czech Republic,103,68,False,-1,68,35,False,Stock shortage
+SO00392,Germany,78,56,False,3,56,22,False,Stock shortage
+SO00393,Czech Republic,11,7,False,2,7,4,False,Stock shortage
+SO00394,Czech Republic,78,87,False,5,78,0,False,Late
+SO00395,India,58,18,False,3,18,40,False,Stock shortage
+SO00396,Germany,56,46,False,-2,46,10,False,Stock shortage
+SO00397,Germany,86,92,False,8,86,0,False,Late
+SO00398,Czech Republic,4,0,False,8,0,4,False,Stock shortage
+SO00399,Czech Republic,5,0,True,8,0,5,False,Blocked
+SO00400,India,47,51,False,-2,47,0,True,On track
+SO00401,Czech Republic,20,32,False,3,20,0,False,Late
+SO00402,Czech Republic,98,62,False,6,62,36,False,Stock shortage
+SO00403,Germany,51,46,False,1,46,5,False,Stock shortage
+SO00404,India,4,0,False,4,0,4,False,Stock shortage
+SO00405,Germany,16,4,False,5,4,12,False,Stock shortage
+SO00406,Germany,79,70,False,5,70,9,False,Stock shortage
+SO00407,Germany,16,0,False,5,0,16,False,Stock shortage
+SO00408,Czech Republic,116,127,False,8,116,0,False,Late
+SO00409,India,86,85,False,6,85,1,False,Stock shortage
+SO00410,Germany,38,31,False,8,31,7,False,Stock shortage
+SO00411,Germany,102,103,False,-1,102,0,True,On track
+SO00412,Germany,102,74,False,5,74,28,False,Stock shortage
+SO00413,India,47,72,False,5,47,0,False,Late
+SO00414,India,17,0,True,4,0,17,False,Blocked
+SO00415,India,93,109,False,4,93,0,False,Late
+SO00416,Germany,10,0,False,8,0,10,False,Stock shortage
+SO00417,Germany,58,72,False,3,58,0,False,Late
+SO00418,Germany,113,138,False,0,113,0,True,On track
+SO00419,Germany,56,75,False,-2,56,0,True,On track
+SO00420,Czech Republic,67,41,False,0,41,26,False,Stock shortage
+SO00421,Czech Republic,120,103,False,6,103,17,False,Stock shortage
+SO00422,India,109,74,False,8,74,35,False,Stock shortage
+SO00423,India,36,7,False,7,7,29,False,Stock shortage
+SO00424,India,12,31,False,7,12,0,False,Late
+SO00425,Czech Republic,20,0,False,7,0,20,False,Stock shortage
+SO00426,Germany,108,68,False,-2,68,40,False,Stock shortage
+SO00427,Czech Republic,6,0,False,7,0,6,False,Stock shortage
+SO00428,India,80,38,False,8,38,42,False,Stock shortage
+SO00429,Czech Republic,38,31,False,8,31,7,False,Stock shortage
+SO00430,Germany,39,52,True,-2,0,0,False,Blocked
+SO00431,Czech Republic,57,65,False,1,57,0,False,Late
+SO00432,India,78,51,False,3,51,27,False,Stock shortage
+SO00433,Czech Republic,111,110,False,0,110,1,False,Stock shortage
+SO00434,Germany,66,34,False,5,34,32,False,Stock shortage
+SO00435,Germany,35,47,False,-1,35,0,True,On track
+SO00436,Germany,38,42,False,4,38,0,False,Late
+SO00437,India,111,86,False,7,86,25,False,Stock shortage
+SO00438,India,41,20,False,5,20,21,False,Stock shortage
+SO00439,Germany,60,78,False,5,60,0,False,Late
+SO00440,Germany,12,17,False,1,12,0,False,Late
+SO00441,Czech Republic,75,75,True,2,0,0,False,Blocked
+SO00442,Germany,77,92,False,-2,77,0,True,On track
+SO00443,Czech Republic,56,28,False,3,28,28,False,Stock shortage
+SO00444,India,47,7,False,7,7,40,False,Stock shortage
+SO00445,Czech Republic,25,26,False,-1,25,0,True,On track
+SO00446,India,65,77,False,2,65,0,False,Late
+SO00447,Czech Republic,88,58,False,-1,58,30,False,Stock shortage
+SO00448,Germany,48,46,False,3,46,2,False,Stock shortage
+SO00449,Germany,26,46,False,-2,26,0,True,On track
+SO00450,India,5,0,False,5,0,5,False,Stock shortage
+SO00451,Germany,59,33,False,6,33,26,False,Stock shortage
+SO00452,India,42,37,False,7,37,5,False,Stock shortage
+SO00453,India,108,101,False,6,101,7,False,Stock shortage
+SO00454,Czech Republic,69,86,False,2,69,0,False,Late
+SO00455,Germany,105,62,False,8,62,43,False,Stock shortage
+SO00456,Germany,54,48,False,8,48,6,False,Stock shortage
+SO00457,India,77,92,False,8,77,0,False,Late
+SO00458,Czech Republic,74,58,False,7,58,16,False,Stock shortage
+SO00459,Czech Republic,22,44,False,7,22,0,False,Late
+SO00460,Germany,19,5,True,-1,0,14,False,Blocked
+SO00461,Czech Republic,3,14,False,0,3,0,True,On track
+SO00462,Czech Republic,89,70,False,7,70,19,False,Stock shortage
+SO00463,Germany,112,74,False,6,74,38,False,Stock shortage
+SO00464,India,72,68,False,5,68,4,False,Stock shortage
+SO00465,India,49,44,False,5,44,5,False,Stock shortage
+SO00466,India,44,68,False,8,44,0,False,Late
+SO00467,Germany,103,91,False,1,91,12,False,Stock shortage
+SO00468,Czech Republic,36,29,False,2,29,7,False,Stock shortage
+SO00469,Czech Republic,91,72,False,5,72,19,False,Stock shortage
+SO00470,Czech Republic,62,61,False,2,61,1,False,Stock shortage
+SO00471,Czech Republic,16,40,False,4,16,0,False,Late
+SO00472,India,99,72,False,2,72,27,False,Stock shortage
+SO00473,Czech Republic,11,10,False,8,10,1,False,Stock shortage
+SO00474,Czech Republic,96,112,False,6,96,0,False,Late
+SO00475,India,120,109,False,7,109,11,False,Stock shortage
+SO00476,India,76,61,False,8,61,15,False,Stock shortage
+SO00477,Czech Republic,29,13,True,4,0,16,False,Blocked
+SO00478,Germany,92,107,False,0,92,0,True,On track
+SO00479,Czech Republic,71,46,False,5,46,25,False,Stock shortage
+SO00480,Czech Republic,84,64,False,2,64,20,False,Stock shortage
+SO00481,India,37,0,False,-1,0,37,False,Stock shortage
+SO00482,Germany,74,58,False,-2,58,16,False,Stock shortage
+SO00483,Czech Republic,54,31,False,-2,31,23,False,Stock shortage
+SO00484,Germany,101,119,False,2,101,0,False,Late
+SO00485,Czech Republic,2,0,False,-1,0,2,False,Stock shortage
+SO00486,India,37,50,False,6,37,0,False,Late
+SO00487,Czech Republic,64,36,False,5,36,28,False,Stock shortage
+SO00488,India,25,0,False,5,0,25,False,Stock shortage
+SO00489,Czech Republic,33,11,True,3,0,22,False,Blocked
+SO00490,Czech Republic,73,52,False,8,52,21,False,Stock shortage
+SO00491,Czech Republic,106,115,False,-1,106,0,True,On track
+SO00492,Czech Republic,86,53,False,0,53,33,False,Stock shortage
+SO00493,Germany,42,28,True,4,0,14,False,Blocked
+SO00494,India,58,47,False,2,47,11,False,Stock shortage
+SO00495,India,93,49,False,3,49,44,False,Stock shortage
+SO00496,Czech Republic,31,0,False,5,0,31,False,Stock shortage
+SO00497,India,21,27,False,2,21,0,False,Late
+SO00498,Germany,16,8,False,1,8,8,False,Stock shortage
+SO00499,Czech Republic,18,34,False,7,18,0,False,Late
+SO00500,India,54,79,False,6,54,0,False,Late
+SO00501,India,106,88,False,8,88,18,False,Stock shortage
+SO00502,India,112,77,False,6,77,35,False,Stock shortage
+SO00503,Germany,47,11,False,-1,11,36,False,Stock shortage
+SO00504,India,107,132,False,1,107,0,False,Late
+SO00505,Czech Republic,69,43,False,6,43,26,False,Stock shortage
+SO00506,Germany,15,0,False,5,0,15,False,Stock shortage
+SO00507,Czech Republic,116,136,False,-2,116,0,True,On track
+SO00508,Germany,17,37,False,7,17,0,False,Late
+SO00509,India,72,86,False,2,72,0,False,Late
+SO00510,India,3,8,False,-2,3,0,True,On track
+SO00511,India,28,0,True,3,0,28,False,Blocked
+SO00512,Czech Republic,9,33,False,-1,9,0,True,On track
+SO00513,India,5,0,False,0,0,5,False,Stock shortage
+SO00514,Czech Republic,94,102,False,4,94,0,False,Late
+SO00515,India,112,115,False,8,112,0,False,Late
+SO00516,Germany,112,136,False,3,112,0,False,Late
+SO00517,India,23,46,False,0,23,0,True,On track
+SO00518,Czech Republic,29,0,False,2,0,29,False,Stock shortage
+SO00519,Germany,87,111,False,4,87,0,False,Late
+SO00520,Germany,32,45,False,2,32,0,False,Late
+SO00521,Czech Republic,120,89,True,8,0,31,False,Blocked
+SO00522,Germany,79,36,False,-1,36,43,False,Stock shortage
+SO00523,India,77,36,False,8,36,41,False,Stock shortage
+SO00524,Czech Republic,112,73,False,-2,73,39,False,Stock shortage
+SO00525,Germany,57,41,False,-2,41,16,False,Stock shortage
+SO00526,Czech Republic,65,57,False,7,57,8,False,Stock shortage
+SO00527,India,74,70,False,0,70,4,False,Stock shortage
+SO00528,Germany,67,50,False,2,50,17,False,Stock shortage
+SO00529,India,72,49,False,4,49,23,False,Stock shortage
+SO00530,India,64,25,False,8,25,39,False,Stock shortage
+SO00531,Czech Republic,49,71,False,4,49,0,False,Late
+SO00532,Czech Republic,20,13,False,6,13,7,False,Stock shortage
+SO00533,Czech Republic,31,14,False,0,14,17,False,Stock shortage
+SO00534,India,118,80,False,4,80,38,False,Stock shortage
+SO00535,Germany,68,40,False,2,40,28,False,Stock shortage
+SO00536,Germany,43,8,False,3,8,35,False,Stock shortage
+SO00537,India,69,48,True,4,0,21,False,Blocked
+SO00538,India,78,38,False,1,38,40,False,Stock shortage
+SO00539,Czech Republic,93,75,False,3,75,18,False,Stock shortage
+SO00540,India,117,73,False,1,73,44,False,Stock shortage
+SO00541,India,16,32,False,7,16,0,False,Late
+SO00542,Czech Republic,27,32,False,6,27,0,False,Late
+SO00543,India,100,91,False,6,91,9,False,Stock shortage
+SO00544,Czech Republic,46,40,False,6,40,6,False,Stock shortage
+SO00545,Czech Republic,60,27,False,5,27,33,False,Stock shortage
+SO00546,Germany,118,99,False,4,99,19,False,Stock shortage
+SO00547,Czech Republic,73,56,False,-2,56,17,False,Stock shortage
+SO00548,Czech Republic,71,79,False,1,71,0,False,Late
+SO00549,Czech Republic,30,33,False,1,30,0,False,Late
+SO00550,India,71,69,False,5,69,2,False,Stock shortage
+SO00551,Germany,83,100,False,3,83,0,False,Late
+SO00552,India,18,42,False,6,18,0,False,Late
+SO00553,India,8,30,True,-1,0,0,False,Blocked
+SO00554,Germany,7,0,False,8,0,7,False,Stock shortage
+SO00555,Czech Republic,9,0,True,6,0,9,False,Blocked
+SO00556,India,48,10,False,8,10,38,False,Stock shortage
+SO00557,Germany,117,133,False,-2,117,0,True,On track
+SO00558,India,69,94,False,-2,69,0,True,On track
+SO00559,Germany,93,83,False,2,83,10,False,Stock shortage
+SO00560,Germany,65,75,False,0,65,0,True,On track
+SO00561,Germany,118,85,False,1,85,33,False,Stock shortage
+SO00562,Czech Republic,80,102,False,3,80,0,False,Late
+SO00563,Czech Republic,102,107,True,4,0,0,False,Blocked
+SO00564,Czech Republic,73,59,False,1,59,14,False,Stock shortage
+SO00565,Germany,88,53,False,8,53,35,False,Stock shortage
+SO00566,Czech Republic,12,18,False,6,12,0,False,Late
+SO00567,Czech Republic,8,0,False,-1,0,8,False,Stock shortage
+SO00568,India,109,119,False,3,109,0,False,Late
+SO00569,Germany,110,77,False,-2,77,33,False,Stock shortage
+SO00570,India,28,43,False,-1,28,0,True,On track
+SO00571,India,119,109,False,7,109,10,False,Stock shortage
+SO00572,Germany,5,0,False,3,0,5,False,Stock shortage
+SO00573,Germany,27,0,False,4,0,27,False,Stock shortage
+SO00574,Czech Republic,39,14,False,7,14,25,False,Stock shortage
+SO00575,India,87,111,False,0,87,0,True,On track
+SO00576,Germany,93,58,False,3,58,35,False,Stock shortage
+SO00577,Czech Republic,13,23,False,-1,13,0,True,On track
+SO00578,Germany,78,83,False,3,78,0,False,Late
+SO00579,Czech Republic,82,71,False,5,71,11,False,Stock shortage
+SO00580,Czech Republic,30,30,False,4,30,0,False,Late
+SO00581,Czech Republic,24,27,True,7,0,0,False,Blocked
+SO00582,Czech Republic,103,89,False,-1,89,14,False,Stock shortage
+SO00583,Germany,20,23,False,8,20,0,False,Late
+SO00584,Germany,95,99,False,-1,95,0,True,On track
+SO00585,Germany,1,0,False,2,0,1,False,Stock shortage
+SO00586,India,17,0,False,5,0,17,False,Stock shortage
+SO00587,Germany,72,92,False,-2,72,0,True,On track
+SO00588,Czech Republic,46,71,False,7,46,0,False,Late
+SO00589,Czech Republic,111,115,True,4,0,0,False,Blocked
+SO00590,Germany,100,65,False,6,65,35,False,Stock shortage
+SO00591,Germany,74,95,False,4,74,0,False,Late
+SO00592,Germany,18,7,False,5,7,11,False,Stock shortage
+SO00593,Czech Republic,9,0,False,4,0,9,False,Stock shortage
+SO00594,India,62,26,False,1,26,36,False,Stock shortage
+SO00595,Czech Republic,81,99,False,1,81,0,False,Late
+SO00596,Czech Republic,14,0,False,4,0,14,False,Stock shortage
+SO00597,Czech Republic,108,111,False,3,108,0,False,Late
+SO00598,India,43,53,False,8,43,0,False,Late
+SO00599,Czech Republic,18,11,False,1,11,7,False,Stock shortage
+SO00600,Czech Republic,41,18,False,3,18,23,False,Stock shortage
+SO00601,Czech Republic,95,112,False,1,95,0,False,Late
+SO00602,Czech Republic,49,39,False,4,39,10,False,Stock shortage
+SO00603,Germany,15,0,False,6,0,15,False,Stock shortage
+SO00604,India,88,113,True,5,0,0,False,Blocked
+SO00605,Czech Republic,27,38,False,-1,27,0,True,On track
+SO00606,Germany,87,105,False,2,87,0,False,Late
+SO00607,Germany,33,7,False,4,7,26,False,Stock shortage
+SO00608,India,58,74,False,6,58,0,False,Late
+SO00609,India,119,127,False,3,119,0,False,Late
+SO00610,Germany,115,138,False,-1,115,0,True,On track
+SO00611,Germany,99,85,False,3,85,14,False,Stock shortage
+SO00612,India,83,43,False,8,43,40,False,Stock shortage
+SO00613,Czech Republic,83,89,False,3,83,0,False,Late
+SO00614,India,14,0,False,1,0,14,False,Stock shortage
+SO00615,Germany,96,117,False,7,96,0,False,Late
+SO00616,India,58,60,False,8,58,0,False,Late
+SO00617,Czech Republic,89,108,False,-2,89,0,True,On track
+SO00618,Germany,14,6,False,-1,6,8,False,Stock shortage
+SO00619,Czech Republic,107,80,False,3,80,27,False,Stock shortage
+SO00620,Czech Republic,101,82,False,3,82,19,False,Stock shortage
+SO00621,Czech Republic,13,24,False,5,13,0,False,Late
+SO00622,Germany,9,2,True,-1,0,7,False,Blocked
+SO00623,Germany,109,107,False,8,107,2,False,Stock shortage
+SO00624,Germany,120,106,False,6,106,14,False,Stock shortage
+SO00625,Czech Republic,43,52,False,1,43,0,False,Late
+SO00626,Czech Republic,81,59,False,8,59,22,False,Stock shortage
+SO00627,Czech Republic,51,9,False,1,9,42,False,Stock shortage
+SO00628,Germany,76,85,False,1,76,0,False,Late
+SO00629,Germany,36,0,False,6,0,36,False,Stock shortage
+SO00630,Czech Republic,47,43,False,-1,43,4,False,Stock shortage
+SO00631,Czech Republic,86,103,False,8,86,0,False,Late
+SO00632,Germany,77,81,False,7,77,0,False,Late
+SO00633,Germany,45,45,False,7,45,0,False,Late
+SO00634,Germany,105,98,False,7,98,7,False,Stock shortage
+SO00635,Czech Republic,87,59,False,1,59,28,False,Stock shortage
+SO00636,India,15,0,False,0,0,15,False,Stock shortage
+SO00637,Czech Republic,50,58,False,7,50,0,False,Late
+SO00638,India,55,33,False,6,33,22,False,Stock shortage
+SO00639,Czech Republic,118,95,False,5,95,23,False,Stock shortage
+SO00640,India,18,0,False,5,0,18,False,Stock shortage
+SO00641,Germany,7,7,False,5,7,0,False,Late
+SO00642,India,25,29,False,6,25,0,False,Late
+SO00643,India,64,71,False,4,64,0,False,Late
+SO00644,India,108,119,False,-1,108,0,True,On track
+SO00645,Germany,4,0,False,2,0,4,False,Stock shortage
+SO00646,India,69,60,False,5,60,9,False,Stock shortage
+SO00647,India,96,114,False,-1,96,0,True,On track
+SO00648,India,15,4,False,3,4,11,False,Stock shortage
+SO00649,India,106,66,False,5,66,40,False,Stock shortage
+SO00650,Germany,28,37,False,8,28,0,False,Late
+SO00651,Germany,39,0,False,3,0,39,False,Stock shortage
+SO00652,Germany,57,27,False,1,27,30,False,Stock shortage
+SO00653,India,104,103,False,7,103,1,False,Stock shortage
+SO00654,Germany,55,31,False,1,31,24,False,Stock shortage
+SO00655,Czech Republic,104,66,False,6,66,38,False,Stock shortage
+SO00656,Czech Republic,77,100,False,2,77,0,False,Late
+SO00657,India,74,63,False,6,63,11,False,Stock shortage
+SO00658,Germany,105,72,False,4,72,33,False,Stock shortage
+SO00659,Germany,36,7,False,0,7,29,False,Stock shortage
+SO00660,Czech Republic,19,15,False,8,15,4,False,Stock shortage
+SO00661,India,63,36,False,2,36,27,False,Stock shortage
+SO00662,Germany,54,57,False,8,54,0,False,Late
+SO00663,Czech Republic,52,72,False,3,52,0,False,Late
+SO00664,India,63,59,False,-1,59,4,False,Stock shortage
+SO00665,Czech Republic,59,59,False,6,59,0,False,Late
+SO00666,Czech Republic,28,37,False,5,28,0,False,Late
+SO00667,Germany,42,33,False,7,33,9,False,Stock shortage
+SO00668,Germany,73,90,False,8,73,0,False,Late
+SO00669,Germany,6,0,False,5,0,6,False,Stock shortage
+SO00670,Czech Republic,16,0,False,-2,0,16,False,Stock shortage
+SO00671,Germany,26,0,False,2,0,26,False,Stock shortage
+SO00672,Czech Republic,112,102,False,3,102,10,False,Stock shortage
+SO00673,Germany,11,13,False,8,11,0,False,Late
+SO00674,Czech Republic,7,12,False,1,7,0,False,Late
+SO00675,Germany,84,50,False,-2,50,34,False,Stock shortage
+SO00676,India,62,26,False,1,26,36,False,Stock shortage
+SO00677,Germany,88,99,True,3,0,0,False,Blocked
+SO00678,Germany,111,120,False,5,111,0,False,Late
+SO00679,Germany,30,34,True,-1,0,0,False,Blocked
+SO00680,Czech Republic,41,43,False,0,41,0,True,On track
+SO00681,Germany,100,72,False,8,72,28,False,Stock shortage
+SO00682,India,9,31,False,7,9,0,False,Late
+SO00683,India,22,33,False,1,22,0,False,Late
+SO00684,India,96,70,False,7,70,26,False,Stock shortage
+SO00685,Germany,57,39,True,-1,0,18,False,Blocked
+SO00686,Czech Republic,97,67,False,4,67,30,False,Stock shortage
+SO00687,Czech Republic,55,50,False,1,50,5,False,Stock shortage
+SO00688,India,83,48,False,7,48,35,False,Stock shortage
+SO00689,India,93,84,False,-2,84,9,False,Stock shortage
+SO00690,India,113,106,False,7,106,7,False,Stock shortage
+SO00691,Germany,25,30,False,-2,25,0,True,On track
+SO00692,India,64,68,False,5,64,0,False,Late
+SO00693,Czech Republic,77,41,False,-2,41,36,False,Stock shortage
+SO00694,Czech Republic,120,115,False,7,115,5,False,Stock shortage
+SO00695,Germany,47,71,False,5,47,0,False,Late
+SO00696,Germany,3,0,True,1,0,3,False,Blocked
+SO00697,India,119,81,False,4,81,38,False,Stock shortage
+SO00698,India,37,56,False,4,37,0,False,Late
+SO00699,India,52,17,False,6,17,35,False,Stock shortage
+SO00700,India,20,10,True,-1,0,10,False,Blocked
+SO00701,India,118,99,False,0,99,19,False,Stock shortage
+SO00702,India,42,47,False,8,42,0,False,Late
+SO00703,India,83,46,False,4,46,37,False,Stock shortage
+SO00704,Czech Republic,109,94,True,-1,0,15,False,Blocked
+SO00705,Czech Republic,15,28,False,-2,15,0,True,On track
+SO00706,India,86,63,False,0,63,23,False,Stock shortage
+SO00707,India,2,0,False,3,0,2,False,Stock shortage
+SO00708,India,67,55,False,0,55,12,False,Stock shortage
+SO00709,Germany,100,89,False,-1,89,11,False,Stock shortage
+SO00710,Czech Republic,43,52,False,-1,43,0,True,On track
+SO00711,Czech Republic,92,56,False,6,56,36,False,Stock shortage
+SO00712,Czech Republic,8,26,False,0,8,0,True,On track
+SO00713,India,21,8,False,7,8,13,False,Stock shortage
+SO00714,Germany,93,62,False,6,62,31,False,Stock shortage
+SO00715,Czech Republic,6,0,False,5,0,6,False,Stock shortage
+SO00716,India,50,24,False,-2,24,26,False,Stock shortage
+SO00717,Czech Republic,103,111,False,1,103,0,False,Late
+SO00718,India,118,113,False,-1,113,5,False,Stock shortage
+SO00719,Germany,48,18,False,-2,18,30,False,Stock shortage
+SO00720,Germany,29,50,False,4,29,0,False,Late
+SO00721,Czech Republic,113,127,False,2,113,0,False,Late
+SO00722,Germany,12,37,False,3,12,0,False,Late
+SO00723,Czech Republic,38,31,False,1,31,7,False,Stock shortage
+SO00724,India,48,66,False,1,48,0,False,Late
+SO00725,Germany,116,140,False,1,116,0,False,Late
+SO00726,Czech Republic,1,8,True,6,0,0,False,Blocked
+SO00727,India,82,38,False,-2,38,44,False,Stock shortage
+SO00728,Germany,49,43,False,6,43,6,False,Stock shortage
+SO00729,India,54,71,False,0,54,0,True,On track
+SO00730,India,36,2,True,1,0,34,False,Blocked
+SO00731,India,53,55,False,-1,53,0,True,On track
+SO00732,Germany,13,32,False,4,13,0,False,Late
+SO00733,Germany,76,38,False,0,38,38,False,Stock shortage
+SO00734,India,38,26,False,4,26,12,False,Stock shortage
+SO00735,Germany,107,103,False,2,103,4,False,Stock shortage
+SO00736,Germany,10,0,False,7,0,10,False,Stock shortage
+SO00737,Czech Republic,20,0,False,5,0,20,False,Stock shortage
+SO00738,Czech Republic,53,23,False,1,23,30,False,Stock shortage
+SO00739,Germany,40,54,False,-1,40,0,True,On track
+SO00740,Germany,21,14,False,7,14,7,False,Stock shortage
+SO00741,Czech Republic,28,24,False,1,24,4,False,Stock shortage
+SO00742,Czech Republic,51,71,True,2,0,0,False,Blocked
+SO00743,Czech Republic,105,82,True,4,0,23,False,Blocked
+SO00744,Germany,72,97,False,5,72,0,False,Late
+SO00745,Germany,103,75,False,-2,75,28,False,Stock shortage
+SO00746,India,17,0,False,3,0,17,False,Stock shortage
+SO00747,Germany,81,46,False,2,46,35,False,Stock shortage
+SO00748,Czech Republic,3,0,False,8,0,3,False,Stock shortage
+SO00749,Germany,104,75,False,3,75,29,False,Stock shortage
+SO00750,Czech Republic,6,20,True,7,0,0,False,Blocked
+SO00751,India,106,111,False,4,106,0,False,Late
+SO00752,Czech Republic,55,32,False,0,32,23,False,Stock shortage
+SO00753,India,36,48,False,-2,36,0,True,On track
+SO00754,Czech Republic,80,66,False,5,66,14,False,Stock shortage
+SO00755,Czech Republic,113,138,False,-1,113,0,True,On track
+SO00756,India,50,22,False,8,22,28,False,Stock shortage
+SO00757,India,32,56,False,4,32,0,False,Late
+SO00758,Czech Republic,46,62,False,5,46,0,False,Late
+SO00759,Germany,117,136,False,2,117,0,False,Late
+SO00760,Czech Republic,4,0,False,-2,0,4,False,Stock shortage
+SO00761,Germany,8,23,False,7,8,0,False,Late
+SO00762,Czech Republic,21,0,False,1,0,21,False,Stock shortage
+SO00763,India,69,31,False,1,31,38,False,Stock shortage
+SO00764,Germany,109,113,False,0,109,0,True,On track
+SO00765,India,31,26,False,3,26,5,False,Stock shortage
+SO00766,Germany,4,4,False,7,4,0,False,Late
+SO00767,India,73,52,False,5,52,21,False,Stock shortage
+SO00768,Germany,40,17,False,-1,17,23,False,Stock shortage
+SO00769,Germany,30,13,True,5,0,17,False,Blocked
+SO00770,India,43,23,False,3,23,20,False,Stock shortage
+SO00771,India,23,19,True,0,0,4,False,Blocked
+SO00772,Czech Republic,91,64,False,6,64,27,False,Stock shortage
+SO00773,Czech Republic,10,12,False,8,10,0,False,Late
+SO00774,Germany,76,43,False,3,43,33,False,Stock shortage
+SO00775,India,21,31,False,5,21,0,False,Late
+SO00776,India,41,18,False,6,18,23,False,Stock shortage
+SO00777,Germany,114,114,False,7,114,0,False,Late
+SO00778,Germany,49,43,False,2,43,6,False,Stock shortage
+SO00779,Czech Republic,23,0,False,7,0,23,False,Stock shortage
+SO00780,India,109,68,False,3,68,41,False,Stock shortage
+SO00781,Czech Republic,29,0,False,0,0,29,False,Stock shortage
+SO00782,Germany,96,60,False,3,60,36,False,Stock shortage
+SO00783,India,82,48,False,8,48,34,False,Stock shortage
+SO00784,Germany,94,91,False,2,91,3,False,Stock shortage
+SO00785,India,32,0,False,-1,0,32,False,Stock shortage
+SO00786,Germany,1,0,False,4,0,1,False,Stock shortage
+SO00787,Czech Republic,114,121,False,4,114,0,False,Late
+SO00788,India,70,73,False,5,70,0,False,Late
+SO00789,Germany,84,67,False,-1,67,17,False,Stock shortage
+SO00790,Germany,38,0,False,-1,0,38,False,Stock shortage
+SO00791,India,44,20,False,0,20,24,False,Stock shortage
+SO00792,Czech Republic,10,35,False,-1,10,0,True,On track
+SO00793,India,77,93,False,4,77,0,False,Late
+SO00794,Czech Republic,22,32,False,-1,22,0,True,On track
+SO00795,India,27,6,False,6,6,21,False,Stock shortage
+SO00796,Czech Republic,119,143,False,2,119,0,False,Late
+SO00797,India,31,0,True,7,0,31,False,Blocked
+SO00798,Germany,108,125,False,3,108,0,False,Late
+SO00799,India,55,21,False,8,21,34,False,Stock shortage
+SO00800,Germany,77,93,False,-2,77,0,True,On track
+SO00801,Germany,22,14,False,5,14,8,False,Stock shortage
+SO00802,Czech Republic,40,45,False,8,40,0,False,Late
+SO00803,Czech Republic,12,36,False,3,12,0,False,Late
+SO00804,Czech Republic,48,26,False,2,26,22,False,Stock shortage
+SO00805,India,60,48,False,2,48,12,False,Stock shortage
+SO00806,Germany,8,0,False,8,0,8,False,Stock shortage
+SO00807,India,11,10,False,4,10,1,False,Stock shortage
+SO00808,India,30,55,True,4,0,0,False,Blocked
+SO00809,India,54,77,False,5,54,0,False,Late
+SO00810,Czech Republic,113,98,False,-1,98,15,False,Stock shortage
+SO00811,India,116,75,False,6,75,41,False,Stock shortage
+SO00812,Germany,87,60,False,5,60,27,False,Stock shortage
+SO00813,Germany,22,4,False,0,4,18,False,Stock shortage
+SO00814,Germany,55,20,False,4,20,35,False,Stock shortage
+SO00815,Czech Republic,106,79,False,2,79,27,False,Stock shortage
+SO00816,Czech Republic,117,80,True,6,0,37,False,Blocked
+SO00817,Czech Republic,71,67,False,6,67,4,False,Stock shortage
+SO00818,India,118,74,False,7,74,44,False,Stock shortage
+SO00819,Germany,67,75,False,0,67,0,True,On track
+SO00820,Germany,73,40,False,7,40,33,False,Stock shortage
+SO00821,Czech Republic,101,92,False,3,92,9,False,Stock shortage
+SO00822,India,34,38,False,7,34,0,False,Late
+SO00823,Germany,61,20,False,4,20,41,False,Stock shortage
+SO00824,India,80,86,True,3,0,0,False,Blocked
+SO00825,Czech Republic,31,0,False,2,0,31,False,Stock shortage
+SO00826,Czech Republic,3,1,False,2,1,2,False,Stock shortage
+SO00827,Germany,36,53,False,8,36,0,False,Late
+SO00828,Czech Republic,112,96,False,5,96,16,False,Stock shortage
+SO00829,Germany,35,43,False,-1,35,0,True,On track
+SO00830,India,57,39,False,4,39,18,False,Stock shortage
+SO00831,India,63,84,False,-2,63,0,True,On track
+SO00832,Czech Republic,102,77,True,6,0,25,False,Blocked
+SO00833,Germany,18,40,False,-2,18,0,True,On track
+SO00834,Germany,25,5,False,1,5,20,False,Stock shortage
+SO00835,Czech Republic,59,20,False,1,20,39,False,Stock shortage
+SO00836,Germany,48,62,False,8,48,0,False,Late
+SO00837,India,88,46,False,5,46,42,False,Stock shortage
+SO00838,India,58,35,False,5,35,23,False,Stock shortage
+SO00839,India,71,70,False,2,70,1,False,Stock shortage
+SO00840,Germany,107,73,False,4,73,34,False,Stock shortage
+SO00841,Germany,21,3,False,8,3,18,False,Stock shortage
+SO00842,India,87,68,False,4,68,19,False,Stock shortage
+SO00843,India,3,0,False,0,0,3,False,Stock shortage
+SO00844,Czech Republic,23,0,False,7,0,23,False,Stock shortage
+SO00845,Czech Republic,92,82,False,4,82,10,False,Stock shortage
+SO00846,India,59,46,False,2,46,13,False,Stock shortage
+SO00847,India,67,72,False,-2,67,0,True,On track
+SO00848,India,85,87,False,7,85,0,False,Late
+SO00849,Germany,37,30,False,5,30,7,False,Stock shortage
+SO00850,Czech Republic,44,34,False,2,34,10,False,Stock shortage
+SO00851,Germany,84,77,False,6,77,7,False,Stock shortage
+SO00852,Czech Republic,116,78,False,7,78,38,False,Stock shortage
+SO00853,India,85,80,False,-2,80,5,False,Stock shortage
+SO00854,Czech Republic,64,56,False,4,56,8,False,Stock shortage
+SO00855,Germany,50,9,False,7,9,41,False,Stock shortage
+SO00856,Czech Republic,44,27,False,8,27,17,False,Stock shortage
+SO00857,India,117,117,False,0,117,0,True,On track
+SO00858,Germany,113,91,False,5,91,22,False,Stock shortage
+SO00859,Germany,95,83,False,6,83,12,False,Stock shortage
+SO00860,Czech Republic,88,85,False,1,85,3,False,Stock shortage
+SO00861,Czech Republic,29,23,False,3,23,6,False,Stock shortage
+SO00862,Czech Republic,34,26,False,-1,26,8,False,Stock shortage
+SO00863,India,7,0,False,1,0,7,False,Stock shortage
+SO00864,Germany,16,19,False,4,16,0,False,Late
+SO00865,Czech Republic,112,86,False,1,86,26,False,Stock shortage
+SO00866,Germany,53,66,False,0,53,0,True,On track
+SO00867,Czech Republic,63,60,False,0,60,3,False,Stock shortage
+SO00868,Germany,82,44,True,2,0,38,False,Blocked
+SO00869,Czech Republic,98,74,False,0,74,24,False,Stock shortage
+SO00870,India,101,67,False,4,67,34,False,Stock shortage
+SO00871,Czech Republic,55,61,False,5,55,0,False,Late
+SO00872,Germany,1,0,False,3,0,1,False,Stock shortage
+SO00873,Germany,115,111,False,6,111,4,False,Stock shortage
+SO00874,Germany,3,0,False,1,0,3,False,Stock shortage
+SO00875,Czech Republic,89,88,False,-1,88,1,False,Stock shortage
+SO00876,Czech Republic,65,59,False,-2,59,6,False,Stock shortage
+SO00877,India,38,51,False,7,38,0,False,Late
+SO00878,Czech Republic,44,54,False,0,44,0,True,On track
+SO00879,Germany,116,133,False,1,116,0,False,Late
+SO00880,India,117,123,True,1,0,0,False,Blocked
+SO00881,India,17,0,False,7,0,17,False,Stock shortage
+SO00882,Germany,22,0,False,8,0,22,False,Stock shortage
+SO00883,Germany,49,36,False,7,36,13,False,Stock shortage
+SO00884,Germany,77,38,False,8,38,39,False,Stock shortage
+SO00885,Germany,7,0,False,4,0,7,False,Stock shortage
+SO00886,Germany,71,58,False,0,58,13,False,Stock shortage
+SO00887,Germany,89,45,False,8,45,44,False,Stock shortage
+SO00888,India,85,106,False,7,85,0,False,Late
+SO00889,India,18,26,False,-1,18,0,True,On track
+SO00890,Czech Republic,93,63,False,-1,63,30,False,Stock shortage
+SO00891,Germany,26,6,False,6,6,20,False,Stock shortage
+SO00892,India,46,53,False,-2,46,0,True,On track
+SO00893,Czech Republic,64,45,False,5,45,19,False,Stock shortage
+SO00894,Germany,31,0,True,-1,0,31,False,Blocked
+SO00895,India,107,125,False,-1,107,0,True,On track
+SO00896,Germany,10,0,False,8,0,10,False,Stock shortage
+SO00897,Germany,59,51,False,-2,51,8,False,Stock shortage
+SO00898,Czech Republic,105,82,False,2,82,23,False,Stock shortage
+SO00899,Germany,103,98,False,-1,98,5,False,Stock shortage
+SO00900,India,109,69,True,0,0,40,False,Blocked
+SO00901,India,83,59,False,5,59,24,False,Stock shortage
+SO00902,Germany,35,1,False,3,1,34,False,Stock shortage
+SO00903,Czech Republic,15,21,False,5,15,0,False,Late
+SO00904,Czech Republic,107,111,False,5,107,0,False,Late
+SO00905,Germany,84,60,False,-2,60,24,False,Stock shortage
+SO00906,India,14,22,False,5,14,0,False,Late
+SO00907,Czech Republic,87,98,False,4,87,0,False,Late
+SO00908,Czech Republic,79,37,False,0,37,42,False,Stock shortage
+SO00909,Czech Republic,118,135,False,4,118,0,False,Late
+SO00910,Germany,6,0,False,3,0,6,False,Stock shortage
+SO00911,India,91,113,False,7,91,0,False,Late
+SO00912,Czech Republic,73,56,False,8,56,17,False,Stock shortage
+SO00913,Germany,67,88,False,7,67,0,False,Late
+SO00914,India,56,42,False,8,42,14,False,Stock shortage
+SO00915,India,83,87,False,6,83,0,False,Late
+SO00916,India,7,0,False,0,0,7,False,Stock shortage
+SO00917,Germany,109,124,False,0,109,0,True,On track
+SO00918,Czech Republic,97,114,False,3,97,0,False,Late
+SO00919,Czech Republic,7,26,False,8,7,0,False,Late
+SO00920,India,52,37,True,5,0,15,False,Blocked
+SO00921,Czech Republic,58,24,False,5,24,34,False,Stock shortage
+SO00922,Germany,16,34,False,-2,16,0,True,On track
+SO00923,Germany,52,59,True,6,0,0,False,Blocked
+SO00924,India,106,72,False,7,72,34,False,Stock shortage
+SO00925,India,39,59,False,8,39,0,False,Late
+SO00926,Germany,59,57,False,-2,57,2,False,Stock shortage
+SO00927,India,109,122,False,7,109,0,False,Late
+SO00928,Germany,61,62,False,-1,61,0,True,On track
+SO00929,India,98,81,True,3,0,17,False,Blocked
+SO00930,India,103,95,False,3,95,8,False,Stock shortage
+SO00931,Germany,14,0,False,5,0,14,False,Stock shortage
+SO00932,Germany,106,113,False,7,106,0,False,Late
+SO00933,Germany,25,0,False,4,0,25,False,Stock shortage
+SO00934,Czech Republic,59,38,False,-1,38,21,False,Stock shortage
+SO00935,Czech Republic,6,0,False,5,0,6,False,Stock shortage
+SO00936,Germany,85,104,False,5,85,0,False,Late
+SO00937,India,68,29,False,4,29,39,False,Stock shortage
+SO00938,India,62,82,False,0,62,0,True,On track
+SO00939,Germany,75,52,False,0,52,23,False,Stock shortage
+SO00940,Czech Republic,50,46,False,4,46,4,False,Stock shortage
+SO00941,Czech Republic,78,64,False,3,64,14,False,Stock shortage
+SO00942,India,58,30,False,7,30,28,False,Stock shortage
+SO00943,Czech Republic,114,134,False,6,114,0,False,Late
+SO00944,Germany,92,117,False,1,92,0,False,Late
+SO00945,Germany,80,72,False,8,72,8,False,Stock shortage
+SO00946,Czech Republic,91,68,False,8,68,23,False,Stock shortage
+SO00947,Czech Republic,91,60,False,6,60,31,False,Stock shortage
+SO00948,Czech Republic,75,83,False,6,75,0,False,Late
+SO00949,Germany,113,122,False,6,113,0,False,Late
+SO00950,Germany,4,7,False,8,4,0,False,Late
+SO00951,Czech Republic,26,15,False,0,15,11,False,Stock shortage
+SO00952,India,88,75,False,-2,75,13,False,Stock shortage
+SO00953,Germany,101,93,False,6,93,8,False,Stock shortage
+SO00954,India,46,58,False,8,46,0,False,Late
+SO00955,Czech Republic,72,55,False,6,55,17,False,Stock shortage
+SO00956,India,31,51,False,2,31,0,False,Late
+SO00957,Czech Republic,86,47,False,4,47,39,False,Stock shortage
+SO00958,Germany,101,96,False,-2,96,5,False,Stock shortage
+SO00959,Germany,96,83,False,5,83,13,False,Stock shortage
+SO00960,India,117,119,False,6,117,0,False,Late
+SO00961,Czech Republic,78,58,False,1,58,20,False,Stock shortage
+SO00962,Germany,58,35,False,-1,35,23,False,Stock shortage
+SO00963,Czech Republic,23,43,False,-2,23,0,True,On track
+SO00964,Czech Republic,36,24,False,7,24,12,False,Stock shortage
+SO00965,Germany,1,0,False,0,0,1,False,Stock shortage
+SO00966,India,20,16,False,8,16,4,False,Stock shortage
+SO00967,India,108,101,False,7,101,7,False,Stock shortage
+SO00968,India,46,10,False,3,10,36,False,Stock shortage
+SO00969,Germany,29,7,False,6,7,22,False,Stock shortage
+SO00970,Czech Republic,54,78,False,-1,54,0,True,On track
+SO00971,Czech Republic,29,11,False,3,11,18,False,Stock shortage
+SO00972,India,38,20,False,7,20,18,False,Stock shortage
+SO00973,Czech Republic,61,17,False,3,17,44,False,Stock shortage
+SO00974,Czech Republic,31,17,False,8,17,14,False,Stock shortage
+SO00975,India,49,18,False,6,18,31,False,Stock shortage
+SO00976,India,37,0,False,3,0,37,False,Stock shortage
+SO00977,Czech Republic,103,123,False,-2,103,0,True,On track
+SO00978,Germany,115,94,False,-1,94,21,False,Stock shortage
+SO00979,Germany,22,45,False,8,22,0,False,Late
+SO00980,Germany,27,9,False,4,9,18,False,Stock shortage
+SO00981,India,27,50,False,4,27,0,False,Late
+SO00982,Germany,105,69,False,0,69,36,False,Stock shortage
+SO00983,Germany,59,56,True,-1,0,3,False,Blocked
+SO00984,Germany,23,10,False,7,10,13,False,Stock shortage
+SO00985,India,117,105,False,5,105,12,False,Stock shortage
+SO00986,India,52,62,False,4,52,0,False,Late
+SO00987,Germany,16,39,True,7,0,0,False,Blocked
+SO00988,Czech Republic,97,57,False,-1,57,40,False,Stock shortage
+SO00989,Czech Republic,119,138,False,8,119,0,False,Late
+SO00990,Czech Republic,78,44,False,5,44,34,False,Stock shortage
+SO00991,Germany,51,9,False,6,9,42,False,Stock shortage
+SO00992,Czech Republic,18,23,False,6,18,0,False,Late
+SO00993,Czech Republic,82,55,False,8,55,27,False,Stock shortage
+SO00994,Germany,2,27,False,0,2,0,True,On track
+SO00995,India,6,0,False,4,0,6,False,Stock shortage
+SO00996,Germany,71,36,False,3,36,35,False,Stock shortage
+SO00997,Germany,53,73,False,0,53,0,True,On track
+SO00998,India,79,66,False,0,66,13,False,Stock shortage
+SO00999,Czech Republic,103,64,False,6,64,39,False,Stock shortage
+SO01000,Germany,83,108,True,8,0,0,False,Blocked
+SO01001,Czech Republic,33,0,False,7,0,33,False,Stock shortage
+SO01002,Germany,43,43,False,8,43,0,False,Late
+SO01003,Czech Republic,13,4,False,1,4,9,False,Stock shortage
+SO01004,Czech Republic,63,75,False,8,63,0,False,Late
+SO01005,Czech Republic,89,63,False,3,63,26,False,Stock shortage
+SO01006,Germany,55,31,True,1,0,24,False,Blocked
+SO01007,Germany,92,102,False,3,92,0,False,Late
+SO01008,Czech Republic,87,84,False,5,84,3,False,Stock shortage
+SO01009,Germany,46,40,False,-1,40,6,False,Stock shortage
+SO01010,India,83,48,False,0,48,35,False,Stock shortage
+SO01011,Germany,26,14,False,8,14,12,False,Stock shortage
+SO01012,India,94,58,False,6,58,36,False,Stock shortage
+SO01013,Germany,4,10,False,1,4,0,False,Late
+SO01014,Czech Republic,71,59,False,6,59,12,False,Stock shortage
+SO01015,India,84,58,False,1,58,26,False,Stock shortage
+SO01016,India,94,86,False,6,86,8,False,Stock shortage
+SO01017,India,12,17,False,-2,12,0,True,On track
+SO01018,Czech Republic,31,7,False,0,7,24,False,Stock shortage
+SO01019,India,21,0,False,7,0,21,False,Stock shortage
+SO01020,Czech Republic,112,85,False,5,85,27,False,Stock shortage
+SO01021,Germany,6,0,False,1,0,6,False,Stock shortage
+SO01022,Germany,34,36,False,8,34,0,False,Late
+SO01023,Germany,67,68,False,5,67,0,False,Late
+SO01024,India,6,2,False,6,2,4,False,Stock shortage
+SO01025,India,107,97,False,2,97,10,False,Stock shortage
+SO01026,Czech Republic,70,47,False,4,47,23,False,Stock shortage
+SO01027,Germany,76,40,False,4,40,36,False,Stock shortage
+SO01028,Czech Republic,67,73,False,3,67,0,False,Late
+SO01029,India,102,118,False,-2,102,0,True,On track
+SO01030,Germany,113,85,False,1,85,28,False,Stock shortage
+SO01031,Germany,66,56,False,0,56,10,False,Stock shortage
+SO01032,Czech Republic,47,17,False,4,17,30,False,Stock shortage
+SO01033,Czech Republic,93,62,False,5,62,31,False,Stock shortage
+SO01034,Germany,27,2,False,4,2,25,False,Stock shortage
+SO01035,Germany,32,0,False,7,0,32,False,Stock shortage
+SO01036,Germany,18,38,True,7,0,0,False,Blocked
+SO01037,India,8,0,False,0,0,8,False,Stock shortage
+SO01038,Czech Republic,52,9,False,8,9,43,False,Stock shortage
+SO01039,Czech Republic,11,0,False,5,0,11,False,Stock shortage
+SO01040,Germany,22,5,False,7,5,17,False,Stock shortage
+SO01041,Czech Republic,102,80,False,6,80,22,False,Stock shortage
+SO01042,India,22,20,False,7,20,2,False,Stock shortage
+SO01043,Germany,9,0,False,0,0,9,False,Stock shortage
+SO01044,India,3,0,False,6,0,3,False,Stock shortage
+SO01045,Czech Republic,54,28,False,0,28,26,False,Stock shortage
+SO01046,India,116,75,False,6,75,41,False,Stock shortage
+SO01047,Germany,97,67,False,8,67,30,False,Stock shortage
+SO01048,India,116,140,False,8,116,0,False,Late
+SO01049,India,56,77,False,-2,56,0,True,On track
+SO01050,Czech Republic,68,77,False,5,68,0,False,Late
+SO01051,Czech Republic,45,12,False,2,12,33,False,Stock shortage
+SO01052,Czech Republic,99,83,False,-1,83,16,False,Stock shortage
+SO01053,Germany,77,101,False,1,77,0,False,Late
+SO01054,India,91,46,False,-1,46,45,False,Stock shortage
+SO01055,Czech Republic,1,4,False,3,1,0,False,Late
+SO01056,India,47,15,False,8,15,32,False,Stock shortage
+SO01057,India,33,21,False,4,21,12,False,Stock shortage
+SO01058,Germany,47,37,False,4,37,10,False,Stock shortage
+SO01059,Germany,53,78,False,5,53,0,False,Late
+SO01060,India,48,64,False,2,48,0,False,Late
+SO01061,Germany,45,50,False,8,45,0,False,Late
+SO01062,Germany,96,80,False,0,80,16,False,Stock shortage
+SO01063,India,28,48,False,3,28,0,False,Late
+SO01064,Germany,79,40,False,8,40,39,False,Stock shortage
+SO01065,India,103,69,False,5,69,34,False,Stock shortage
+SO01066,Czech Republic,56,22,True,1,0,34,False,Blocked
+SO01067,India,11,0,False,4,0,11,False,Stock shortage
+SO01068,Germany,84,105,False,7,84,0,False,Late
+SO01069,Germany,100,77,False,5,77,23,False,Stock shortage
+SO01070,India,26,47,False,-2,26,0,True,On track
+SO01071,Germany,66,87,False,7,66,0,False,Late
+SO01072,Germany,87,46,False,8,46,41,False,Stock shortage
+SO01073,Czech Republic,21,0,False,4,0,21,False,Stock shortage
+SO01074,India,86,91,False,1,86,0,False,Late
+SO01075,Czech Republic,2,0,False,6,0,2,False,Stock shortage
+SO01076,Germany,93,92,False,2,92,1,False,Stock shortage
+SO01077,India,78,57,False,4,57,21,False,Stock shortage
+SO01078,Germany,1,0,False,6,0,1,False,Stock shortage
+SO01079,Germany,72,36,False,3,36,36,False,Stock shortage
+SO01080,India,103,123,False,6,103,0,False,Late
+SO01081,Czech Republic,33,44,False,7,33,0,False,Late
+SO01082,India,99,85,False,5,85,14,False,Stock shortage
+SO01083,Germany,59,17,False,2,17,42,False,Stock shortage
+SO01084,Czech Republic,49,32,False,1,32,17,False,Stock shortage
+SO01085,India,53,53,False,-2,53,0,True,On track
+SO01086,Czech Republic,107,95,False,-1,95,12,False,Stock shortage
+SO01087,Czech Republic,87,85,True,0,0,2,False,Blocked
+SO01088,Czech Republic,41,41,False,7,41,0,False,Late
+SO01089,Germany,24,3,False,1,3,21,False,Stock shortage
+SO01090,Germany,95,80,False,1,80,15,False,Stock shortage
+SO01091,Germany,26,12,False,3,12,14,False,Stock shortage
+SO01092,India,100,68,False,-1,68,32,False,Stock shortage
+SO01093,Germany,85,103,False,6,85,0,False,Late
+SO01094,Czech Republic,109,125,False,3,109,0,False,Late
+SO01095,Czech Republic,115,105,False,6,105,10,False,Stock shortage
+SO01096,Germany,51,34,False,0,34,17,False,Stock shortage
+SO01097,Germany,68,77,False,6,68,0,False,Late
+SO01098,Germany,65,64,False,8,64,1,False,Stock shortage
+SO01099,Czech Republic,59,29,False,5,29,30,False,Stock shortage
+SO01100,Czech Republic,89,45,True,1,0,44,False,Blocked
+SO01101,Czech Republic,75,42,False,7,42,33,False,Stock shortage
+SO01102,Czech Republic,24,49,False,2,24,0,False,Late
+SO01103,Czech Republic,79,77,False,5,77,2,False,Stock shortage
+SO01104,Czech Republic,27,35,False,3,27,0,False,Late
+SO01105,India,110,116,False,0,110,0,True,On track
+SO01106,Germany,17,1,False,2,1,16,False,Stock shortage
+SO01107,Germany,72,82,False,1,72,0,False,Late
+SO01108,Germany,103,77,False,-2,77,26,False,Stock shortage
+SO01109,India,54,72,False,8,54,0,False,Late
+SO01110,Czech Republic,69,64,False,2,64,5,False,Stock shortage
+SO01111,Germany,72,33,False,0,33,39,False,Stock shortage
+SO01112,Germany,28,15,False,8,15,13,False,Stock shortage
+SO01113,India,58,55,False,3,55,3,False,Stock shortage
+SO01114,Germany,72,59,False,4,59,13,False,Stock shortage
+SO01115,India,45,25,False,8,25,20,False,Stock shortage
+SO01116,Czech Republic,69,46,False,2,46,23,False,Stock shortage
+SO01117,Germany,42,62,False,5,42,0,False,Late
+SO01118,Germany,49,40,False,0,40,9,False,Stock shortage
+SO01119,India,82,80,False,7,80,2,False,Stock shortage
+SO01120,Germany,52,16,True,3,0,36,False,Blocked
+SO01121,India,41,36,False,2,36,5,False,Stock shortage
+SO01122,Czech Republic,83,88,False,5,83,0,False,Late
+SO01123,Germany,96,117,False,4,96,0,False,Late
+SO01124,India,24,0,False,1,0,24,False,Stock shortage
+SO01125,Germany,33,0,False,4,0,33,False,Stock shortage
+SO01126,India,13,0,False,5,0,13,False,Stock shortage
+SO01127,Germany,7,0,False,6,0,7,False,Stock shortage
+SO01128,India,14,2,False,-1,2,12,False,Stock shortage
+SO01129,India,120,124,False,1,120,0,False,Late
+SO01130,India,37,48,False,0,37,0,True,On track
+SO01131,Czech Republic,108,84,True,8,0,24,False,Blocked
+SO01132,India,111,107,False,5,107,4,False,Stock shortage
+SO01133,India,120,109,False,0,109,11,False,Stock shortage
+SO01134,India,70,47,False,5,47,23,False,Stock shortage
+SO01135,India,96,106,False,8,96,0,False,Late
+SO01136,Germany,40,39,False,1,39,1,False,Stock shortage
+SO01137,Germany,57,51,False,2,51,6,False,Stock shortage
+SO01138,Czech Republic,39,0,True,0,0,39,False,Blocked
+SO01139,Czech Republic,37,52,False,5,37,0,False,Late
+SO01140,India,39,0,False,2,0,39,False,Stock shortage
+SO01141,Czech Republic,30,0,False,1,0,30,False,Stock shortage
+SO01142,India,113,123,False,0,113,0,True,On track
+SO01143,Czech Republic,95,99,False,1,95,0,False,Late
+SO01144,India,11,20,False,6,11,0,False,Late
+SO01145,Czech Republic,104,93,False,6,93,11,False,Stock shortage
+SO01146,Germany,53,32,False,0,32,21,False,Stock shortage
+SO01147,Czech Republic,38,7,False,7,7,31,False,Stock shortage
+SO01148,Germany,35,52,False,-2,35,0,True,On track
+SO01149,Czech Republic,7,30,True,-1,0,0,False,Blocked
+SO01150,Germany,35,6,False,-2,6,29,False,Stock shortage
+SO01151,Czech Republic,12,0,True,1,0,12,False,Blocked
+SO01152,Czech Republic,54,48,False,5,48,6,False,Stock shortage
+SO01153,Germany,60,19,False,0,19,41,False,Stock shortage
+SO01154,Germany,35,40,True,5,0,0,False,Blocked
+SO01155,Germany,25,12,False,-2,12,13,False,Stock shortage
+SO01156,Germany,99,85,False,5,85,14,False,Stock shortage
+SO01157,India,95,54,False,-1,54,41,False,Stock shortage
+SO01158,Czech Republic,86,67,False,8,67,19,False,Stock shortage
+SO01159,India,120,116,False,-2,116,4,False,Stock shortage
+SO01160,Czech Republic,120,145,False,2,120,0,False,Late
+SO01161,India,82,75,False,-2,75,7,False,Stock shortage
+SO01162,Czech Republic,28,0,False,4,0,28,False,Stock shortage
+SO01163,Germany,2,0,False,7,0,2,False,Stock shortage
+SO01164,India,51,37,True,-2,0,14,False,Blocked
+SO01165,Czech Republic,101,116,False,0,101,0,True,On track
+SO01166,Germany,99,65,False,5,65,34,False,Stock shortage
+SO01167,Germany,88,86,False,8,86,2,False,Stock shortage
+SO01168,Germany,8,8,False,6,8,0,False,Late
+SO01169,India,17,34,False,6,17,0,False,Late
+SO01170,India,97,96,False,5,96,1,False,Stock shortage
+SO01171,India,25,0,False,3,0,25,False,Stock shortage
+SO01172,India,18,5,False,5,5,13,False,Stock shortage
+SO01173,Germany,57,49,False,5,49,8,False,Stock shortage
+SO01174,India,73,51,False,3,51,22,False,Stock shortage
+SO01175,India,60,50,False,7,50,10,False,Stock shortage
+SO01176,Czech Republic,21,0,False,5,0,21,False,Stock shortage
+SO01177,Germany,105,93,False,5,93,12,False,Stock shortage
+SO01178,Germany,100,119,False,0,100,0,True,On track
+SO01179,Czech Republic,80,81,False,1,80,0,False,Late
+SO01180,Czech Republic,93,56,False,6,56,37,False,Stock shortage
+SO01181,Germany,25,47,False,6,25,0,False,Late
+SO01182,Czech Republic,79,70,False,8,70,9,False,Stock shortage
+SO01183,Germany,15,0,False,-1,0,15,False,Stock shortage
+SO01184,Germany,107,78,False,-2,78,29,False,Stock shortage
+SO01185,India,14,31,False,-2,14,0,True,On track
+SO01186,India,83,87,False,6,83,0,False,Late
+SO01187,India,90,77,True,1,0,13,False,Blocked
+SO01188,India,92,56,True,1,0,36,False,Blocked
+SO01189,Germany,63,28,False,8,28,35,False,Stock shortage
+SO01190,India,47,55,False,-2,47,0,True,On track
+SO01191,Czech Republic,35,57,True,-1,0,0,False,Blocked
+SO01192,Germany,10,0,False,-1,0,10,False,Stock shortage
+SO01193,Germany,93,77,False,1,77,16,False,Stock shortage
+SO01194,India,68,54,False,0,54,14,False,Stock shortage
+SO01195,India,96,104,False,8,96,0,False,Late
+SO01196,Germany,46,59,False,4,46,0,False,Late
+SO01197,Czech Republic,22,0,False,6,0,22,False,Stock shortage
+SO01198,Czech Republic,85,60,False,7,60,25,False,Stock shortage
+SO01199,Czech Republic,120,120,False,6,120,0,False,Late
+SO01200,Czech Republic,109,111,False,8,109,0,False,Late

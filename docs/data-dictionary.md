@@ -1,6 +1,6 @@
 # Data Dictionary
 
-The committed files are generated simulation outputs. The CLI does not import external operational CSVs.
+The committed files are generated simulation outputs. The CLI does not import external operational CSVs. Warehouse locations are Germany, Czech Republic and India.
 
 ## orders.csv
 

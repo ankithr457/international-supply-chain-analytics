@@ -17,7 +17,7 @@
 \author{\IEEEauthorblockN{Ankith Ramesh Babu}\IEEEauthorblockA{Independent Operations Analytics Project}}
 \maketitle
 \thispagestyle{plain}\pagestyle{plain}
-\begin{abstract}This paper presents a reproducible order-fulfillment analysis using 1,200 synthetic orders across four warehouse regions. A seeded simulation separates blocked demand, inventory availability and delivery timing, then produces a prioritized exception register and regional scorecards. The baseline contains 106 blocked orders, a 78.57\% unit fill rate on unblocked demand and an 8.92\% on-time-in-full rate. The distinction between overlapping shortage flags and exclusive primary status is made explicit. Offline dashboards, editable Power BI project source and automated checks provide traceable evidence. Results characterize the simulated dataset rather than a deployed logistics operation.\end{abstract}
+\begin{abstract}This paper presents a reproducible order-fulfillment analysis using 1,200 synthetic orders across three warehouse regions. A seeded simulation separates blocked demand, inventory availability and delivery timing, then produces a prioritized exception register and regional scorecards. The baseline contains 99 blocked orders, a 79.48\% unit fill rate on unblocked demand and a 9.42\% on-time-in-full rate. The distinction between overlapping shortage flags and exclusive primary status is made explicit. Offline dashboards, editable Power BI project source and automated checks provide traceable evidence. Results characterize the simulated dataset rather than a deployed logistics operation.\end{abstract}
 
 \begin{IEEEkeywords}supply chain analytics, order fulfillment, OTIF, exception management, reproducibility\end{IEEEkeywords}
 
@@ -70,7 +70,7 @@ This is a batch analysis of simulated observations. It does not write to SAP, ex
 
 \section{Data specification and provenance}
 
-All source observations are generated in src/run.py with a fixed random seed \cite{r1}. No customer, supplier or employee data is used. Regional names represent four analytical groups, not actual sites.
+All source observations are generated in src/run.py with a fixed random seed \cite{r1}. No customer, supplier or employee data is used. Regional names represent three analytical groups (Germany, Czech Republic and India), not actual sites.
 
 
 Table~\ref{tab:2} summarizes source fields and definitions.
@@ -84,7 +84,7 @@ Table~\ref{tab:2} summarizes source fields and definitions.
 \textbf{Field} & \textbf{Type} & \textbf{Meaning} \\
 \hline
 order\_id & Text / unique & SO-prefixed order identifier \\
-warehouse & Text & Germany, Hong Kong, Taiwan, Malaysia \\
+warehouse & Text & Germany, Czech Republic, India \\
 ordered\_units & Integer & Uniformly sampled from 1 to 120 \\
 available\_units & Integer & max(0, order quantity + offset -45 to +25) \\
 blocked & Boolean & Independent probability of 9\% \\
@@ -130,7 +130,7 @@ An unblocked order requests 10 units with 6 available and a delay of -1 day. Ful
 
 \subsection{Overlapping flags versus exclusive status}
 
-The baseline contains 753 orders with an availability shortage, but 687 rows carry the primary status Stock shortage. The remaining 66 shortage orders are blocked and therefore receive the higher-priority Blocked status. Counting primary status and counting shortage flags answer different questions.
+The baseline contains 752 orders with an availability shortage, but 697 rows carry the primary status Stock shortage. The remaining 55 shortage orders are blocked and therefore receive the higher-priority Blocked status. Counting primary status and counting shortage flags answer different questions.
 
 
 \subsection{Denominator policy}
@@ -158,15 +158,14 @@ Table~\ref{tab:4} summarizes regional baseline results.
 \hline
 \textbf{Warehouse} & \textbf{Orders} & \textbf{Fill rate} & \textbf{OTIF} \\
 \hline
-Germany & 285 & 79.33\% & 9.47\% \\
-Hong Kong & 315 & 78.94\% & 8.89\% \\
-Taiwan & 292 & 78.18\% & 7.88\% \\
-Malaysia & 308 & 77.86\% & 9.42\% \\
+Germany & 414 & 79.58\% & 9.42\% \\
+Czech Republic & 399 & 79.42\% & 8.27\% \\
+India & 387 & 79.43\% & 10.59\% \\
 \hline
 \end{tabularx}
 \end{table}
 
-The main workload is stock shortage: 687 orders carry this primary status. Another 300 complete, unblocked orders are late. Only 107 orders meet the complete, unblocked and on-time condition. The 1,093-row exception register excludes the 107 On track orders.
+The main workload is stock shortage: 697 orders carry this primary status. Another 291 complete, unblocked orders are late. Only 113 orders meet the complete, unblocked and on-time condition. The 1,087-row exception register excludes the 113 On track orders.
 
 
 The low OTIF value follows the deliberately difficult simulation distributions. It is not a benchmark for any company. The practical use is testing whether the exception rules and denominator choices produce an auditable queue.
@@ -243,14 +242,14 @@ Table~\ref{tab:5} summarizes sensitivity results.
 \hline
 \textbf{Seed} & \textbf{Blocked orders} & \textbf{Fill rate} & \textbf{OTIF} \\
 \hline
-7 & 127 & 78.26\% & 8.67\% \\
-42 & 106 & 78.57\% & 8.92\% \\
-99 & 124 & 79.32\% & 9.75\% \\
+7 & 125 & 78.22\% & 9.42\% \\
+42 & 99 & 79.48\% & 9.42\% \\
+99 & 128 & 79.27\% & 9.58\% \\
 \hline
 \end{tabularx}
 \end{table}
 
-The alternate-seed runs retain 1,200 orders and identical distributions. Fill rate ranges from 78.26\% to 79.32\%, while OTIF ranges from 8.67\% to 9.75\%. This checks that the analysis works beyond one random draw. It is not a statistical confidence interval or a business forecast.
+The alternate-seed runs retain 1,200 orders and identical distributions. Fill rate ranges from 78.22\% to 79.48\%, while OTIF ranges from 9.42\% to 9.58\%. This checks that the analysis works beyond one random draw. It is not a statistical confidence interval or a business forecast.
 
 
 The warehouse comparison reflects random allocation and sampled conditions. Ranking regions from this artificial dataset is useful for checking scorecard behavior, but not for evaluating real logistics performance.

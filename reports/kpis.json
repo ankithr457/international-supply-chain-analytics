@@ -1,7 +1,7 @@
 {
   "orders": 1200,
-  "blocked_orders": 106,
-  "fill_rate": 0.7857,
-  "otif_rate": 0.0892,
-  "shortage_orders": 753
+  "blocked_orders": 99,
+  "fill_rate": 0.7948,
+  "otif_rate": 0.0942,
+  "shortage_orders": 752
 }

@@ -1,35 +1,35 @@
 {
   "status": {
-    "Blocked": 106,
-    "Stock shortage": 687,
-    "Late": 300,
-    "On track": 107
+    "Blocked": 99,
+    "Stock shortage": 697,
+    "On track": 113,
+    "Late": 291
   },
-  "ordered_unblocked": 67089,
-  "fulfilled": 52713,
-  "otif_orders": 107,
-  "shortage_units": 15766,
+  "ordered_unblocked": 67797,
+  "fulfilled": 53885,
+  "otif_orders": 113,
+  "shortage_units": 15080,
   "scenario": [
     {
       "seed": 7,
       "orders": 1200,
-      "blocked_orders": 127,
-      "fill_rate": 0.7826,
-      "otif_rate": 0.0867
+      "blocked_orders": 125,
+      "fill_rate": 0.7822,
+      "otif_rate": 0.0942
     },
     {
       "seed": 42,
       "orders": 1200,
-      "blocked_orders": 106,
-      "fill_rate": 0.7857,
-      "otif_rate": 0.0892
+      "blocked_orders": 99,
+      "fill_rate": 0.7948,
+      "otif_rate": 0.0942
     },
     {
       "seed": 99,
       "orders": 1200,
-      "blocked_orders": 124,
-      "fill_rate": 0.7932,
-      "otif_rate": 0.0975
+      "blocked_orders": 128,
+      "fill_rate": 0.7927,
+      "otif_rate": 0.0958
     }
   ]
 }

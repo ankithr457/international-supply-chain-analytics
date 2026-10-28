@@ -1,5 +1,4 @@
 warehouse,orders,blocked_orders,fill_rate,otif_rate
-Germany,285,24,0.7933,0.0947
-Hong Kong,315,34,0.7894,0.0889
-Taiwan,292,24,0.7818,0.0788
-Malaysia,308,24,0.7786,0.0942
+Germany,414,37,0.7958,0.0942
+Czech Republic,399,35,0.7942,0.0827
+India,387,27,0.7943,0.1059

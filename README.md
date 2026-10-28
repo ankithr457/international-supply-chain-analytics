@@ -1,9 +1,11 @@
 # International Supply Chain Analytics
 
-Order fulfillment analysis across four warehouse regions, with an exception register, regional scorecards and strict on-time-in-full measurement.
+Order fulfillment analysis across three warehouse regions, with an exception register, regional scorecards and strict on-time-in-full measurement.
 
 **Author:** Ankith Ramesh Babu  
 **Scope:** Independent case study using synthetic operational data
+
+**Locations:** Germany, Czech Republic and India
 
 [IEEE-format Report](reports/project-report.pdf) · [Power BI project](powerbi/SupplyChain.pbip) · [Methodology](docs/methodology.md)
 
@@ -11,7 +13,7 @@ Order fulfillment analysis across four warehouse regions, with an exception regi
 
 ## Key Results
 
-The baseline contains 1,200 orders: 106 blocked orders, 78.57% unit fill rate on unblocked demand, and 8.92% OTIF. The exception register contains 1,093 orders. Availability shortage appears on 753 orders, including 66 blocked orders, while 687 orders receive the primary status Stock shortage.
+The baseline contains 1,200 orders: 99 blocked orders, 79.48% unit fill rate on unblocked demand, and 9.42% OTIF. The exception register contains 1,087 orders. Availability shortage appears on 752 orders, including 55 blocked orders, while 697 orders receive the primary status Stock shortage.
 
 These results describe the simulation, not an employer operation or measured business savings.
 
