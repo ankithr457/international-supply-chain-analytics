@@ -11,11 +11,27 @@ Order fulfillment analysis across three warehouse regions, with an exception reg
 
 ![Dashboard overview](reports/figures/dashboard.png)
 
+## Start Here
+
+1. Read the [IEEE technical report](reports/project-report.pdf) for methods, results and screenshots.
+2. Download the repository and open `reports/dashboard.html` for the interactive demonstration.
+3. Read the [four-pass verification](docs/verification.md) and [independent numerical audit](reports/numerical_audit.json) for reproducible evidence.
+
 ## Key Results
 
 The baseline contains 1,200 orders: 99 blocked orders, 79.48% unit fill rate on unblocked demand, and 9.42% OTIF. The exception register contains 1,087 orders. Availability shortage appears on 752 orders, including 55 blocked orders, while 697 orders receive the primary status Stock shortage.
 
 These results describe the simulation, not an employer operation or measured business savings.
+
+### How to Interpret the Numbers
+
+| Measure | Calculation | Meaning |
+| --- | --- | --- |
+| Unit fill on released demand | 53,885 / 67,797 = 79.48% | Excludes blocked demand. |
+| Unit fill on all demand | 53,885 / 73,285 = 73.53% | Includes the effect of blocks. |
+| OTIF | 113 / 1,200 = 9.42% | Complete, unblocked and on-time orders only. |
+
+This is an exception-heavy stress scenario. Its distributions imply about 9.09% expected OTIF, so 9.42% is consistent with the generator. It is not a real company's delivery benchmark. Countries are analytical labels with identical generation rules. No operational savings or service improvement is measured.
 
 ## Project Deliverables
 
@@ -25,7 +41,9 @@ These results describe the simulation, not an employer operation or measured bus
 - [Power BI source](powerbi/README.md): two report pages, visual definitions, typed semantic model and embedded dataset.
 - [Scenario evidence](reports/analysis.json): alternate-seed results.
 - [Data dictionary](docs/data-dictionary.md): row definitions, column meanings and aggregation rules.
-- [Validation record](docs/validation.json): browser and source validation scope.
+- [Verification record](docs/verification.md): four audit passes, findings and remaining validation boundaries.
+- [SQL audit](sql/kpis.sql): independent KPI calculations from raw CSV fields.
+- [Robustness evidence](reports/robustness_check.json): invariant checks across 100 seeds.
 
 ## Reproduce the Analysis
 
@@ -36,6 +54,8 @@ git clone https://github.com/ankithr457/international-supply-chain-analytics.git
 cd international-supply-chain-analytics
 python src/run.py
 python scripts/analyze.py
+python scripts/build_powerbi.py
+python scripts/verify_project.py
 python -m unittest discover -s tests -v
 ```
 
@@ -63,7 +83,8 @@ python src/run.py --orders 2400 --seed 7 --output reports/scenario
 | --- | --- |
 | `src/` | Simulation, calculations, CSV and HTML generation |
 | `scripts/` | Scenario analysis, Power BI and PDF report authoring |
-| `tests/` | Business rules, edge cases, reproducibility and model checks |
+| `tests/` | Business rules, corruption detection, portable builds and model checks |
+| `sql/` | Independent KPI queries executed by the audit script |
 | `reports/` | Baseline outputs, IEEE-format report and dashboard screenshots |
 | `powerbi/` | PBIP, PBIR, semantic model and DAX measures |
 | `docs/` | Methodology and validation record |
@@ -72,7 +93,7 @@ python src/run.py --orders 2400 --seed 7 --output reports/scenario
 
 Inventory is a per-order snapshot rather than a shared stock ledger. Delivery delays and blocks are independently sampled. Unit fill excludes blocked demand, while OTIF uses all orders.
 
-The project does not connect to SAP or execute operational transactions. 
+The project does not connect to SAP or execute operational transactions.
 
 ## Build the Technical Report
 

@@ -1,0 +1,31 @@
+{
+  "method": "Independent SQLite KPI aggregation and raw-field recomputation; no imports from implementation",
+  "result": "passed",
+  "locations": [
+    "Czech Republic",
+    "Germany",
+    "India"
+  ],
+  "kpis": {
+    "orders": 1200,
+    "blocked_orders": 99,
+    "fill_rate": 0.7948,
+    "otif_rate": 0.0942,
+    "shortage_orders": 752
+  },
+  "evidence": {
+    "status": {
+      "Blocked": 99,
+      "Stock shortage": 697,
+      "On track": 113,
+      "Late": 291
+    },
+    "ordered_unblocked": 67797,
+    "fulfilled": 53885,
+    "otif_orders": 113,
+    "shortage_units": 15080,
+    "all_order_demand": 73285,
+    "all_demand_fill_rate": 0.7353,
+    "expected_otif_under_generator": 0.090883
+  }
+}

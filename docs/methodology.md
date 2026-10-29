@@ -12,3 +12,7 @@ Review blocked orders first for administrative release, then shortages for alloc
 
 ## Modeling Limitations
 The uniform delay distribution deliberately creates exceptions. The 9.42% default OTIF is a simulation output, not an industry benchmark. No sales values, cost savings or business impact are claimed. Inventory is not shared across orders. Simulated delay is not proof of an actual delivery.
+
+## Numerical Interpretation
+
+The default OTIF follows the generator: 91% unblocked probability, 26 of 71 stock offsets permitting full quantity, and 3 of 11 delay values on time. Their product is approximately 9.09%. The observed 9.42% is a stress-case outcome. Unit fill excludes blocked demand; all-demand fulfillment is 73.53%. Country groups share identical assumptions.
