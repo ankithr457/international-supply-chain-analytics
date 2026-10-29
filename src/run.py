@@ -1,10 +1,11 @@
 """Reproducible order fulfillment and exception analysis."""
 from pathlib import Path
 import random
-import csv
 import json
 import argparse
 from reporting import write_csv, dashboard
+
+PROJECT_KIND = "supply_chain"
 
 REGIONS = ("Germany", "Czech Republic", "India")
 

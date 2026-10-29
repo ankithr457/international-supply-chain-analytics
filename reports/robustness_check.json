@@ -1,0 +1,8 @@
+{
+  "seeds": 100,
+  "result": "passed",
+  "metric": "otif_rate",
+  "minimum": 0.0733,
+  "maximum": 0.115,
+  "mean": 0.089895
+}
